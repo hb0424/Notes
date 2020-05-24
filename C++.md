@@ -1,6 +1,13 @@
-# 线程安全
-## 线程安全的对象构造，
+# C++ Notes
+## 线程安全
+### 线程安全的对象构造，
 唯一的要求是在构造期间是在构造期间不要泄露this指针，即
 * 不要在构造函数中注册任何回调
 * 也不要在构造函数中把this传给跨线程的对象
 * 即使在构造函数的最后一行也不行
+### 线程安全的析构：智能指针
+* shared_ptr
+* weak_ptr
+* scoped_ptr
+* boost::noncopyable
+* boost::enable_shared_from_this
