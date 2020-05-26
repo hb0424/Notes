@@ -1,0 +1,5 @@
+# 零起点英语
+## Lesson141 A Happy Dream 原来是梦一场
+A Happy Dream
+    Once upon a time, there lived a beautiful young girl. She lived with her mother and father in a tiny house next to the river. Every morning when she woke up, she would walk down to the river to eat her breakfast. She would listen as the birds sang. Sometimes she thought they were singing to her.
+    One morning, during her walk to the river, she met a man. He was tall, thin and very kind. He smiled at her and said, "I will give you one wish if you give me a bite of your breakfast." The girl gave the man a piece of her bread and then she asked to meet a handsome prince and live happily ever after. As soon as she made her wish, the man turned into a gorgeous prince. The girl was so happy, but then she woke up and relized it was only a dream.
