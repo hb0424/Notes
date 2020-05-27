@@ -1,5 +1,8 @@
 # 零起点英语
 
+## lesson137 A Long Healthy Life
+    In the world, there are three places where people live a very long time. All the three places are hight mountains far away from modern cities. In these mountains, the air and water are clean, so few people get sick. Because people there work on their farms, they exercise almost every day, and it helps them develop healthy bodies. Their food is very different from city people's, too. They eat a lot of vegetables and fruit but little meat. Besides, the food is natural; it does not have any chemicals. Finally, these people do not have worries of city people. Their lives are quiet, happy, and much longer than city people's.
+
 ## lesson138 Exercise
     Many people today like to exercise. Some like to run, and others like to dance or play ball games. And some people do more than one kind of exercise. Why do people like to exercise? It makes them feel good. And exercise helps make them relaxed, so they sleep better at night.  
     Walking or running is very good exercise, and it's more fun if you don't go alone. Go with a friend. You also have to make sure you have the right shoes. There are many more kinds of exercise. Find one that you like. You may need help at first. But afterwards you'll know how wonderful it is to exercise.
