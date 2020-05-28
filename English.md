@@ -23,3 +23,7 @@
 ## Lesson143 At Home in the City
     Tom grew up in the city. Friends and family surrounded him. He enjoyed the constant excitement of living there. He could go out with his friends on the weekends and play baskeball whenever he felt like it. When he was fifteen, his father decided that moving to the country would be the best choice for the family. His father was tired of traffic, pollution and working nine to five.. He wanted to have a quiet life without all of the problems of living in the city. With this in mind, his father bought a farm and moved the family to a small town. Within days, Tom was trying to figure out how to get out of the town and back into the city. Country life was not what he wanted.
 
+## Lesson144 Flying Like Birds
+    People have always wanted to fly. They have hoped to be like birds. They have hoped to fly up into the sky. Long ago people thought that they would never be able to fly. But now people know how to fly. They fly in airplanes.  
+    In the 1980s, two men thought about making an airplane. They started by finding every book about flying. Then they did a lot of reading. At first they put down the books and started to work. They made the airplane in 1903. One of the men went up in it. It could fly!  
+    The first airplanes could not fly very high. They were slow, too. Birds could fly faster than them. But soon people found out how to make better airplanes. Today airplanes can fly high and fast.
