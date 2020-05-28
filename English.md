@@ -1,5 +1,8 @@
 # 零起点英语
 
+## lesson136 Fat Children
+    Every year, more chldren are getting fatter. Doctors believe this is because childre are bocoming lazy. Years ago, childre would run and play in parks and get a lot of exercise. After school, they would play sport and do things outside their houses. Some people believe that computers and video games are to blame for so many overweight childre. Instead of getting exercise, they are sitting in fromt of a computer and surfing the Internet or playing video games. Doctors believe parents shhould make sure their children eat healthy meals and get plenty of exercise. Parents should only let their childre use the computer one or two hours a day.
+
 ## lesson137 A Long Healthy Life
     In the world, there are three places where people live a very long time. All the three places are hight mountains far away from modern cities. In these mountains, the air and water are clean, so few people get sick. Because people there work on their farms, they exercise almost every day, and it helps them develop healthy bodies. Their food is very different from city people's, too. They eat a lot of vegetables and fruit but little meat. Besides, the food is natural; it does not have any chemicals. Finally, these people do not have worries of city people. Their lives are quiet, happy, and much longer than city people's.
 
