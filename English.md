@@ -1,5 +1,8 @@
 # 零起点英语
 
+## lesson135 Having a Baby
+    Robert and Linda have deicded to have a baby. They've been married for a few years and they are ready to start a family. Linda is nervous about it because she's afraid she may have to quit her job. She loves her job and the people she works with. Robert isn't worried because he knows that they will make great parents. Even though they don't have a lot of money, they feel that starting a family now would be better than if they wait until they are older. Robert is afraid he'll be too old to run and play with his children if they wait until they are older.
+
 ## lesson136 Fat Children
     Every year, more chldren are getting fatter. Doctors believe this is because childre are bocoming lazy. Years ago, childre would run and play in parks and get a lot of exercise. After school, they would play sport and do things outside their houses. Some people believe that computers and video games are to blame for so many overweight childre. Instead of getting exercise, they are sitting in fromt of a computer and surfing the Internet or playing video games. Doctors believe parents shhould make sure their children eat healthy meals and get plenty of exercise. Parents should only let their childre use the computer one or two hours a day.
 
