@@ -84,11 +84,11 @@ RUPERT: 是的。我同意。
 让我们研究一下 Belle Vie 该怎样开发新产品品种，和该怎样在两个市场中定位这些产品。  
 ###  1.3 vocabulary   
 > 1. I don't know why he always resists my suggestions. I think he just doesn't like me.  
-2. Karen is very sharp. It takes her no time at all to learn new skills.  
-3. I was so frustrated! I had to wait in line at the passport office for more than an hour, and then I realized that I didn't have my I.D.  
-4. He has a lot of responsibility. Heheads a group of 20 people.  
-5. Do you think that this initiative will help increase sales in the coming year?  
-6. It's not easy to be in charge of an entire company. There are so many people to think about.  
+> 2. Karen is very sharp. It takes her no time at all to learn new skills.  
+> 3. I was so frustrated! I had to wait in line at the passport office for more than an hour, and then I realized that I didn't have my I.D.  
+> 4. He has a lot of responsibility. Heheads a group of 20 people.  
+> 5. Do you think that this initiative will help increase sales in the coming year?  
+> 6. It's not easy to be in charge of an entire company. There are so many people to think about.  
 frustrated  
 resists  
 be in charge  
@@ -97,11 +97,11 @@ initiative
 heads  
 ###  1.4 vocabulary   
 > 1. The president feels that we should explore all of the proposals more fully before we make a decision.  
-2. Bill has an amazing mind. His vision for the development of the product line is really exciting.  
-3. One of the most important things in controlling costs on a project is having a very clear idea of its scope.  
-4. I didn't agree at first, but she was able to persuade me by the end of the meeting.  
-5. Even though we are ready to open the restaurant, we still need to get approval from the health department.  
-6. That company is positioning its products to appeal to a wide variety of consumers.  
+> 2. Bill has an amazing mind. His vision for the development of the product line is really exciting.  
+> 3. One of the most important things in controlling costs on a project is having a very clear idea of its scope.  
+> 4. I didn't agree at first, but she was able to persuade me by the end of the meeting.  
+> 5. Even though we are ready to open the restaurant, we still need to get approval from the health department.  
+> 6. That company is positioning its products to appeal to a wide variety of consumers.  
 positioning  
 vision  
 get approval  
@@ -172,11 +172,11 @@ BERNARD: 那么接下来，我想我们应该有所行动。
 聆听您的建议后，我才会做出最终决定。  
 ###  2.2 vocabulary   
 > 1. Chuck always does a thorough job. He finishes all of his projects and never misses a detail.  
-2. I must tell you that I'm a bit hesitant about applying for the job. I'm just not sure if I have the right skills.  
-3. The company's flagship product doesn't have the strong brand equity it once did. People don't think of it as a high-quality product anymore.  
-4. Learning a foreign language isn't easy but it 's worth doing.  
-5. I think we can leverage our leading position in the market to successfully introduce the new product.  
-6. This plan just isn't working. I think we need to scrap it and start again.  
+> 2. I must tell you that I'm a bit hesitant about applying for the job. I'm just not sure if I have the right skills.  
+> 3. The company's flagship product doesn't have the strong brand equity it once did. People don't think of it as a high-quality product anymore.  
+> 4. Learning a foreign language isn't easy but it 's worth doing.  
+> 5. I think we can leverage our leading position in the market to successfully introduce the new product.  
+> 6. This plan just isn't working. I think we need to scrap it and start again.  
 's worth doing  
 leverage  
 hesitant  
@@ -185,11 +185,11 @@ scrap
 thorough  
 ###  2.3 vocabulary   
 > 1. I assume that she'll come to the meeting even though I haven't heard back from her yet.  
-2. The country's currency continued to weaken last year. This year doesn't look any better.  
-3. I think it's only reasonable that I take my vacation next month. My manager's already gone on vacation twice this year.  
-4. In general, I'm very price-sensitive. If the price goes up too much, I look for another product.  
-5. We definitely need to improve the market identity of the product. People just don't think of it as being high-quality.  
-6. I'm still waiting for the green light on the project. If it doesn't come soon, we won't be able to finish on time.  
+> 2. The country's currency continued to weaken last year. This year doesn't look any better.  
+> 3. I think it's only reasonable that I take my vacation next month. My manager's already gone on vacation twice this year.  
+> 4. In general, I'm very price-sensitive. If the price goes up too much, I look for another product.  
+> 5. We definitely need to improve the market identity of the product. People just don't think of it as being high-quality.  
+> 6. I'm still waiting for the green light on the project. If it doesn't come soon, we won't be able to finish on time.  
 weaken  
 market identity  
 the green light  
@@ -303,11 +303,11 @@ JEAN-LUC: 好，我很高兴听到您的顾客依旧喜欢 Belle Vie 的产品。
 我们正在考虑引进一些与众不同香型，例如巧克力味和焦糖味...  
 ###  3.2 listening   
 > 1. I like this restaurant. We can get an appetizer, an entree, and dessert for a fixed price.  
-2. salmon is one of the most popular fish on the west coast of the United States. It tastes good and has an appealing color.  
-3. He usually drinks a cup of coffee in the morning.  
-4. Excuse me, waiter. I don't see anything I'd like to order on the menu. Are there any specials that you would recommend?  
-5. Can you please smoke outside? I'm allergic to cigarette smoke.  
-6. Fish is one of my favorite foods. I like to saute it in butter with onions and garlic.  
+> 2. salmon is one of the most popular fish on the west coast of the United States. It tastes good and has an appealing color.  
+> 3. He usually drinks a cup of coffee in the morning.  
+> 4. Excuse me, waiter. I don't see anything I'd like to order on the menu. Are there any specials that you would recommend?  
+> 5. Can you please smoke outside? I'm allergic to cigarette smoke.  
+> 6. Fish is one of my favorite foods. I like to saute it in butter with onions and garlic.  
 salmon  
 coffee  
 allergic  
@@ -316,11 +316,11 @@ entree
 saute  
 ###  3.3 listening   
 > 1. I think I'll have the blueberry pie for dessert.  
-2. We don't like to cook with garlic. The taste is too strong.  
-3. I should have some vegetables for lunch. I think I'll have a spinach salad.  
-4. Oh, thank you! strawberry pie is my favorite.  
-5. Would you care for dressing on your salad?  
-6. It's going to be a wonderful party--too good to pass up.  
+> 2. We don't like to cook with garlic. The taste is too strong.  
+> 3. I should have some vegetables for lunch. I think I'll have a spinach salad.  
+> 4. Oh, thank you! strawberry pie is my favorite.  
+> 5. Would you care for dressing on your salad?  
+> 6. It's going to be a wonderful party--too good to pass up.  
 pass up  
 dressing  
 pie  
@@ -406,10 +406,10 @@ SARAH: 好的，非常感谢，Jean-Luc。
 我希望下次能让我请客。s  
 ###  4.2 vocabulary   
 > 1. It's important to understand other people's cultures so you don't do anything to offend anyone.  
-2. There is no excuse for bad manners. I think that smoking while other people are eating is just plain rude.  
-3. I avoid flying whenever possible. It makes me very nervous.  
-4. We've told him the password a million times, but he just can't seem to remember it.  
-5. You shouldn't have asked her if she was on a diet. I think you embarrassed her.  
+> 2. There is no excuse for bad manners. I think that smoking while other people are eating is just plain rude.  
+> 3. I avoid flying whenever possible. It makes me very nervous.  
+> 4. We've told him the password a million times, but he just can't seem to remember it.  
+> 5. You shouldn't have asked her if she was on a diet. I think you embarrassed her.  
 a million times  
 bad manners  
 offend  
@@ -417,10 +417,10 @@ embarrassed
 avoid  
 ###  4.3 vocabulary   
 > 1. Do you think that your manager will allow you to take a vacation next month? It's a very busy time.  
-2. In this country, red roses represent love. I don't think you should give them to a client.  
-3. When you take Mr. Fujimoto to dinner tonight, don't let him pick up the tab. He's our guest, so we should pay.  
-4. You must come to the party. I insist. It just wouldn't be the same without you.  
-5. Would you like a sandwich? I'll treat you today since you paid for lunch last week.  
+> 2. In this country, red roses represent love. I don't think you should give them to a client.  
+> 3. When you take Mr. Fujimoto to dinner tonight, don't let him pick up the tab. He's our guest, so we should pay.  
+> 4. You must come to the party. I insist. It just wouldn't be the same without you.  
+> 5. Would you like a sandwich? I'll treat you today since you paid for lunch last week.  
 represent  
 insist  
 pick up the tab  
@@ -493,10 +493,10 @@ SOPHIE: 我同意你的观点，但是我们必须找到吸引年轻人消费群体的途径。
 如果我们能为比较年轻的女士创造新产品，我的员工一定能为使这些女士了解新产品而逐步制定出绝妙战略。  
 ###  5.2 vocabulary   
 > 1. He doesn't have very sophisticated tastes. He didn't even know what caviar is.  
-2. We need to protect our computer files, so be sure you make copies of everything.  
-3. How did they react when the chairman announced that he was resigning?  
-4. The company's media mix relies very heavily on television. It spends more than 90 percent of its advertising budget on television commercials.  
-5. brand loyalty is not something that comes overnight. It takes time to earn a customer's trust.  
+> 2. We need to protect our computer files, so be sure you make copies of everything.  
+> 3. How did they react when the chairman announced that he was resigning?  
+> 4. The company's media mix relies very heavily on television. It spends more than 90 percent of its advertising budget on television commercials.  
+> 5. brand loyalty is not something that comes overnight. It takes time to earn a customer's trust.  
 media mix  
 brand loyalty  
 protect  
@@ -504,11 +504,11 @@ sophisticated
 react  
 ###  5.3 vocabulary   
 > 1. The advertising business can be very aggressive. It's not a job for everyone.  
-2. The company has organized a retreat to deal with interdepartmental communication. All managers will spend a week together in Miami.  
-3. Do I need to follow up on that recommendation, or will you take care of it?  
-4. I received $100 to participate in a two-hour focus group last night. We sampled several different soft drinks and gave our opinions about them.  
-5. I had fun at the supermarket today. Three different companies were having in-store promotions and I was able to try lots of free samples.  
-6. My favorite TV spot shows a dog wearing sunglasses and driving a sports car.  
+> 2. The company has organized a retreat to deal with interdepartmental communication. All managers will spend a week together in Miami.  
+> 3. Do I need to follow up on that recommendation, or will you take care of it?  
+> 4. I received $100 to participate in a two-hour focus group last night. We sampled several different soft drinks and gave our opinions about them.  
+> 5. I had fun at the supermarket today. Three different companies were having in-store promotions and I was able to try lots of free samples.  
+> 6. My favorite TV spot shows a dog wearing sunglasses and driving a sports car.  
 retreat  
 aggressive  
 in-store promotions  
@@ -595,10 +595,10 @@ KENJI: 我也觉得这样比较合适。
 这样的话，我们将有充分的时间来写我们的报告。  
 ###  6.3 vocabulary   
 > 1. The company will stop production of several low-return items. Their focus is on increasing profits.  
-2. It's only two years old, but it's the company's most mature product. The next oldest is only six months old.  
-3. Do you think the workforce will continue to shrink this year? It decreased by 10 percent last year.  
-4. The company's flagship product, which consistently yields high returns, is responsible for the success of the business.  
-5. The sales department will cut back on travel in an attempt to save money.  
+> 2. It's only two years old, but it's the company's most mature product. The next oldest is only six months old.  
+> 3. Do you think the workforce will continue to shrink this year? It decreased by 10 percent last year.  
+> 4. The company's flagship product, which consistently yields high returns, is responsible for the success of the business.  
+> 5. The sales department will cut back on travel in an attempt to save money.  
 high returns  
 mature  
 cut back  
@@ -606,10 +606,10 @@ shrink
 low-return  
 ###  6.4 vocabulary   
 > 1. I wrote three more reports yesterday. at this rate, I'll be finished by the end of the week.  
-2. We contacted the supplier and were told that the insurance cost is $75 per shipment.  
-3. If we redirect our advertising toward a younger audience, I think we can increase sales.  
-4. What did your manager say about your recommendation? Did she like the plan?  
-5. I love my new job; however, the downside is that I'm working longer hours.  
+> 2. We contacted the supplier and were told that the insurance cost is $75 per shipment.  
+> 3. If we redirect our advertising toward a younger audience, I think we can increase sales.  
+> 4. What did your manager say about your recommendation? Did she like the plan?  
+> 5. I love my new job; however, the downside is that I'm working longer hours.  
 per  
 redirect  
 downside  
@@ -680,10 +680,10 @@ RUPERT: 我们相信这个种类很有可能会给 Belle Vie 带来高的回报。
 KENJI: 在我们总结我们的最后建议之前，请问各位有没有问题？  
 ###  7.2 vocabulary   
 > 1. That market is very fragmented. I think it will be difficult to create advertisements that appeal to all the different groups.  
-2. We'll have a better understanding of the problem after we finish the analysis of the data.  
-3. I haven't had time to read the report. Could you outline the main points for me?  
-4. We're not targeting the whole market, just the younger segment. We think that's where the potential growth is.  
-5. If the final report is favorable, we will begin construction next month.  
+> 2. We'll have a better understanding of the problem after we finish the analysis of the data.  
+> 3. I haven't had time to read the report. Could you outline the main points for me?  
+> 4. We're not targeting the whole market, just the younger segment. We think that's where the potential growth is.  
+> 5. If the final report is favorable, we will begin construction next month.  
 outline  
 segment  
 fragmented  
@@ -691,10 +691,10 @@ favorable
 analysis  
 ###  7.3 vocabulary   
 > 1. We licensed a series of articles from a magazine so we could put them on our Web site.  
-2. I'm not sure what category to put it in. Is it a product or a service?  
-3. She's an expert in the field. She has more than twenty years of experience.  
-4. Some large corporations like to acquire small companies that have new ideas or technologies.  
-5. Men have limited access to the health club. They can only go on Monday, Wednesday, and Friday.  
+> 2. I'm not sure what category to put it in. Is it a product or a service?  
+> 3. She's an expert in the field. She has more than twenty years of experience.  
+> 4. Some large corporations like to acquire small companies that have new ideas or technologies.  
+> 5. Men have limited access to the health club. They can only go on Monday, Wednesday, and Friday.  
 licensed  
 acquire  
 category  
@@ -761,10 +761,10 @@ KENJI: 当然可以。我们认为 Belle Vie 应该重点加强店内宣传，特别是在您们顾客购货的
 非常感谢你所花的时间，我们希望以后与 Belle Vie 合作。  
 ###  8.2 vocabulary   
 > 1. The current system is good, but I think we can refine it to make it even better.  
-2. It's important for us not to jeopardize our loyal customer base as we expand the company.  
-3. That product is a household name around the world. Everyone knows it.  
-4. She works for a top-tier company. It is considered to be one of the best in the industry.  
-5. The company was established more than 100 years ago.  
+> 2. It's important for us not to jeopardize our loyal customer base as we expand the company.  
+> 3. That product is a household name around the world. Everyone knows it.  
+> 4. She works for a top-tier company. It is considered to be one of the best in the industry.  
+> 5. The company was established more than 100 years ago.  
 jeopardize  
 refine  
 top-tier  
@@ -772,10 +772,10 @@ household name
 established  
 ###  8.3 vocabulary   
 > 1. The company has experienced steady growth for the past ten years.  
-2. We need to freshen up our image. I'm afraid people are getting bored with us.  
-3. The report emphasized the need for reducing expenses. The company is spending too much money.  
-4. Problems seem to come up at the worst times!  
-5. Did Paul cover the plans for next year in his presentation or did he only talk about the current situation?  
+> 2. We need to freshen up our image. I'm afraid people are getting bored with us.  
+> 3. The report emphasized the need for reducing expenses. The company is spending too much money.  
+> 4. Problems seem to come up at the worst times!  
+> 5. Did Paul cover the plans for next year in his presentation or did he only talk about the current situation?  
 come up  
 cover  
 freshen up  
@@ -844,10 +844,10 @@ RUPERT: 你好，Kenji。
 我们的航班几个小时后就要出发了。  
 ###  9.2 vocabulary   
 > 1. I was late for the meeting because I misplaced my car keys.  
-2. My briefcase is missing. Has anyone seen it?  
-3. You still haven't found your bag? Did you try to retrace your steps?  
-4. I'm really in a bind. Can you help me?  
-5. I can't believe anyone in the office would steal your sunglasses. Have you looked everywhere?  
+> 2. My briefcase is missing. Has anyone seen it?  
+> 3. You still haven't found your bag? Did you try to retrace your steps?  
+> 4. I'm really in a bind. Can you help me?  
+> 5. I can't believe anyone in the office would steal your sunglasses. Have you looked everywhere?  
 missing  
 in a bind  
 retrace your steps  
@@ -855,10 +855,10 @@ misplaced
 steal  
 ###  9.3 vocabulary   
 > 1. It's important to report crimes to the police.  
-2. Kate keeps her most valuable possessions in a safe.  
-3. Will the government reissue my passport if I'm living in another country?  
-4. I'm going on vacation for two weeks. Could you keep an eye on my cat?  
-5. Excuse me. I've lost my camera. Does the hotel have a lost and found?  
+> 2. Kate keeps her most valuable possessions in a safe.  
+> 3. Will the government reissue my passport if I'm living in another country?  
+> 4. I'm going on vacation for two weeks. Could you keep an eye on my cat?  
+> 5. Excuse me. I've lost my camera. Does the hotel have a lost and found?  
 possessions  
 keep an eye on  
 reissue  
@@ -939,10 +939,10 @@ ISABELLE: 我同意。
 让我们明天开会时把这些想法跟 Jean-Luc 和 Simone 讨论一下。  
 ###  10.2 vocabulary   
 > 1. Which computer system do you think the technology manager will opt for?  
-2. What do you think is the biggest obstacle standing in the way of our success?  
-3. You need to manage your time better. If you continue to spread yourself too thin, you could get sick.  
-4. Be careful how you present the proposal. If you make it seem too risky, you could be setting yourself up for failure.  
-5. I think we should forget about this idea. The CEO is completely opposed to it.  
+> 2. What do you think is the biggest obstacle standing in the way of our success?  
+> 3. You need to manage your time better. If you continue to spread yourself too thin, you could get sick.  
+> 4. Be careful how you present the proposal. If you make it seem too risky, you could be setting yourself up for failure.  
+> 5. I think we should forget about this idea. The CEO is completely opposed to it.  
 setting yourself up  
 opt  
 opposed  
@@ -950,10 +950,10 @@ spread yourself too thin
 obstacle  
 ###  10.3 vocabulary   
 > 1. the key to success is working harder, better, and smarter than your competitors.  
-2. We need to cancel the project now and cut our losses. We've already lost too much money.  
-3. I don't think we need to make any changes to our advertising. Retail sales patterns show that consumers are responding positively to our ads.  
-4. Despite the increase in the cost of supplies, we're going to stick with our regular supplier.  
-5. What do you think is the most cost-effective solution to our problem? We need to get the most for our money.  
+> 2. We need to cancel the project now and cut our losses. We've already lost too much money.  
+> 3. I don't think we need to make any changes to our advertising. Retail sales patterns show that consumers are responding positively to our ads.  
+> 4. Despite the increase in the cost of supplies, we're going to stick with our regular supplier.  
+> 5. What do you think is the most cost-effective solution to our problem? We need to get the most for our money.  
 cost-effective  
 patterns  
 the key  
@@ -1041,7 +1041,7 @@ The attached report contains the details of our offer. For your convenience, I w
 As you might expect, we would like a(n) (2) exclusive contract for eyewear--no other company should be licensed to make Belle Vie sunglasses.  
 We would like a contract period of at least three years, with an option to (3) renew the agreement for another three years after that. We feel that a long-term contract would benefit both companies.  
 You will find sketches and details of some initial designs on page 14 of the report. The look of the glasses is both (4) fashionable and sporty. That is, we have designed them to appeal to consumers who are stylish but also lead active lives.  
-Financial information is in section three of the report, beginning on page 22. In short, we are willing to pay 16 percent of sales as (5) royalties. In addition, we are asking you to contribute half of the total marketing costs. Of course, we will need to work closely together to sell the new line.  
+Financial information is in section three of the report, beginning on page 2> 2. In short, we are willing to pay 16 percent of sales as (5) royalties. In addition, we are asking you to contribute half of the total marketing costs. Of course, we will need to work closely together to sell the new line.  
 We think you will find this to be an attractive offer. Please don't hesitate to contact me if you have any questions. I (6) look forward to your reply.  
 Very truly yours,  
 Karel Huys  
