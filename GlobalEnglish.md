@@ -41,7 +41,7 @@
 # Global English
 ## Level 6
 ###  1.1 listening 
-> NARRATOR: Belle Vie, a perfume company based in Paris, has been having financial problems recently.
+> NARRATOR: Belle Vie, a perfume company based in Paris, has been having financial problems recently.  
 Sales of its flagship product, L'Amour, have been dropping.
 NARRATOR: The company has hired Global Solutions, a consulting firm based in Brussels, Belgium, to help make some changes.
 The consultants who are working on the case are Kenji Watanabe and Rupert Andrews.
