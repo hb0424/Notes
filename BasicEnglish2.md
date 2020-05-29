@@ -10,6 +10,7 @@
   - [Lesson142 Living through Books](#lesson142-living-through-books)
   - [Lesson143 At Home in the City](#lesson143-at-home-in-the-city)
   - [Lesson144 Flying Like Birds](#lesson144-flying-like-birds)
+  - [Lesson145 Pets Are Good](#lesson145-pets-are-good)
 
 # 零起点英语
 
@@ -50,3 +51,9 @@ One morning, during her walk to the river, she met a man. He was tall, thin and 
 > People have always wanted to fly. They have hoped to be like birds. They have hoped to fly up into the sky. Long ago people thought that they would never be able to fly. But now people know how to fly. They fly in airplanes.  
 In the 1980s, two men thought about making an airplane. They started by finding every book about flying. Then they did a lot of reading. At first they put down the books and started to work. They made the airplane in 1903. One of the men went up in it. It could fly!  
 The first airplanes could not fly very high. They were slow, too. Birds could fly faster than them. But soon people found out how to make better airplanes. Today airplanes can fly high and fast.
+
+
+## Lesson145 Pets Are Good
+> Americans love their pets. Every year, they spend about 25 billion dollars taking care of their pets. Cat and dogs are the most pupular pets(owned by 60% of American families) and are often treated as members of the family.  
+> But for many people, their pets are more than just their friends. Take dogs for example. They are used to help people who cannot see. They are also used to let those who cannot hear know when a telephone rings, someone is at the door, or a baby is crying.  
+> But even without special training, pets can make out life better. Studies show that people who live along, but have pets, are healthier and happier than those who don't have pets.
