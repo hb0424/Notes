@@ -42,8 +42,7 @@
 # Global English
 ## Level 6
 ###  1.1 listening 
-> 
-NARRATOR: Belle Vie, a perfume company based in Paris, has been having financial problems recently.
+> NARRATOR: Belle Vie, a perfume company based in Paris, has been having financial problems recently.
 
 Sales of its flagship product, L'Amour, have been dropping.
 
@@ -86,8 +85,7 @@ Belle Vie£¬Ò»¼ÒÔÚ°ÍÀèµÄÏãË®¹«Ë¾£¬×î½ü³öÏÖÁË²ÆÎñÎÊÌâ¡£
 Îª½â¾öÕâÖÖ·ÖÆç£¬Kenji ºÍ Rupert ½«»á×öÐ©Ê²Ã´£¿
 
 ###  1.2 listening 
-> 
-NARRATOR: Kenji and Rupert are discussing the information they've gathered at Belle Vie.
+> NARRATOR: Kenji and Rupert are discussing the information they've gathered at Belle Vie.
 
 What will they do next?
 
@@ -204,8 +202,7 @@ RUPERT: ÊÇµÄ¡£ÎÒÍ¬Òâ¡£
 ÈÃÎÒÃÇÑÐ¾¿Ò»ÏÂ Belle Vie ¸ÃÔõÑù¿ª·¢ÐÂ²úÆ·Æ·ÖÖ£¬ºÍ¸ÃÔõÑùÔÚÁ½¸öÊÐ³¡ÖÐ¶¨Î»ÕâÐ©²úÆ·¡£
 
 ###  1.3 vocabulary 
-> 
-1. I don't know why he always resists my suggestions. I think he just doesn't like me.
+> 1. I don't know why he always resists my suggestions. I think he just doesn't like me.
 2. Karen is very sharp. It takes her no time at all to learn new skills.
 3. I was so frustrated! I had to wait in line at the passport office for more than an hour, and then I realized that I didn't have my I.D.
 4. He has a lot of responsibility. Heheads a group of 20 people.
@@ -219,8 +216,7 @@ initiative
 heads
 
 ###  1.4 vocabulary 
-> 
-1. The president feels that we should explore all of the proposals more fully before we make a decision.
+> 1. The president feels that we should explore all of the proposals more fully before we make a decision.
 2. Bill has an amazing mind. His vision for the development of the product line is really exciting.
 3. One of the most important things in controlling costs on a project is having a very clear idea of its scope.
 4. I didn't agree at first, but she was able to persuade me by the end of the meeting.
@@ -233,8 +229,7 @@ persuade
 explore
 
 ###  2.1 listening 
-> 
-NARRATOR: Kenji and Rupert have agreed that they must expand the scope of their research.
+> NARRATOR: Kenji and Rupert have agreed that they must expand the scope of their research.
 
 Now watch as they meet with Bernard and discuss new directions for Belle Vie.
 
@@ -361,8 +356,7 @@ BERNARD: ÄÇÃ´½ÓÏÂÀ´£¬ÎÒÏëÎÒÃÇÓ¦¸ÃÓÐËùÐÐ¶¯¡£
 ñöÌýÄúµÄ½¨Òéºó£¬ÎÒ²Å»á×ö³ö×îÖÕ¾ö¶¨¡£
 
 ###  2.2 vocabulary 
-> 
-1. Chuck always does a thorough job. He finishes all of his projects and never misses a detail.
+> 1. Chuck always does a thorough job. He finishes all of his projects and never misses a detail.
 2. I must tell you that I'm a bit hesitant about applying for the job. I'm just not sure if I have the right skills.
 3. The company's flagship product doesn't have the strong brand equity it once did. People don't think of it as a high-quality product anymore.
 4. Learning a foreign language isn't easy but it 's worth doing.
@@ -377,8 +371,7 @@ thorough
 
 
 ###  2.3 vocabulary 
-> 
-1. I assume that she'll come to the meeting even though I haven't heard back from her yet.
+> 1. I assume that she'll come to the meeting even though I haven't heard back from her yet.
 2. The country's currency continued to weaken last year. This year doesn't look any better.
 3. I think it's only reasonable that I take my vacation next month. My manager's already gone on vacation twice this year.
 4. In general, I'm very price-sensitive. If the price goes up too much, I look for another product.
@@ -392,8 +385,7 @@ price-sensitive
 reasonable
 
 ###  3.1 listening 
-> 
-NARRATOR: Bernard has agreed to support Kenji and Rupert as they do further research.
+> NARRATOR: Bernard has agreed to support Kenji and Rupert as they do further research.
 
 Now, join Jean-Luc Dubois, VP of Marketing, as he meets with Sarah Brown, one of Belle Vie's clients.
 
@@ -604,8 +596,7 @@ JEAN-LUC: ºÃ£¬ÎÒºÜ¸ßÐËÌýµ½ÄúµÄ¹Ë¿ÍÒÀ¾ÉÏ²»¶ Belle Vie µÄ²úÆ·¡£
 ÎÒÃÇÕýÔÚ¿¼ÂÇÒý½øÒ»Ð©ÓëÖÚ²»Í¬ÏãÐÍ£¬ÀýÈçÇÉ¿ËÁ¦Î¶ºÍ½¹ÌÇÎ¶...
 
 ###  3.2 listening 
-> 
-1. I like this restaurant. We can get an appetizer, an entree, and dessert for a fixed price.
+> 1. I like this restaurant. We can get an appetizer, an entree, and dessert for a fixed price.
 2. salmon is one of the most popular fish on the west coast of the United States. It tastes good and has an appealing color.
 3. He usually drinks a cup of coffee in the morning.
 4. Excuse me, waiter. I don't see anything I'd like to order on the menu. Are there any specials that you would recommend?
@@ -619,8 +610,7 @@ entree
 saute
 
 ###  3.3 listening 
-> 
-1. I think I'll have the blueberry pie for dessert.
+> 1. I think I'll have the blueberry pie for dessert.
 2. We don't like to cook with garlic. The taste is too strong.
 3. I should have some vegetables for lunch. I think I'll have a spinach salad.
 4. Oh, thank you! strawberry pie is my favorite.
@@ -634,8 +624,7 @@ garlic
 spinach
 
 ###  4.1 listening 
-> 
-NARRATOR: Jean-Luc Dubois is eating dinner with one of his customers, Sarah Brown.
+> NARRATOR: Jean-Luc Dubois is eating dinner with one of his customers, Sarah Brown.
 
 Sarah is a senior fragrance buyer at a department store in New York.
 
@@ -790,8 +779,7 @@ SARAH: ºÃµÄ£¬·Ç³£¸ÐÐ»£¬Jean-Luc¡£
 ÎÒÏ£ÍûÏÂ´ÎÄÜÈÃÎÒÇë¿Í¡£s
 
 ###  4.2 vocabulary 
-> 
-1. It's important to understand other people's cultures so you don't do anything to offend anyone.
+> 1. It's important to understand other people's cultures so you don't do anything to offend anyone.
 2. There is no excuse for bad manners. I think that smoking while other people are eating is just plain rude.
 3. I avoid flying whenever possible. It makes me very nervous.
 4. We've told him the password a million times, but he just can't seem to remember it.
@@ -803,8 +791,7 @@ embarrassed
 avoid
 
 ###  4.3 vocabulary 
-> 
-1. Do you think that your manager will allow you to take a vacation next month? It's a very busy time.
+> 1. Do you think that your manager will allow you to take a vacation next month? It's a very busy time.
 2. In this country, red roses represent love. I don't think you should give them to a client.
 3. When you take Mr. Fujimoto to dinner tonight, don't let him pick up the tab. He's our guest, so we should pay.
 4. You must come to the party. I insist. It just wouldn't be the same without you.
@@ -816,8 +803,7 @@ treat
 allow
 
 ###  5.1 listening 
-> 
-NARRATOR: Jean-Luc Dubois met with Sarah Brown in New York City.
+> NARRATOR: Jean-Luc Dubois met with Sarah Brown in New York City.
 
 Sarah confirmed that customers are still loyal to Belle Vie.
 
@@ -948,8 +934,7 @@ SOPHIE: ÎÒÍ¬ÒâÄãµÄ¹Ûµã£¬µ«ÊÇÎÒÃÇ±ØÐëÕÒµ½ÎüÒýÄêÇáÈËÏû·ÑÈºÌåµÄÍ¾¾¶¡£
 Èç¹ûÎÒÃÇÄÜÎª±È½ÏÄêÇáµÄÅ®Ê¿´´ÔìÐÂ²úÆ·£¬ÎÒµÄÔ±¹¤Ò»¶¨ÄÜÎªÊ¹ÕâÐ©Å®Ê¿ÁË½âÐÂ²úÆ·¶øÖð²½ÖÆ¶¨³ö¾øÃîÕ½ÂÔ¡£
 
 ###  5.2 vocabulary 
-> 
-1. He doesn't have very sophisticated tastes. He didn't even know what caviar is.
+> 1. He doesn't have very sophisticated tastes. He didn't even know what caviar is.
 2. We need to protect our computer files, so be sure you make copies of everything.
 3. How did they react when the chairman announced that he was resigning?
 4. The company's media mix relies very heavily on television. It spends more than 90 percent of its advertising budget on television commercials.
@@ -962,8 +947,7 @@ react
 
 
 ###  5.3 vocabulary 
-> 
-1. The advertising business can be very aggressive. It's not a job for everyone.
+> 1. The advertising business can be very aggressive. It's not a job for everyone.
 2. The company has organized a retreat to deal with interdepartmental communication. All managers will spend a week together in Miami.
 3. Do I need to follow up on that recommendation, or will you take care of it?
 4. I received $100 to participate in a two-hour focus group last night. We sampled several different soft drinks and gave our opinions about them.
@@ -978,8 +962,7 @@ TV spot
 
 
 ###  6.1 listening 
-> 
-NARRATOR: Previously, Kenji Watanabe and Rupert Andrews talked with the management team at Belle Vie about the company's options.
+> NARRATOR: Previously, Kenji Watanabe and Rupert Andrews talked with the management team at Belle Vie about the company's options.
 
 NARRATOR: Isabelle Rollette, Simone Buttet, and Jean-Luc Dubois agree that Belle Vie should develop a young women's fragrance and diversify its accessories line.
 
@@ -1002,8 +985,7 @@ Kenji ºÍ Rupert ÏëÀ©´óËûÃÇµÄ¿¼²ì·¶Î§£¬ÒòÎªËûÃÇÈÏÎª¹«Ë¾ÓÐÄÜÁ¦³¢ÊÔ ËùÓÐÈýÖÖ¿ÉÄÜµÄÑ
 Kenji ºÍ Rupert ÒÑÍê³ÉÁËËûÃÇµÄ¿¼²ì£¬ÏÖÔÚÕý×¼±¸¸ø Bernard¡¢Isabelle¡¢ Simone¡¢ºÍ Jean-Luc ×÷»ã±¨¡£Äú¾õµÃËûÃÇ»á¶Ô Belle Vie ÌáÊ²Ã´ÑùµÄ½¨Òé£¿
 
 ###  6.2 listening 
-> 
-NARRATOR: Kenji and Rupert have finished their research and are now planning their presentation to Bernard, Isabelle, Simone, and Jean-Luc.
+> NARRATOR: Kenji and Rupert have finished their research and are now planning their presentation to Bernard, Isabelle, Simone, and Jean-Luc.
 
 What do you think they will suggest to Belle Vie?
 
@@ -1138,8 +1120,7 @@ KENJI: ÎÒÒ²¾õµÃÕâÑù±È½ÏºÏÊÊ¡£
 ÕâÑùµÄ»°£¬ÎÒÃÇ½«ÓÐ³ä·ÖµÄÊ±¼äÀ´Ð´ÎÒÃÇµÄ±¨¸æ¡£
 
 ###  6.3 vocabulary 
-> 
-1. The company will stop production of several low-return items. Their focus is on increasing profits.
+> 1. The company will stop production of several low-return items. Their focus is on increasing profits.
 2. It's only two years old, but it's the company's most mature product. The next oldest is only six months old.
 3. Do you think the workforce will continue to shrink this year? It decreased by 10 percent last year.
 4. The company's flagship product, which consistently yields high returns, is responsible for the success of the business.
@@ -1151,8 +1132,7 @@ shrink
 low-return
 
 ###  6.4 vocabulary 
-> 
-1. I wrote three more reports yesterday. at this rate, I'll be finished by the end of the week.
+> 1. I wrote three more reports yesterday. at this rate, I'll be finished by the end of the week.
 2. We contacted the supplier and were told that the insurance cost is $75 per shipment.
 3. If we redirect our advertising toward a younger audience, I think we can increase sales.
 4. What did your manager say about your recommendation? Did she like the plan?
@@ -1166,8 +1146,7 @@ recommendation
 
 
 ###  7.1 listening 
-> 
-NARRATOR: In the previous scene, consultants Kenji Watanabe and Rupert Andrews prepared their presentation on Belle Vie's options.
+> NARRATOR: In the previous scene, consultants Kenji Watanabe and Rupert Andrews prepared their presentation on Belle Vie's options.
 
 Now they will give their presentation to the senior management at Belle Vie.
 
@@ -1295,8 +1274,7 @@ KENJI: ÔÚÎÒÃÇ×Ü½áÎÒÃÇµÄ×îºó½¨ÒéÖ®Ç°£¬ÇëÎÊ¸÷Î»ÓÐÃ»ÓÐÎÊÌâ£¿
 
 
 ###  7.2 vocabulary 
-> 
-1. That market is very fragmented. I think it will be difficult to create advertisements that appeal to all the different groups.
+> 1. That market is very fragmented. I think it will be difficult to create advertisements that appeal to all the different groups.
 2. We'll have a better understanding of the problem after we finish the analysis of the data.
 3. I haven't had time to read the report. Could you outline the main points for me?
 4. We're not targeting the whole market, just the younger segment. We think that's where the potential growth is.
@@ -1308,8 +1286,7 @@ favorable
 analysis
 
 ###  7.3 vocabulary 
-> 
-1. We licensed a series of articles from a magazine so we could put them on our Web site.
+> 1. We licensed a series of articles from a magazine so we could put them on our Web site.
 2. I'm not sure what category to put it in. Is it a product or a service?
 3. She's an expert in the field. She has more than twenty years of experience.
 4. Some large corporations like to acquire small companies that have new ideas or technologies.
@@ -1322,8 +1299,7 @@ expert
 
 
 ###  8.1 listening 
-> 
-NARRATOR: Kenji Watanabe and Rupert Andrews have presented their analysis of Belle Vie's options.
+> NARRATOR: Kenji Watanabe and Rupert Andrews have presented their analysis of Belle Vie's options.
 
 Now they are making recommendations to the Belle Vie executives.
 
@@ -1443,8 +1419,7 @@ KENJI: µ±È»¿ÉÒÔ¡£ÎÒÃÇÈÏÎª Belle Vie Ó¦¸ÃÖØµã¼ÓÇ¿µêÄÚÐû´«£¬ÌØ±ðÊÇÔÚÄúÃÇ¹Ë¿Í¹º»õµÄ
 
 
 ###  8.2 vocabulary 
-> 
-1. The current system is good, but I think we can refine it to make it even better.
+> 1. The current system is good, but I think we can refine it to make it even better.
 2. It's important for us not to jeopardize our loyal customer base as we expand the company.
 3. That product is a household name around the world. Everyone knows it.
 4. She works for a top-tier company. It is considered to be one of the best in the industry.
@@ -1456,8 +1431,7 @@ household name
 established
 
 ###  8.3 vocabulary 
-> 
-1. The company has experienced steady growth for the past ten years.
+> 1. The company has experienced steady growth for the past ten years.
 2. We need to freshen up our image. I'm afraid people are getting bored with us.
 3. The report emphasized the need for reducing expenses. The company is spending too much money.
 4. Problems seem to come up at the worst times!
@@ -1470,8 +1444,7 @@ steady
 
 
 ###  9.1 listening 
-> 
-NARRATOR: Watch as Kenji calls the concierge to ask for advice about his missing briefcase.
+> NARRATOR: Watch as Kenji calls the concierge to ask for advice about his missing briefcase.
 
 KENJI: Yes, the concierge's desk, please.
 
@@ -1594,8 +1567,7 @@ RUPERT: ÄãºÃ£¬Kenji¡£
 ÎÒÃÇµÄº½°à¼¸¸öÐ¡Ê±ºó¾ÍÒª³ö·¢ÁË¡£
 
 ###  9.2 vocabulary 
-> 
-1. I was late for the meeting because I misplaced my car keys.
+> 1. I was late for the meeting because I misplaced my car keys.
 2. My briefcase is missing. Has anyone seen it?
 3. You still haven't found your bag? Did you try to retrace your steps?
 4. I'm really in a bind. Can you help me?
@@ -1607,8 +1579,7 @@ misplaced
 steal
 
 ###  9.3 vocabulary 
-> 
-1. It's important to report crimes to the police.
+> 1. It's important to report crimes to the police.
 2. Kate keeps her most valuable possessions in a safe.
 3. Will the government reissue my passport if I'm living in another country?
 4. I'm going on vacation for two weeks. Could you keep an eye on my cat?
@@ -1621,8 +1592,7 @@ report
 
 
 ###  10.1 listening 
-> 
-NARRATOR: Previously, Rupert Andrews and Kenji Watanabe presented their recommendations to the executives at Belle Vie.
+> NARRATOR: Previously, Rupert Andrews and Kenji Watanabe presented their recommendations to the executives at Belle Vie.
 
 Isabelle Rollette and Bernard Valence are discussing the options¡ªcreating a young women's fragrance, a men's fragrance, or a new accessories line.
 
@@ -1769,8 +1739,7 @@ ISABELLE: ÎÒÍ¬Òâ¡£
 ÈÃÎÒÃÇÃ÷Ìì¿ª»áÊ±°ÑÕâÐ©Ïë·¨¸ú Jean-Luc ºÍ Simone ÌÖÂÛÒ»ÏÂ¡£
 
 ###  10.2 vocabulary 
-> 
-1. Which computer system do you think the technology manager will opt for?
+> 1. Which computer system do you think the technology manager will opt for?
 2. What do you think is the biggest obstacle standing in the way of our success?
 3. You need to manage your time better. If you continue to spread yourself too thin, you could get sick.
 4. Be careful how you present the proposal. If you make it seem too risky, you could be setting yourself up for failure.
@@ -1783,8 +1752,7 @@ obstacle
 
 
 ###  10.3 vocabulary 
-> 
-1. the key to success is working harder, better, and smarter than your competitors.
+> 1. the key to success is working harder, better, and smarter than your competitors.
 2. We need to cancel the project now and cut our losses. We've already lost too much money.
 3. I don't think we need to make any changes to our advertising. Retail sales patterns show that consumers are responding positively to our ads.
 4. Despite the increase in the cost of supplies, we're going to stick with our regular supplier.
@@ -1797,8 +1765,7 @@ stick with
 
 
 ###  11.1 listening 
-> 
-NARRATOR: Previously, the executives at Belle Vie reached a decision to diversify their line of accessories.
+> NARRATOR: Previously, the executives at Belle Vie reached a decision to diversify their line of accessories.
 
 Two months later, Bernard Valence and Isabelle Rollette of Belle Vie are meeting with Nikos Manolas of Naxos Optical, a Greek sunglasses manufacturer.
 
@@ -1942,8 +1909,7 @@ NIKOS: ÎÒÃ÷°×ÁË¡£ ÎÒÃÇ¿ÉÒÔÍ¬ÒâÕâÃ´°ì¡£
 
 
 ###  11.3 vocabulary 
-> 
-Isabelle Rollette, CFO
+> Isabelle Rollette, CFO
 Belle Vie
 87 rue de la Croix
 75343 Paris, France
@@ -1991,8 +1957,7 @@ Chief Financial Officer
 
 
 ###  12.1 listening 
-> 
-NARRATOR: Belle Vie recently launched a new perfume and a line of sunglasses.
+> NARRATOR: Belle Vie recently launched a new perfume and a line of sunglasses.
 
 Now, a large group of Belle Vie employees has come together at the Grand Parc Hotel for Bernard's 50th birthday party.
 
@@ -2104,8 +2069,7 @@ Naxos Optical ½«Éú²úÒ»Ì×ÐÂµÄ Belle Vie Ì«ÑôÑÛ¾µÏµÁÐ¡£
 
 
 ###  12.4 vocabulary 
-> 
-Bernard's 50th Birthday
+> Bernard's 50th Birthday
 The party was a big success and a lot of fun! It was a very (1) festive event. There was (2) applause after every speech. The clapping was so loud that it was sometimes difficult to hear. Thanks again, Bernard, for your (3) leadership. You've done an excellent job of guiding us for more than a (4) decade. Let's hope for another ten years of success!
 
 Message from the CEO
@@ -2119,8 +2083,7 @@ If you see Jean-Luc, be sure to (10) congratulate him and his wife on the birth 
 
 
 ###  13.2 listening 
-> 
-NARRATOR: Two friends, Anna and Michele, are meeting at an outdoor cafe in Paris.
+> NARRATOR: Two friends, Anna and Michele, are meeting at an outdoor cafe in Paris.
 
 Michele is French.
 
@@ -2297,8 +2260,7 @@ MICHELE: ÎÒÏëÎÒ»áµÄ¡£
 
 
 ###  13.7 vocabulary 
-> 
-Greetings Michele,
+> Greetings Michele,
 
 I'm so happy that I've (1) relocated to Paris. I was so bored in Manchester. I really like my new apartment building here because it's so international. My neighbors come from all over the world! Speaking of my new building, I have an embarrassing story to tell you.
 
