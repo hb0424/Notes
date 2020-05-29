@@ -1,8 +1,21 @@
+- [零起点英语](#零起点英语)
+  - [lesson134 No More Big Families](#lesson134-no-more-big-families)
+  - [lesson135 Having a Baby](#lesson135-having-a-baby)
+  - [lesson136 Fat Children](#lesson136-fat-children)
+  - [lesson137 A Long Healthy Life](#lesson137-a-long-healthy-life)
+  - [lesson138 Exercise](#lesson138-exercise)
+  - [Lesson139 A Late Night Call](#lesson139-a-late-night-call)
+  - [lesson 140 Career or Marriage?](#lesson-140-career-or-marriage)
+  - [Lesson141 A Happy Dream](#lesson141-a-happy-dream)
+  - [Lesson142 Living through Books](#lesson142-living-through-books)
+  - [Lesson143 At Home in the City](#lesson143-at-home-in-the-city)
+  - [Lesson144 Flying Like Birds](#lesson144-flying-like-birds)
+
 # 零起点英语
 
 ## lesson134 No More Big Families
 > Many young people today have only one brother or sister, or they are an only child without brothers or sisters. However, if you talked with your grandfather or grandmother, you would learn that they probably had several brothers and sisters. Your parents probably had just one or two brothers or sisters. What is happening?  
-    Today, many young married couples are choosing not to have any children. In fact, many people are not marrying at all. This change in family size is happening all around the world. Countries are even beginning to see a drop in population because of it. Some people say couples are having fewer childre because raising a child today is more difficult and expensive than ever before. Others say that people are paying more attention to their work than to their families. In the future, perhaps having children will become unusual.
+Today, many young married couples are choosing not to have any children. In fact, many people are not marrying at all. This change in family size is happening all around the world. Countries are even beginning to see a drop in population because of it. Some people say couples are having fewer childre because raising a child today is more difficult and expensive than ever before. Others say that people are paying more attention to their work than to their families. In the future, perhaps having children will become unusual.
 
 ## lesson135 Having a Baby
 > Robert and Linda have deicded to have a baby. They've been married for a few years and they are ready to start a family. Linda is nervous about it because she's afraid she may have to quit her job. She loves her job and the people she works with. Robert isn't worried because he knows that they will make great parents. Even though they don't have a lot of money, they feel that starting a family now would be better than if they wait until they are older. Robert is afraid he'll be too old to run and play with his children if they wait until they are older.
@@ -15,7 +28,7 @@
 
 ## lesson138 Exercise
 > Many people today like to exercise. Some like to run, and others like to dance or play ball games. And some people do more than one kind of exercise. Why do people like to exercise? It makes them feel good. And exercise helps make them relaxed, so they sleep better at night.  
-    Walking or running is very good exercise, and it's more fun if you don't go alone. Go with a friend. You also have to make sure you have the right shoes. There are many more kinds of exercise. Find one that you like. You may need help at first. But afterwards you'll know how wonderful it is to exercise.
+Walking or running is very good exercise, and it's more fun if you don't go alone. Go with a friend. You also have to make sure you have the right shoes. There are many more kinds of exercise. Find one that you like. You may need help at first. But afterwards you'll know how wonderful it is to exercise.
     
 ## Lesson139 A Late Night Call
 > Last night, my brother phoned me at a quarter to midnight. I was really tired, and all I really wanted to do was hang up and tell him to call me in the morning. He just continued to talk and told me he had a good piece of news for me. "I just met the most wonderful girl in the world," he said. "I'm going to ask her to marry me." When he said this, I sat up in the bed. I couldn't believe it. How could this happen? He couldn'tget married first. It wasn't fair. "How long have you known this girl?" He was quiet for moment and then he said, "I just net her two hours ago. She's perfect." Upon hearing that, I closed my eyes, knowing that he must have drunk too much beer.
@@ -25,7 +38,7 @@
 
 ## Lesson141 A Happy Dream
 > Once upon a time, there lived a beautiful young girl. She lived with her mother and father in a tiny house next to the river. Every morning when she woke up, she would walk down to the river to eat her breakfast. She would listen as the birds sang. Sometimes she thought they were singing to her.  
-    One morning, during her walk to the river, she met a man. He was tall, thin and very kind. He smiled at her and said, "I will give you one wish if you give me a bite of your breakfast." The girl gave the man a piece of her bread and then she asked to meet a handsome prince and live happily ever after. As soon as she made her wish, the man turned into a gorgeous prince. The girl was so happy, but then she woke up and relized it was only a dream.  
+One morning, during her walk to the river, she met a man. He was tall, thin and very kind. He smiled at her and said, "I will give you one wish if you give me a bite of your breakfast." The girl gave the man a piece of her bread and then she asked to meet a handsome prince and live happily ever after. As soon as she made her wish, the man turned into a gorgeous prince. The girl was so happy, but then she woke up and relized it was only a dream.  
 
 ## Lesson142 Living through Books
 > Marla enjoys reading all types of books. When she's reading, she can escape into a different world. She can become a mountain climber, a pilot flying high in the sky or a famous actress. Books allow her to do things that she can't do in her normal life. Marla has been in a wheelchair since she was five years old. She was injured in an accident and hasn't been able to walk ever since. Books give her legs to walk with and see a world that she can't experience firsthand. Marla wants to become a writer one day. She hopes that she can be as good a writer as many of her favorite authors.
@@ -35,5 +48,5 @@
 
 ## Lesson144 Flying Like Birds
 > People have always wanted to fly. They have hoped to be like birds. They have hoped to fly up into the sky. Long ago people thought that they would never be able to fly. But now people know how to fly. They fly in airplanes.  
-> In the 1980s, two men thought about making an airplane. They started by finding every book about flying. Then they did a lot of reading. At first they put down the books and started to work. They made the airplane in 1903. One of the men went up in it. It could fly!  
-    The first airplanes could not fly very high. They were slow, too. Birds could fly faster than them. But soon people found out how to make better airplanes. Today airplanes can fly high and fast.
+In the 1980s, two men thought about making an airplane. They started by finding every book about flying. Then they did a lot of reading. At first they put down the books and started to work. They made the airplane in 1903. One of the men went up in it. It could fly!  
+The first airplanes could not fly very high. They were slow, too. Birds could fly faster than them. But soon people found out how to make better airplanes. Today airplanes can fly high and fast.
