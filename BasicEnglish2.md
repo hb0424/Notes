@@ -30,7 +30,7 @@ Today, many young married couples are choosing not to have any children. In fact
 ## lesson138 Exercise
 > Many people today like to exercise. Some like to run, and others like to dance or play ball games. And some people do more than one kind of exercise. Why do people like to exercise? It makes them feel good. And exercise helps make them relaxed, so they sleep better at night.  
 Walking or running is very good exercise, and it's more fun if you don't go alone. Go with a friend. You also have to make sure you have the right shoes. There are many more kinds of exercise. Find one that you like. You may need help at first. But afterwards you'll know how wonderful it is to exercise.
-    
+
 ## Lesson139 A Late Night Call
 > Last night, my brother phoned me at a quarter to midnight. I was really tired, and all I really wanted to do was hang up and tell him to call me in the morning. He just continued to talk and told me he had a good piece of news for me. "I just met the most wonderful girl in the world," he said. "I'm going to ask her to marry me." When he said this, I sat up in the bed. I couldn't believe it. How could this happen? He couldn'tget married first. It wasn't fair. "How long have you known this girl?" He was quiet for moment and then he said, "I just net her two hours ago. She's perfect." Upon hearing that, I closed my eyes, knowing that he must have drunk too much beer.
 
