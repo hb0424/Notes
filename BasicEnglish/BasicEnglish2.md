@@ -11,6 +11,7 @@
   - [Lesson143 At Home in the City](#lesson143-at-home-in-the-city)
   - [Lesson144 Flying Like Birds](#lesson144-flying-like-birds)
   - [Lesson145 Pets Are Good](#lesson145-pets-are-good)
+  - [Lesson146 Plans for the Summer](#lesson146-plans-for-the-summer)
 
 # 零起点英语
 
@@ -57,3 +58,10 @@ The first airplanes could not fly very high. They were slow, too. Birds could fl
 > Americans love their pets. Every year, they spend about 25 billion dollars taking care of their pets. Cat and dogs are the most pupular pets(owned by 60% of American families) and are often treated as members of the family.  
 > But for many people, their pets are more than just their friends. Take dogs for example. They are used to help people who cannot see. They are also used to let those who cannot hear know when a telephone rings, someone is at the door, or a baby is crying.  
 > But even without special training, pets can make out life better. Studies show that people who live along, but have pets, are healthier and happier than those who don't have pets.
+
+## Lesson146 Plans for the Summer
+> This is the last month of school before summer vacation begins. I am so happy about that. As soon as my exams are over, I can do whatever I want to do for two whole months. It would be great to sleep late, watch TV, and hang out with my friends. However, I think this summer will be different. I would like to get a part-time job. With a part-time job, I could earn money and save toward my first trip overseas. I will go overseas with my family once I graduate from high school. On that trip, I plan to look at universities in the U.S. and Canada. Maybe I can even speak to some of the professors. I will be more than ready to study abroad when the time comes. Getting a job this summer will be a learning experience. It will look good on my resume once I start applying to universities.
+
+
+
+- [零起点英语](#零起点英语)
