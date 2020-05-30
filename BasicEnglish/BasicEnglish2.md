@@ -1,4 +1,4 @@
-- [零起点英语](#零起点英语)
+- [零起点英语 2](#零起点英语-2)
   - [lesson134 No More Big Families](#lesson134-no-more-big-families)
   - [lesson135 Having a Baby](#lesson135-having-a-baby)
   - [lesson136 Fat Children](#lesson136-fat-children)
@@ -12,8 +12,9 @@
   - [Lesson144 Flying Like Birds](#lesson144-flying-like-birds)
   - [Lesson145 Pets Are Good](#lesson145-pets-are-good)
   - [Lesson146 Plans for the Summer](#lesson146-plans-for-the-summer)
+  - [Lesson147 Home at Last](#lesson147-home-at-last)
 
-# 零起点英语
+# 零起点英语 2
 
 ## lesson134 No More Big Families
 > Many young people today have only one brother or sister, or they are an only child without brothers or sisters. However, if you talked with your grandfather or grandmother, you would learn that they probably had several brothers and sisters. Your parents probably had just one or two brothers or sisters. What is happening?  
@@ -53,7 +54,6 @@ One morning, during her walk to the river, she met a man. He was tall, thin and 
 In the 1980s, two men thought about making an airplane. They started by finding every book about flying. Then they did a lot of reading. At first they put down the books and started to work. They made the airplane in 1903. One of the men went up in it. It could fly!  
 The first airplanes could not fly very high. They were slow, too. Birds could fly faster than them. But soon people found out how to make better airplanes. Today airplanes can fly high and fast.
 
-
 ## Lesson145 Pets Are Good
 > Americans love their pets. Every year, they spend about 25 billion dollars taking care of their pets. Cat and dogs are the most pupular pets(owned by 60% of American families) and are often treated as members of the family.  
 > But for many people, their pets are more than just their friends. Take dogs for example. They are used to help people who cannot see. They are also used to let those who cannot hear know when a telephone rings, someone is at the door, or a baby is crying.  
@@ -62,6 +62,6 @@ The first airplanes could not fly very high. They were slow, too. Birds could fl
 ## Lesson146 Plans for the Summer
 > This is the last month of school before summer vacation begins. I am so happy about that. As soon as my exams are over, I can do whatever I want to do for two whole months. It would be great to sleep late, watch TV, and hang out with my friends. However, I think this summer will be different. I would like to get a part-time job. With a part-time job, I could earn money and save toward my first trip overseas. I will go overseas with my family once I graduate from high school. On that trip, I plan to look at universities in the U.S. and Canada. Maybe I can even speak to some of the professors. I will be more than ready to study abroad when the time comes. Getting a job this summer will be a learning experience. It will look good on my resume once I start applying to universities.
 
-
-
-- [零起点英语](#零起点英语)
+## Lesson147 Home at Last
+> Amy's father use to be a bruck dirver. He would driver this large truck across the country every week to deliver things from one place to another. Sometimes he was on the road for weeks. She missed him and would always pray that he would get another job so he didn't have to travel so much. When she was a child, she hardly ever saw him. He was only home on the weekends, and when he was home, all he wanted to do was sleep and relax.  
+> One day, when Amy was ten years old, her father came home to stay. "I miss you and your mother too much to be away anymore," he said. It was the happiest day of her life and she felt as if her prayers had been answered.
