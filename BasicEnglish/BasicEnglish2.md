@@ -1,4 +1,5 @@
 - [零起点英语 2](#零起点英语-2)
+  - [Lesson131 Australia Is worth Visiting](#lesson131-australia-is-worth-visiting)
   - [Lesson132 Life-saving Cell Phones](#lesson132-life-saving-cell-phones)
   - [Lesson133 Be Careful, Motorists](#lesson133-be-careful-motorists)
   - [lesson134 No More Big Families](#lesson134-no-more-big-families)
@@ -20,6 +21,11 @@
   - [Lesson150 Becoming a Doctor](#lesson150-becoming-a-doctor)
 
 # 零起点英语 2
+
+## Lesson131 Australia Is worth Visiting
+> Some people consider Australia the world's largest island, but others call it the world's smallest continent. No matter how you look at it, thought, Australia is a very pecial place.
+> Australians live  mostly in the country's five or six largest cities. Not very many people live in the countryside. One reason for this is that, like in other countries, it is easier to find good schools and jobs in cities than in the countryside. Another reason may be that parts of Australiaa are difficult to live in. Most of the country is desert and some of it is even tropical jungle. Therefore, most of Australia's citizens prefer living in big cities near the ocean.
+> Australia offers many natural wonders. Special animals like koalas and kangaroos are pupular with tourists. Australia has someting for everyone, so it's a grate place to visit!
 
 ## Lesson132 Life-saving Cell Phones
 > I think my cell phone is the most important invention in my life. I did not think it would save a life, but I was wrong. Last week, I was leaving a convenience store when I heard a loud noise. I looked up as a bus driver stepped on his brakes. Untortunately, the bus had been speeding, and it hit a dog that was in the middle of the street. The dog yelped one time before it fell down. People looked up to see what had happened, but no one tried to help the poor dog. I took my cell phone out of my backpack. I dialed 110 as quickly as I could. I told the police what had happened. and they sent a vet to the rescue. Luckily, the dog's lift was saved. Cell phones truly are life-saving inventions.
