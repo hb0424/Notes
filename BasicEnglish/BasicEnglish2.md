@@ -15,6 +15,8 @@
   - [Lesson146 Plans for the Summer](#lesson146-plans-for-the-summer)
   - [Lesson147 Home at Last](#lesson147-home-at-last)
   - [Lesson148 Taking Her Time](#lesson148-taking-her-time)
+  - [Lesson149 A Second Chance](#lesson149-a-second-chance)
+  - [Lesson150 Becoming a Doctor](#lesson150-becoming-a-doctor)
 
 # 零起点英语 2
 
@@ -74,3 +76,9 @@ The first airplanes could not fly very high. They were slow, too. Birds could fl
 
 ## Lesson148 Taking Her Time
 > Every morning, Maria wakes up at half past six. She hops into the shower, washes her hair and then get dressed while she waits for it to dry. Afer she is dressed, she goes into her kitchen and prepares her breakfast. She always has the same things: one scrambled egg, a piece of cheese and an apple. After she finishes eating, she goes back into her bathroom and puts on her makeup. This usually take her about half an hour. By the time she is finished getting ready, it is almost eight o'click. Most perple can get ready in ten or fifteen minutes, but Maria likes to take her time.
+
+## Lesson149 A Second Chance
+> My sister got married yeaterday for the second time. The first time she got married, she was only nineteen years old. My parents didn't like the idea then and tried to talk her out of it. She thought she knew best, but in the end, she got a divorce after two years. She's twenty-six now and she felt that she was ready to get married again. All of us were a bit worried at first, until we found out that her new husband happens to be her old husband. She said she nerver stoped loving him, and they were both older and wiser. Hopefully, it will all work out. I'm keeping my fingers crossed.
+
+## Lesson150 Becoming a Doctor
+> After college, I plan to go to medical school. I've always been interested in studying medicine. My love for it began when I was just a child. My father is a physician and I used to go to his office every evening after school. My father was very kind to his patients. He would sit down with them and talk about their lives. He knew the names of their children. He was like a part of their family. My father was always ready to help people out when they had an emergency. One time a woman had a baby right in his office. I was there on that day, and it was then that i make up my mind to become a doctor.
