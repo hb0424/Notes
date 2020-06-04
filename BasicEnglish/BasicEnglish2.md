@@ -14,6 +14,7 @@
   - [Lesson145 Pets Are Good](#lesson145-pets-are-good)
   - [Lesson146 Plans for the Summer](#lesson146-plans-for-the-summer)
   - [Lesson147 Home at Last](#lesson147-home-at-last)
+  - [Lesson148 Taking Her Time](#lesson148-taking-her-time)
 
 # 零起点英语 2
 
@@ -70,3 +71,6 @@ The first airplanes could not fly very high. They were slow, too. Birds could fl
 ## Lesson147 Home at Last
 > Amy's father use to be a bruck dirver. He would driver this large truck across the country every week to deliver things from one place to another. Sometimes he was on the road for weeks. She missed him and would always pray that he would get another job so he didn't have to travel so much. When she was a child, she hardly ever saw him. He was only home on the weekends, and when he was home, all he wanted to do was sleep and relax.  
 > One day, when Amy was ten years old, her father came home to stay. "I miss you and your mother too much to be away anymore," he said. It was the happiest day of her life and she felt as if her prayers had been answered.
+
+## Lesson148 Taking Her Time
+> Every morning, Maria wakes up at half past six. She hops into the shower, washes her hair and then get dressed while she waits for it to dry. Afer she is dressed, she goes into her kitchen and prepares her breakfast. She always has the same things: one scrambled egg, a piece of cheese and an apple. After she finishes eating, she goes back into her bathroom and puts on her makeup. This usually take her about half an hour. By the time she is finished getting ready, it is almost eight o'click. Most perple can get ready in ten or fifteen minutes, but Maria likes to take her time.
