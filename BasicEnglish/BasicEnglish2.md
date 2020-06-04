@@ -1,4 +1,5 @@
 - [零起点英语 2](#零起点英语-2)
+  - [Lesson132 Life-saving Cell Phones](#lesson132-life-saving-cell-phones)
   - [Lesson133 Be Careful, Motorists](#lesson133-be-careful-motorists)
   - [lesson134 No More Big Families](#lesson134-no-more-big-families)
   - [lesson135 Having a Baby](#lesson135-having-a-baby)
@@ -19,6 +20,9 @@
   - [Lesson150 Becoming a Doctor](#lesson150-becoming-a-doctor)
 
 # 零起点英语 2
+
+## Lesson132 Life-saving Cell Phones
+> I think my cell phone is the most important invention in my life. I did not think it would save a life, but I was wrong. Last week, I was leaving a convenience store when I heard a loud noise. I looked up as a bus driver stepped on his brakes. Untortunately, the bus had been speeding, and it hit a dog that was in the middle of the street. The dog yelped one time before it fell down. People looked up to see what had happened, but no one tried to help the poor dog. I took my cell phone out of my backpack. I dialed 110 as quickly as I could. I told the police what had happened. and they sent a vet to the rescue. Luckily, the dog's lift was saved. Cell phones truly are life-saving inventions.
 
 ## Lesson133 Be Careful, Motorists
 > We're supposed to look both ways before crossing a street, even when the light is green. Every person knows this, but monkeys don't. In Hong Kong, a member of a group of monkeys ran out onto a road and was hit by a 45-year-old female motorist. The woman did not stop to assist the injured monkey. The other monkeys in the group somehow stoped traffic and helped pull the hurt monkey to the side of the road. Sadly, however, the monkey later died of injuries.  
