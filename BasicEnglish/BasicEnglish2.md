@@ -1,4 +1,5 @@
 - [零起点英语 2](#零起点英语-2)
+  - [Lesson128 Wrong Love for Birds](#lesson128-wrong-love-for-birds)
   - [Lesson129 Nothing in Common](#lesson129-nothing-in-common)
   - [Lesson130 Recycling](#lesson130-recycling)
   - [Lesson131 Australia Is worth Visiting](#lesson131-australia-is-worth-visiting)
@@ -23,6 +24,10 @@
   - [Lesson150 Becoming a Doctor](#lesson150-becoming-a-doctor)
 
 # 零起点英语 2
+
+## Lesson128 Wrong Love for Birds
+> It was an unusually cold winter. Sarah felt sorry for the birds in her neighborhood because it was difficult for them to find food. Every day Sarah put out some birdseed and bread for the birds to eat. More and more birds would come to Sarah's home lookng for food.
+> By spring there were hundreds of birds waiting for food each morning in front of Sarah's house. However, her neighbors were getting increasingly unhappy about the noisy and dirty birds. Sarah had tried to make the birds happy, but she made her heighbors unhappy insted. Then Sarah realized that spring brought new, natural food for the birds. They didn't need her help anymore, so Sarah stopped feeding them. The birds returned to the woods, and Sarah and her neighbors returned to their normal lives.
 
 ## Lesson129 Nothing in Common
 > Thinking of things to do with my friends takes no effort at all. However, when it comes to doing things with my girlfriend. it is difficult to decide what to do. She and I have very different interests. For example, I like to play sports and go to the movies. She likes to go to night clubs and KTVs. We have been seeing each other for a few months now, but I am not sure how long this will last. It is important for a couple to have something in common if they are to stay together for a long time. I love my girlfriend very much, but I do not share her interests, nor does she enjoy doing what I do. If I asked her to play basketball with me at the part, she would not go. We shou find time to talk about our differences. Maybe we should end our relationship.
