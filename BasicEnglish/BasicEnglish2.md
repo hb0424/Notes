@@ -1,4 +1,5 @@
 - [零起点英语 2](#零起点英语-2)
+  - [Lesson129 Nothing in Common](#lesson129-nothing-in-common)
   - [Lesson130 Recycling](#lesson130-recycling)
   - [Lesson131 Australia Is worth Visiting](#lesson131-australia-is-worth-visiting)
   - [Lesson132 Life-saving Cell Phones](#lesson132-life-saving-cell-phones)
@@ -23,12 +24,15 @@
 
 # 零起点英语 2
 
+## Lesson129 Nothing in Common
+> Thinking of things to do with my friends takes no effort at all. However, when it comes to doing things with my girlfriend. it is difficult to decide what to do. She and I have very different interests. For example, I like to play sports and go to the movies. She likes to go to night clubs and KTVs. We have been seeing each other for a few months now, but I am not sure how long this will last. It is important for a couple to have something in common if they are to stay together for a long time. I love my girlfriend very much, but I do not share her interests, nor does she enjoy doing what I do. If I asked her to play basketball with me at the part, she would not go. We shou find time to talk about our differences. Maybe we should end our relationship.
+
 ## Lesson130 Recycling
 > Recycling cans, bottles, paper, and plastic helps the environment. Many years ago, people just threw out their garbage and did not recycle. This hure the environment a great deal. Nowadays, people sort their garbage. They put cans, bottles, paper and plastic in different containers. Once the containers are full, they will be taken to special places where they can be made into different products. An old piece of paper can then be turned into a newpager or magazne, A glass bottle that was once used to hold water can be used to make windows or other things. In the long run, recyling saves money and helps the enviroment at the same time.
 
 ## Lesson131 Australia Is worth Visiting
-> Some people consider Australia the world's largest island, but others call it the world's smallest continent. No matter how you look at it, thought, Australia is a very pecial place.
-> Australians live  mostly in the country's five or six largest cities. Not very many people live in the countryside. One reason for this is that, like in other countries, it is easier to find good schools and jobs in cities than in the countryside. Another reason may be that parts of Australiaa are difficult to live in. Most of the country is desert and some of it is even tropical jungle. Therefore, most of Australia's citizens prefer living in big cities near the ocean.
+> Some people consider Australia the world's largest island, but others call it the world's smallest continent. No matter how you look at it, thought, Australia is a very special place.
+> Australians live mostly in the country's five or six largest cities. Not very many people live in the countryside. One reason for this is that, like in other countries, it is easier to find good schools and jobs in cities than in the countryside. Another reason may be that parts of Australiaa are difficult to live in. Most of the country is desert and some of it is even tropical jungle. Therefore, most of Australia's citizens prefer living in big cities near the ocean.
 > Australia offers many natural wonders. Special animals like koalas and kangaroos are pupular with tourists. Australia has someting for everyone, so it's a grate place to visit!
 
 ## Lesson132 Life-saving Cell Phones
