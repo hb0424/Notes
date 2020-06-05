@@ -1,4 +1,5 @@
 - [零起点英语 2](#零起点英语-2)
+  - [Lesson130 Recycling](#lesson130-recycling)
   - [Lesson131 Australia Is worth Visiting](#lesson131-australia-is-worth-visiting)
   - [Lesson132 Life-saving Cell Phones](#lesson132-life-saving-cell-phones)
   - [Lesson133 Be Careful, Motorists](#lesson133-be-careful-motorists)
@@ -21,6 +22,9 @@
   - [Lesson150 Becoming a Doctor](#lesson150-becoming-a-doctor)
 
 # 零起点英语 2
+
+## Lesson130 Recycling
+> Recycling cans, bottles, paper, and plastic helps the environment. Many years ago, people just threw out their garbage and did not recycle. This hure the environment a great deal. Nowadays, people sort their garbage. They put cans, bottles, paper and plastic in different containers. Once the containers are full, they will be taken to special places where they can be made into different products. An old piece of paper can then be turned into a newpager or magazne, A glass bottle that was once used to hold water can be used to make windows or other things. In the long run, recyling saves money and helps the enviroment at the same time.
 
 ## Lesson131 Australia Is worth Visiting
 > Some people consider Australia the world's largest island, but others call it the world's smallest continent. No matter how you look at it, thought, Australia is a very pecial place.
