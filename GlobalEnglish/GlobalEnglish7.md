@@ -7,6 +7,8 @@
     - [2.2 vocabulary](#22-vocabulary)
     - [3.1 listening](#31-listening)
     - [3.2 vocabulary](#32-vocabulary)
+    - [4.1 listening](#41-listening)
+    - [4.2 vocabulary](#42-vocabulary)
 # Global English  
 ## Level 7  
 ### 1.1 listening  
@@ -188,7 +190,7 @@ catch up
 7. Accelerated English wants its software to be so familiar to people that 
 name recognition
  alone will sell its products.  
- ### 3.1 listening  
+### 3.1 listening  
 > NARRATOR: Carmen Gomez is presenting two strategic options to Mike Davis.  
 CARMEN: Now that I understand more about Accelerated English and its market, I have two suggestions to present to you.  
 I think they both have merit, so you'll need to decide which one is best for you and the company.  
@@ -286,4 +288,83 @@ option
  with higher earning potential.
 7. Your suggestion has 
 merit
- and it might work, but I want to examine some other options before I make a final decision.
+ and it might work, but I want to examine some other options before I make a final decision.  
+ ### 4.1 listening  
+ > NARRATOR: Mike Davis tells Carmen Gomez that he doesn't want to sell Accelerated English. How does Carmen respond?  
+MIKE: I must thank you for coming by on such short notice.  
+I didn't want to wait any longer than absolutely necessary.  
+CARMEN: Oh, you don't need to thank me.  
+I have to be available to my clients.  
+So tell me what's on your mind.  
+MIKE: Well, I've thought about the two business strategy options we discussed the other day.  
+I prefer raising new capital  
+and re-focusing the business instead of selling the company.  
+CARMEN: That's certainly a viable option.  
+Have you had a chance to speak with your sister and cousin yet?  
+You'll have to reach a consensus before you present your ideas to the Board of Directors.  
+MIKE: Yes, we all need to agree.  
+My cousin has been out of town, but my sister and I plan to meet with him tomorrow.  
+In any case, I strongly believe that remaining independent is a better alternative in the long run.  
+CARMEN: Perhaps, but you realize there are many risks involved in restructuring the company and entering new markets.  
+For instance, you'll need to change the company's focus while still maintaining your core businesses.  
+You might run the risk of losing some of your good customers.  
+Also, taking in significant new money means you'll have to be accountable to the bank.  
+MIKE: Yes, I know, but Accelerated's got to survive as an independent company, not as a subsidiary of a larger company.  
+I've done a lot to build the business since my parents first started it,  
+and the employees are counting on me to maintain a good workplace and culture.  
+I can't disappoint them.  
+There could be layoffs and consolidation with a new owner.  
+CARMEN: Well, I certainly understand why you feel that way.  
+You don't have to convince me that this is the best option, but you do need to convince the others.  
+MIKE: Oh, I'll convince them, all right.  
+I have no choice.  
+This is much too important.  
+解说员：Mike Davis 告诉 Carmen Gomez 他不想出售 Accelerated English。Carmen 如何回应？  
+MIKE: 对您能如此迅速地赶来，我必须表示感谢。  
+除非绝对必要，否则我不想等。  
+CARMEN: 您不必感谢我。  
+我得随时和客户见面。  
+请告诉我您的想法。  
+MIKE: 好的，我已经考虑了那天我们讨论过的两个有关商业策略的建议。  
+我倾向于筹集新资金。  
+并且重新调整业务重心，而不是要卖掉公司。  
+CARMEN: 那的确是个可行的建议。  
+您同您的姐姐和堂兄谈过了吗？  
+在将观点提交董事会之前，你们必须得达成一致意见。  
+MIKE: 是的，我们都必须同意。  
+我的堂兄出城去了，但我和我姐姐打算明天和他会面。  
+无论如何，我都坚决认为，从长远来看，保持公司独立是一个较好的选择。  
+CARMEN: 但是您也许意识到在重组公司并进入新市场的过程中会遭遇许多风险。  
+例如，您在维持公司的核心经营的同时，还将必须改变公司的重点。  
+您也许会为此冒风险，而失去一些非常好的客户。  
+同时，贷款一大笔资金就意味着您将必须对银行负责。  
+MIKE: 是的，我知道，但是 Accelerated 必须作为一个独立的公司生存下去，而不是某个大公司的子公司。  
+自从我的父母开创这家公司以来，我为建设公司付出了很大的精力。  
+并且雇员们还指望我维持一个良好的工作场所和企业文化。  
+我不能让他们失望。  
+新业主可能会裁员和重组公司。  
+CARMEN: 我非常理解您的想法。  
+您不必说服我相信这是最佳的选择，但您需要说服其他人。  
+MIKE: 噢，我会去说服他们的。  
+我别无选择。  
+这一点非常重要。
+### 4.2 vocabulary
+1. Keith works at Chronex, the Greek subsidiary of a large British company.
+2. We need some viable ideas if we are going to solve these problems.
+3. The weak economy caused thousands of layoffs.
+4. If you don't have good tools, you run the risk of making low-quality products.
+5. A lack of funding is our core problem.
+6. These decisions should help the company in the long run. As a result, we will be in a better situation 10 years from now.
+7. It's difficult to reach a consensus because everyone has different opinions.
+8. You can count on Lee to make a good presentation.	
+subsidiary  
+1. How can we reach a consensus when our team members are always arguing?
+2. If we are unable to get any new contracts in the next few months, the company runs the risk of
+ losing capital.
+3. Because profits were down, we might have to decrease our staff. I think we're going to have some 
+layoffs this quarter.
+4. His plan to double sales in one year doesn't sound viable to me.
+5. She was unhappy to be transferred to her company's subsidiary in a different country. She wanted to stay at the main office.
+6. Mike isn't interested in a quick solution for Accelerated English. Instead, he wants a strategy that will help the company in the long run.
+7. Mike knows that Global Solutions has an excellent reputation and that he can count on Carmen to do a good job.
+8. Accelerated English is thinking about expanding its core business into some secondary markets.
