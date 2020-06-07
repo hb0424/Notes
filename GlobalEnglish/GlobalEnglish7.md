@@ -1,10 +1,15 @@
 - [Global English](#global-english)
   - [Level 7](#level-7)
     - [1.1 listening](#11-listening)
+    - [1.2 vocabulary](#12-vocabulary)
+  
+ - [1.1 listening](#11-listening)
+  
+ - [1.2 vocabulary](#12-vocabulary)
 
 # Global English  
 ## Level 7  
-###   1.1 listening  
+### 1.1 listening  
 > NARRATOR: Mike Davis and his sister Anita are talking about their company. What's going on at Accelerated English?  
 > MIKE: Come in, Anita!Am I glad to see you.  
 > We have big problems.  
@@ -72,3 +77,10 @@ ANITA 我也深有同感。
 我们应该及早采取措施。  
 MIKE 没错。我们要重点找出解决方法。  
 那样也许能让我睡好一点儿。
+
+### 1.2 vocabulary  
+> from Accelerated English, the premier multimedia language company in the United States  
+Accelerated English has won several awards for software language training.  
+Until now, you may have studied English at a college or language school. Perhaps you have traveled a long distance or taken classes at an inconvenient time of day. Perhaps you have felt overwhelmed by the pressure to learn English quickly. With RealEnglish, you now have the flexibility to learn real, practical English when you want, at home or at the office. Unlike any other product currently on the market, RealEnglish is a unique, high-powered course that requires only a limited amount of time to complete. Inside this package you'll find: Multimedia lessons. Eighty engaging lessons will hold your attention. These lessons include listening, reading, writing, and speaking activities.  
+Conversation videos. These 80 videos of everyday dialogues can be played again slowly to improve your understanding.Grammar and vocabulary games. These enjoyable games help you to review new grammar and vocabulary. You can play them at any time.  
+Join the thousands of students who have become great speakers of English!  
