@@ -52,16 +52,16 @@ She thinks it would be safer to expand and diversify the women's fragrance and a
 NARRATOR: Simone Buttet, Vice President of Research and Development, and Jean-Luc Dubois, Vice President of Marketing, agree with Isabelle.  
 They don't understand why Bernard won't support their ideas.  
 NARRATOR: What will Kenji and Rupert do to help solve this disagreement?  
-Belle Vie£¬Ò»¼ÒÔÚ°ÍÀèµÄÏãË®¹«Ë¾£¬×î½ü³öÏÖÁË²ÆÎñÎÊÌâ¡£  
-ËüµÄÆì½¢²úÆ· - L'Amour µÄÏúÊÛÁ¿ÕýÔÚÏÂ»¬¡£  
-Õâ¼Ò¹«Ë¾ÒÑ¾­¹ÍÇë Global Solutions£¬Ò»¼ÒÔÚ±ÈÀûÊ±²¼Â³Èû¶ûµÄ×ÉÑ¯¹«Ë¾£¬À´°ïÖú½øÐÐÒ»Ð©¸Ä¸ï¡£  
-ÕýÔÚ´ÓÊÂÕâÏî¹¤×÷µÄ¹ËÎÊÊÇ Kenji Watanabe ºÍ Rupert Andrews¡£  
-¾¡¹Ü Belle Vie Ò»Ö±Éú²úÅ®ÓÃÏãË®£¬×Ü²Ã (CEO) Bernard Valence ÔÚ¼Æ»®ÍÆ³öÒ»ÖÖÐÂµÄÄÐÓÃÏãË®¡£  
-²ÆÎñ³¤(CFO) Isabelle Rollette ÈÏÎªÎªÒ»ÈºÍêÈ«²»Í¬µÄÏû·ÑÕß¿ª·¢Ò»ÖÖÐÂµÄ²úÆ·ÖÖÀà½«»áÃ°·çÏÕ¡£  
-ËýÈÏÎªÀ©Õ¹ºÍÊ¹Å®ÓÃÏãË®Æ·ÖÖºÍ×°ÊÎÆ·ÖÖÀà¶àÑù»¯»á±È½Ï±£ÏÕ¡£  
-ÑÐ·¢²¿¸±×Ü²Ã Simone Buttet£¬ÓëÓªÏú²¿¸±×Ü²Ã Jean-Luc Dubois ÔÞÍ¬ Isabelle µÄÒâ¼û¡£  
-ËûÃÇ²»Ã÷°× Bernard ÎªÊ²Ã´²»Ö§³ÖËûÃÇµÄÏë·¨¡£  
-Îª½â¾öÕâÖÖ·ÖÆç£¬Kenji ºÍ Rupert ½«»á×öÐ©Ê²Ã´£¿  
+Belle Vieï¼Œä¸€å®¶åœ¨å·´é»Žçš„é¦™æ°´å…¬å¸ï¼Œæœ€è¿‘å‡ºçŽ°äº†è´¢åŠ¡é—®é¢˜ã€‚  
+å®ƒçš„æ——èˆ°äº§å“ - L'Amour çš„é”€å”®é‡æ­£åœ¨ä¸‹æ»‘ã€‚  
+è¿™å®¶å…¬å¸å·²ç»é›‡è¯· Global Solutionsï¼Œä¸€å®¶åœ¨æ¯”åˆ©æ—¶å¸ƒé²å¡žå°”çš„å’¨è¯¢å…¬å¸ï¼Œæ¥å¸®åŠ©è¿›è¡Œä¸€äº›æ”¹é©ã€‚  
+æ­£åœ¨ä»Žäº‹è¿™é¡¹å·¥ä½œçš„é¡¾é—®æ˜¯ Kenji Watanabe å’Œ Rupert Andrewsã€‚  
+å°½ç®¡ Belle Vie ä¸€ç›´ç”Ÿäº§å¥³ç”¨é¦™æ°´ï¼Œæ€»è£ (CEO) Bernard Valence åœ¨è®¡åˆ’æŽ¨å‡ºä¸€ç§æ–°çš„ç”·ç”¨é¦™æ°´ã€‚  
+è´¢åŠ¡é•¿(CFO) Isabelle Rollette è®¤ä¸ºä¸ºä¸€ç¾¤å®Œå…¨ä¸åŒçš„æ¶ˆè´¹è€…å¼€å‘ä¸€ç§æ–°çš„äº§å“ç§ç±»å°†ä¼šå†’é£Žé™©ã€‚  
+å¥¹è®¤ä¸ºæ‰©å±•å’Œä½¿å¥³ç”¨é¦™æ°´å“ç§å’Œè£…é¥°å“ç§ç±»å¤šæ ·åŒ–ä¼šæ¯”è¾ƒä¿é™©ã€‚  
+ç ”å‘éƒ¨å‰¯æ€»è£ Simone Buttetï¼Œä¸Žè¥é”€éƒ¨å‰¯æ€»è£ Jean-Luc Dubois èµžåŒ Isabelle çš„æ„è§ã€‚  
+ä»–ä»¬ä¸æ˜Žç™½ Bernard ä¸ºä»€ä¹ˆä¸æ”¯æŒä»–ä»¬çš„æƒ³æ³•ã€‚  
+ä¸ºè§£å†³è¿™ç§åˆ†æ­§ï¼ŒKenji å’Œ Rupert å°†ä¼šåšäº›ä»€ä¹ˆï¼Ÿ  
 ###  1.2 listening   
 > NARRATOR: Kenji and Rupert are discussing the information they've gathered at Belle Vie.  
 What will they do next?  
@@ -92,35 +92,35 @@ We need to persuade Bernard to consider several ideas.
 RUPERT: Yes. I agree.  
 So, to conclude, we should get his approval to expand the scope of our work.  
 Let's explore how Belle Vie might develop new product lines and position them for both markets.  
-NARRATOR: Kenji ºÍ Rupert ÕýÔÚÌÖÂÛËûÃÇÊÕ¼¯µ½ºÍ Belle Vie ÓÐ¹ØµÄ×ÊÁÏ¡£  
-½ÓÏÂÀ´ËûÃÇ»áÔõÃ´×ö£¿  
-KENJI: Òò´Ë£¬¼ÈÈ»ÎÒÃÇÌ¸µ½ÁË Belle Vie µÄ¹ÜÀí°à×Ó£¬ÈÃÎÒÃÇä¯ÀÀÒ»ÏÂÊÕ¼¯µ½µÄÐÅÏ¢¡£  
-ÔÚÓë Isabelle Rollette µÄÌ¸»°ÖÐÄúÁË½âµ½ÁËÊ²Ã´£¿  
-RUPERT: Isabelle ·Ç³£¾«Ã÷ÄÜ¸É¡£  
-ËýÓÐÒâ´´ÐÂ£¬µ«ÊÇÎÒÈÏÎªËýºÜ¾ÚÉ¥£¬ÒòÎª Bernard ¼¸ºõ²»Ö§³ÖËý¡£  
-KENJI: ÎÒÃ÷°×¡£  
-ÎªÊ²Ã´ÄúÈÏÎª Bernard »á·´¶Ô£¿  
-ÊÇ²»ÊÇÒòÎª Belle Vie Ò²ÐíÎÞ·¨³ï¼¯×ã¹»µÄ×Ê½ðÈ¥ÊµÏÖÕâÃ´¶àÏë·¨¡£  
-RUPERT: ÎÒ²»ÖªµÀËûÎªÊ²Ã´·´¶Ô£¬µ«ÊÇÎÒÈÏÎªÕâ²»ÊÇ³É±¾·½ÃæµÄÔ­Òò¡£  
-Isabelle ×î½ü¾Í´û¿îÎÊÌâÓëÒ»¼Ò¼ÓÄÃ´óÒøÐÐ½øÐÐÁË½Ó´¥¡£  
-ÏÖÔÚ£¬ËýÈÏÎª×Ê½ð²¢²»»á³ÉÎªÎÊÌâ¡£  
-Äú»¨Ðí¶àÊ±¼äºÍ¸±×Ü²ÃÃÇÔÚÒ»ÆðÂð£¿  
-KENJI: ÊÇµÄ£¬µÄÈ·ÕâÑù¡£  
-ÎÒÊÕµ½ÁËÀ´×Ô Buttet ºÍ Dubois µÄ´óÁ¿ÐÅÏ¢£¬Ç°Õß¸ºÔðÑÐ·¢²¿£¬ºóÕß¸ºÔðÓªÏú²¿¡£  
-ÎÒÈÏÎª Belle Vie µÄ¸ß¼¶¹ÜÀí²ãÓÐÔ¶¼û£¬¶ÔÓÚ¹«Ë¾ÈçºÎÍ¨¹ý¿ªÍØ²»¶ÏÔö³¤µÄÇàÄêÈËÊÐ³¡£¬ÒÔÌá¸ßÏúÊÛÁ¿ÓÐÐ©Êµ¼ÊµÄÏë·¨¡£  
-µ«ÊÇËûÃÇÒ²Ëµ¹ý Bernard ²¢Ã»ÓÐ´óÁ¦Ö§³ÖËûÃÇ¡£  
-RUPERT: ÕæµÄÂð£¿ ´Ë»°Ôõ½²£¿  
-ËûÃÇ¸øÄúËµÁËÊ²Ã´¾ßÌåÇé¿öÂð£¿  
-KENJI: àÅ£¬Buttet ºÍ Dubois Á½¸öÈË¶¼Ïë¼õÉÙ¶Ô L'Amour µÄÒÀÀµ¡£  
-ËûÃÇÏë¿ª·¢Õë¶Ô½ÏÄêÇá¸¾Å®µÄÐÂ²úÆ·¡£  
-Belle Vie ÒÑ¾­¶Ô¸¾Å®ÊÐ³¡ºÜÁË½â¡£  
-µ«ÊÇµ½Ä¿Ç°ÎªÖ¹£¬Bernard Ö»ÊÇÏëÀ©Õ¹µ½Ò»¸öÈ«ÐÂµÄÊÐ³¡-ÄÐÓÃÏãË®¡£  
-RUPERT: ²»¹ýÎÒÃÇµÄµ÷²é¿ÉÒÔÖ¤Ã÷ Belle Vie µÄÊµÁ¦×ã¹»¿ªÍØÁ½¸öÊÐ³¡£¿  
-KENJI: ÊÇµÄ¡£ ¾ÍÄ¿Ç°À´¿´£¬ÎÒÈÏÎªÎÒÃÇÓ¦¸ÃÔÙ¶à×öÒ»Ð©ÑÐ¾¿¡£  
-ÎÒÃÇÒªÈ°Ëµ Bernard ¿¼ÂÇÆäËü¼¸¸öÏë·¨¡£  
-RUPERT: ÊÇµÄ¡£ÎÒÍ¬Òâ¡£  
-Òò´Ë£¬×ÜµÄÀ´Ëµ£¬ÎÒÃÇÓ¦¸ÃÊ¹ËûÍ¬ÒâÎÒÃÇÍØÕ¹¹¤×÷·¶Î§¡£  
-ÈÃÎÒÃÇÑÐ¾¿Ò»ÏÂ Belle Vie ¸ÃÔõÑù¿ª·¢ÐÂ²úÆ·Æ·ÖÖ£¬ºÍ¸ÃÔõÑùÔÚÁ½¸öÊÐ³¡ÖÐ¶¨Î»ÕâÐ©²úÆ·¡£  
+NARRATOR: Kenji å’Œ Rupert æ­£åœ¨è®¨è®ºä»–ä»¬æ”¶é›†åˆ°å’Œ Belle Vie æœ‰å…³çš„èµ„æ–™ã€‚  
+æŽ¥ä¸‹æ¥ä»–ä»¬ä¼šæ€Žä¹ˆåšï¼Ÿ  
+KENJI: å› æ­¤ï¼Œæ—¢ç„¶æˆ‘ä»¬è°ˆåˆ°äº† Belle Vie çš„ç®¡ç†ç­å­ï¼Œè®©æˆ‘ä»¬æµè§ˆä¸€ä¸‹æ”¶é›†åˆ°çš„ä¿¡æ¯ã€‚  
+åœ¨ä¸Ž Isabelle Rollette çš„è°ˆè¯ä¸­æ‚¨äº†è§£åˆ°äº†ä»€ä¹ˆï¼Ÿ  
+RUPERT: Isabelle éžå¸¸ç²¾æ˜Žèƒ½å¹²ã€‚  
+å¥¹æœ‰æ„åˆ›æ–°ï¼Œä½†æ˜¯æˆ‘è®¤ä¸ºå¥¹å¾ˆæ²®ä¸§ï¼Œå› ä¸º Bernard å‡ ä¹Žä¸æ”¯æŒå¥¹ã€‚  
+KENJI: æˆ‘æ˜Žç™½ã€‚  
+ä¸ºä»€ä¹ˆæ‚¨è®¤ä¸º Bernard ä¼šåå¯¹ï¼Ÿ  
+æ˜¯ä¸æ˜¯å› ä¸º Belle Vie ä¹Ÿè®¸æ— æ³•ç­¹é›†è¶³å¤Ÿçš„èµ„é‡‘åŽ»å®žçŽ°è¿™ä¹ˆå¤šæƒ³æ³•ã€‚  
+RUPERT: æˆ‘ä¸çŸ¥é“ä»–ä¸ºä»€ä¹ˆåå¯¹ï¼Œä½†æ˜¯æˆ‘è®¤ä¸ºè¿™ä¸æ˜¯æˆæœ¬æ–¹é¢çš„åŽŸå› ã€‚  
+Isabelle æœ€è¿‘å°±è´·æ¬¾é—®é¢˜ä¸Žä¸€å®¶åŠ æ‹¿å¤§é“¶è¡Œè¿›è¡Œäº†æŽ¥è§¦ã€‚  
+çŽ°åœ¨ï¼Œå¥¹è®¤ä¸ºèµ„é‡‘å¹¶ä¸ä¼šæˆä¸ºé—®é¢˜ã€‚  
+æ‚¨èŠ±è®¸å¤šæ—¶é—´å’Œå‰¯æ€»è£ä»¬åœ¨ä¸€èµ·å—ï¼Ÿ  
+KENJI: æ˜¯çš„ï¼Œçš„ç¡®è¿™æ ·ã€‚  
+æˆ‘æ”¶åˆ°äº†æ¥è‡ª Buttet å’Œ Dubois çš„å¤§é‡ä¿¡æ¯ï¼Œå‰è€…è´Ÿè´£ç ”å‘éƒ¨ï¼ŒåŽè€…è´Ÿè´£è¥é”€éƒ¨ã€‚  
+æˆ‘è®¤ä¸º Belle Vie çš„é«˜çº§ç®¡ç†å±‚æœ‰è¿œè§ï¼Œå¯¹äºŽå…¬å¸å¦‚ä½•é€šè¿‡å¼€æ‹“ä¸æ–­å¢žé•¿çš„é’å¹´äººå¸‚åœºï¼Œä»¥æé«˜é”€å”®é‡æœ‰äº›å®žé™…çš„æƒ³æ³•ã€‚  
+ä½†æ˜¯ä»–ä»¬ä¹Ÿè¯´è¿‡ Bernard å¹¶æ²¡æœ‰å¤§åŠ›æ”¯æŒä»–ä»¬ã€‚  
+RUPERT: çœŸçš„å—ï¼Ÿ æ­¤è¯æ€Žè®²ï¼Ÿ  
+ä»–ä»¬ç»™æ‚¨è¯´äº†ä»€ä¹ˆå…·ä½“æƒ…å†µå—ï¼Ÿ  
+KENJI: å—¯ï¼ŒButtet å’Œ Dubois ä¸¤ä¸ªäººéƒ½æƒ³å‡å°‘å¯¹ L'Amour çš„ä¾èµ–ã€‚  
+ä»–ä»¬æƒ³å¼€å‘é’ˆå¯¹è¾ƒå¹´è½»å¦‡å¥³çš„æ–°äº§å“ã€‚  
+Belle Vie å·²ç»å¯¹å¦‡å¥³å¸‚åœºå¾ˆäº†è§£ã€‚  
+ä½†æ˜¯åˆ°ç›®å‰ä¸ºæ­¢ï¼ŒBernard åªæ˜¯æƒ³æ‰©å±•åˆ°ä¸€ä¸ªå…¨æ–°çš„å¸‚åœº-ç”·ç”¨é¦™æ°´ã€‚  
+RUPERT: ä¸è¿‡æˆ‘ä»¬çš„è°ƒæŸ¥å¯ä»¥è¯æ˜Ž Belle Vie çš„å®žåŠ›è¶³å¤Ÿå¼€æ‹“ä¸¤ä¸ªå¸‚åœºï¼Ÿ  
+KENJI: æ˜¯çš„ã€‚ å°±ç›®å‰æ¥çœ‹ï¼Œæˆ‘è®¤ä¸ºæˆ‘ä»¬åº”è¯¥å†å¤šåšä¸€äº›ç ”ç©¶ã€‚  
+æˆ‘ä»¬è¦åŠè¯´ Bernard è€ƒè™‘å…¶å®ƒå‡ ä¸ªæƒ³æ³•ã€‚  
+RUPERT: æ˜¯çš„ã€‚æˆ‘åŒæ„ã€‚  
+å› æ­¤ï¼Œæ€»çš„æ¥è¯´ï¼Œæˆ‘ä»¬åº”è¯¥ä½¿ä»–åŒæ„æˆ‘ä»¬æ‹“å±•å·¥ä½œèŒƒå›´ã€‚  
+è®©æˆ‘ä»¬ç ”ç©¶ä¸€ä¸‹ Belle Vie è¯¥æ€Žæ ·å¼€å‘æ–°äº§å“å“ç§ï¼Œå’Œè¯¥æ€Žæ ·åœ¨ä¸¤ä¸ªå¸‚åœºä¸­å®šä½è¿™äº›äº§å“ã€‚  
 ###  1.3 vocabulary   
 > 1. I don't know why he always resists my suggestions. I think he just doesn't like me.  
 > 2. Karen is very sharp. It takes her no time at all to learn new skills.  
@@ -178,37 +178,37 @@ I assume you'll work with our marketing department to do further research.
 KENJI: Yes, we certainly will, and we'll keep you informed about our progress.  
 BERNARD: Well then, I think that we should go forward.  
 But I won't make a final decision until I hear your recommendations.  
-NARRATOR: ÔÚ×îºóÒ»²¿·Ö×÷ÒµÖÐ£¬Kenji ºÍ Rupert Ò»ÖÂÈÏÎªËûÃÇ±ØÐëÀ©´óµ÷²é·¶Î§¡£  
-ÏÖÔÚ¹Û¿´ËûÃÇÓë Bernard µÄ»áÃæÒÔ¼°ËûÃÇ¹ØÓÚ Belle Vie ·¢Õ¹ÐÂ·½ÏòµÄÌÖÂÛ¡£  
-ÄúÈÏÎª Bernard ½«»áÓÐÔõÑùµÄ·´Ó¦£¿  
-KENJI: Bernard£¬¸ÐÐ»ÄúÄÜÔÚ½ñÌìÔçÉÏ»á¼ûÎÒÃÇ¡£  
-ÎÒÃÇÖªµÀÄúÌØ±ðÃ¦¡£  
-BERNARD: ºÜ¸ßÐËÎÒÃÇÄÜ¼ûÃæ¡£ ÎÒ¿´¹ýÄãµÄ±¨¸æ¡£  
-ºÜÃ÷ÏÔ£¬ÄúÒÑ¾­¶Ô Belle Vie ×öÁËÊ®·Ö³¹µ×µÄÑÐ¾¿¡£  
-ËùÒÔÎÒºÜÏëÌýÌýÄã¶ÔÓÚ¼õ»ºÏúÁ¿ÏÂ½µµÄÏë·¨¡£  
-KENJI: àÅ£¬ÎÒÃÇÈÏÎª Belle Vie ÓÐ¼¸ÖÖÖµµÃÌ½¾¿µÄÑ¡Ôñ¡£  
-BERNARD: ÎÒÃ÷°×¡£  
-ÄúÓÐÐ©Ê²Ã´¼Æ»­£¿  
-RUPERT: ºÜÃ÷ÏÔ£¬ÄúµÄ¹ÜÀíÈËÔ±ÏëÀûÓÃ Belle Vie µÄÆ·ÅÆ¼ÛÖµ¡£  
-ÍÆ³öÒ»ÖÖÄÐÓÃÏãË®£¬µ±È»ÊÇÕâ¸ö·½·¨È·Êµ¿ÉÐÐ¡£  
-µ«ÊÇÎÒÃÇÈÏÎªÄ¿Ç°µÄÊ±»úÊÊºÏÔÚÆäËü·½Ïò×öÒ»Ð©µ÷²é¡£  
-KENJI: ÎÒÃÇÏë»ñ×¼Óë¹ÜÀíÍÅ¶ÓºÏ×÷£¬ÒÔÑÐ¾¿Å®Ê¿ÏãË®ºÍÊÎÆ·ÊÐ³¡ÖÐµÄÐÂ²úÆ·£¬ÓÈÆäÊÇÃæÏò±È½ÏÄêÇáµÄÅ®Ê¿µÄ²úÆ·¡£  
-BERNARD: ÎÒ²»´óÔ¸ÒâÅú×¼Õâ¼þÊÂ¡£  
-²»¾ÃÒÔÇ°£¬ÎÒµÄÒ»¸ö¾ºÕù¶ÔÊÖÁ¦Í¼ÍÆ³öÒ»¸öÐÂµÄ¸¾Å®ÊÎÆ·Æ·ÖÖ¡£  
-Îª´Ë£¬ËûÃÇÔÚ¼¸ÄêÖÐËðÊ§ÁË²»ÉÙÇ®£»ÓÚÊÇËûÃÇ·ÅÆúÁËÕû¸ö²úÆ·Ïß¡£  
-RUPERT: ¶ÔÓÚÄúµÄ¾ºÕù¶ÔÊÖÊÇ·ñÓÐºÍ Belle Vie Ò»ÑùÇ¿µÄÊÐ³¡ÖªÃû¶È£¬ÎÒ²»´óÇå³þ¡£  
-BERNARD: ÕâÊÇÕæµÄ¡£  
-µ«ÊÇÎÒÈÔÈ»²»¸ÒÈ·¶¨ÎÒÃÇÊÇ·ñÄÜ¹»½øÈë¹Ë¿ÍÄêÁäÎª 35 ËêÒÔÏÂµÄÊÐ³¡¡£  
-ÎÒ²ÂÏëÕâÒ²ÕýÊÇÐÂ²úÆ·ÏßµÄÄ¿±êËùÔÚ¡£  
-Õâ¸ö½ÏÄêÇáµÄÅ®ÐÔÊÐ³¡¶Ô¼Û¸ñºÜÃô¸Ð¡£  
-Èç¹ûÎÒÃÇÒòÎªËýÃÇ¶ø½µ¼Û£¬¿ÉÄÜ»áÊ¹ÎÒÃÇ²úÆ·µÄ¸ßÆ·ÖÊÐÎÏóÊÜËð¡£  
-KENJI: µ±È»£¬ÄúµÄ¹ËÂÇºÜÓÐµÀÀí¡£  
-Ä¿Ç°£¬ÎÒÃÇÖ»ÊÇÇëÇóÔÊÐíÎÒÃÇ¶Ô¼¸Ïî½¨Òé½øÐÐÆÀ¹À£¬²¢ÇÒ½«ËüÃÇÍÆ¼ö¸øÄúºÍ¸ß¼¶¹ÜÀí²ã¡£  
-BERNARD: ºÜºÃ£¬²»¹ýÎÒÃÇ½«ÐèÒª¸ü¶àµØÁË½âÎÒÃÇ²úÆ·ÔÚÄêÇáÈËÊÐ³¡ÖÐµÄÐÎÏó¡£  
-ÎÒ²ÂÏëÄú½«ÓëÎÒÃÇµÄÓªÏú²¿ÃÅÐ­×÷£¬ÒÔ±ãÉîÈëµ÷²é¡£  
-KENJI: ÊÇµÄ£¬ÎÒÃÇµÄÈ·½«ºÍËûÃÇÒ»Æð¹¤×÷£¬ÎÒÃÇ½«ËæÊ±½«ÎÒÃÇµÄ½øÕ¹¸æËßÄú¡£  
-BERNARD: ÄÇÃ´½ÓÏÂÀ´£¬ÎÒÏëÎÒÃÇÓ¦¸ÃÓÐËùÐÐ¶¯¡£  
-ñöÌýÄúµÄ½¨Òéºó£¬ÎÒ²Å»á×ö³ö×îÖÕ¾ö¶¨¡£  
+NARRATOR: åœ¨æœ€åŽä¸€éƒ¨åˆ†ä½œä¸šä¸­ï¼ŒKenji å’Œ Rupert ä¸€è‡´è®¤ä¸ºä»–ä»¬å¿…é¡»æ‰©å¤§è°ƒæŸ¥èŒƒå›´ã€‚  
+çŽ°åœ¨è§‚çœ‹ä»–ä»¬ä¸Ž Bernard çš„ä¼šé¢ä»¥åŠä»–ä»¬å…³äºŽ Belle Vie å‘å±•æ–°æ–¹å‘çš„è®¨è®ºã€‚  
+æ‚¨è®¤ä¸º Bernard å°†ä¼šæœ‰æ€Žæ ·çš„ååº”ï¼Ÿ  
+KENJI: Bernardï¼Œæ„Ÿè°¢æ‚¨èƒ½åœ¨ä»Šå¤©æ—©ä¸Šä¼šè§æˆ‘ä»¬ã€‚  
+æˆ‘ä»¬çŸ¥é“æ‚¨ç‰¹åˆ«å¿™ã€‚  
+BERNARD: å¾ˆé«˜å…´æˆ‘ä»¬èƒ½è§é¢ã€‚ æˆ‘çœ‹è¿‡ä½ çš„æŠ¥å‘Šã€‚  
+å¾ˆæ˜Žæ˜¾ï¼Œæ‚¨å·²ç»å¯¹ Belle Vie åšäº†ååˆ†å½»åº•çš„ç ”ç©¶ã€‚  
+æ‰€ä»¥æˆ‘å¾ˆæƒ³å¬å¬ä½ å¯¹äºŽå‡ç¼“é”€é‡ä¸‹é™çš„æƒ³æ³•ã€‚  
+KENJI: å—¯ï¼Œæˆ‘ä»¬è®¤ä¸º Belle Vie æœ‰å‡ ç§å€¼å¾—æŽ¢ç©¶çš„é€‰æ‹©ã€‚  
+BERNARD: æˆ‘æ˜Žç™½ã€‚  
+æ‚¨æœ‰äº›ä»€ä¹ˆè®¡ç”»ï¼Ÿ  
+RUPERT: å¾ˆæ˜Žæ˜¾ï¼Œæ‚¨çš„ç®¡ç†äººå‘˜æƒ³åˆ©ç”¨ Belle Vie çš„å“ç‰Œä»·å€¼ã€‚  
+æŽ¨å‡ºä¸€ç§ç”·ç”¨é¦™æ°´ï¼Œå½“ç„¶æ˜¯è¿™ä¸ªæ–¹æ³•ç¡®å®žå¯è¡Œã€‚  
+ä½†æ˜¯æˆ‘ä»¬è®¤ä¸ºç›®å‰çš„æ—¶æœºé€‚åˆåœ¨å…¶å®ƒæ–¹å‘åšä¸€äº›è°ƒæŸ¥ã€‚  
+KENJI: æˆ‘ä»¬æƒ³èŽ·å‡†ä¸Žç®¡ç†å›¢é˜Ÿåˆä½œï¼Œä»¥ç ”ç©¶å¥³å£«é¦™æ°´å’Œé¥°å“å¸‚åœºä¸­çš„æ–°äº§å“ï¼Œå°¤å…¶æ˜¯é¢å‘æ¯”è¾ƒå¹´è½»çš„å¥³å£«çš„äº§å“ã€‚  
+BERNARD: æˆ‘ä¸å¤§æ„¿æ„æ‰¹å‡†è¿™ä»¶äº‹ã€‚  
+ä¸ä¹…ä»¥å‰ï¼Œæˆ‘çš„ä¸€ä¸ªç«žäº‰å¯¹æ‰‹åŠ›å›¾æŽ¨å‡ºä¸€ä¸ªæ–°çš„å¦‡å¥³é¥°å“å“ç§ã€‚  
+ä¸ºæ­¤ï¼Œä»–ä»¬åœ¨å‡ å¹´ä¸­æŸå¤±äº†ä¸å°‘é’±ï¼›äºŽæ˜¯ä»–ä»¬æ”¾å¼ƒäº†æ•´ä¸ªäº§å“çº¿ã€‚  
+RUPERT: å¯¹äºŽæ‚¨çš„ç«žäº‰å¯¹æ‰‹æ˜¯å¦æœ‰å’Œ Belle Vie ä¸€æ ·å¼ºçš„å¸‚åœºçŸ¥ååº¦ï¼Œæˆ‘ä¸å¤§æ¸…æ¥šã€‚  
+BERNARD: è¿™æ˜¯çœŸçš„ã€‚  
+ä½†æ˜¯æˆ‘ä»ç„¶ä¸æ•¢ç¡®å®šæˆ‘ä»¬æ˜¯å¦èƒ½å¤Ÿè¿›å…¥é¡¾å®¢å¹´é¾„ä¸º 35 å²ä»¥ä¸‹çš„å¸‚åœºã€‚  
+æˆ‘çŒœæƒ³è¿™ä¹Ÿæ­£æ˜¯æ–°äº§å“çº¿çš„ç›®æ ‡æ‰€åœ¨ã€‚  
+è¿™ä¸ªè¾ƒå¹´è½»çš„å¥³æ€§å¸‚åœºå¯¹ä»·æ ¼å¾ˆæ•æ„Ÿã€‚  
+å¦‚æžœæˆ‘ä»¬å› ä¸ºå¥¹ä»¬è€Œé™ä»·ï¼Œå¯èƒ½ä¼šä½¿æˆ‘ä»¬äº§å“çš„é«˜å“è´¨å½¢è±¡å—æŸã€‚  
+KENJI: å½“ç„¶ï¼Œæ‚¨çš„é¡¾è™‘å¾ˆæœ‰é“ç†ã€‚  
+ç›®å‰ï¼Œæˆ‘ä»¬åªæ˜¯è¯·æ±‚å…è®¸æˆ‘ä»¬å¯¹å‡ é¡¹å»ºè®®è¿›è¡Œè¯„ä¼°ï¼Œå¹¶ä¸”å°†å®ƒä»¬æŽ¨èç»™æ‚¨å’Œé«˜çº§ç®¡ç†å±‚ã€‚  
+BERNARD: å¾ˆå¥½ï¼Œä¸è¿‡æˆ‘ä»¬å°†éœ€è¦æ›´å¤šåœ°äº†è§£æˆ‘ä»¬äº§å“åœ¨å¹´è½»äººå¸‚åœºä¸­çš„å½¢è±¡ã€‚  
+æˆ‘çŒœæƒ³æ‚¨å°†ä¸Žæˆ‘ä»¬çš„è¥é”€éƒ¨é—¨åä½œï¼Œä»¥ä¾¿æ·±å…¥è°ƒæŸ¥ã€‚  
+KENJI: æ˜¯çš„ï¼Œæˆ‘ä»¬çš„ç¡®å°†å’Œä»–ä»¬ä¸€èµ·å·¥ä½œï¼Œæˆ‘ä»¬å°†éšæ—¶å°†æˆ‘ä»¬çš„è¿›å±•å‘Šè¯‰æ‚¨ã€‚  
+BERNARD: é‚£ä¹ˆæŽ¥ä¸‹æ¥ï¼Œæˆ‘æƒ³æˆ‘ä»¬åº”è¯¥æœ‰æ‰€è¡ŒåŠ¨ã€‚  
+è†å¬æ‚¨çš„å»ºè®®åŽï¼Œæˆ‘æ‰ä¼šåšå‡ºæœ€ç»ˆå†³å®šã€‚  
 ###  2.2 vocabulary   
 > 1. Chuck always does a thorough job. He finishes all of his projects and never misses a detail.  
 > 2. I must tell you that I'm a bit hesitant about applying for the job. I'm just not sure if I have the right skills.  
@@ -261,7 +261,7 @@ WAITER: Very good.
 I'll be right back to take your order.  
 We have some excellent specials tonight.  
 The grilled salmon is served with green beans and a baked potato.  
-JEAN-LUC: And¡­ how are the beans prepared?  
+JEAN-LUC: Andâ€¦ how are the beans prepared?  
 WAITER: We saute them in sesame oil.  
 The other special is pasta in a light cream sauce.  
 That comes with a spinach salad.  
@@ -288,58 +288,58 @@ And save room for dessert. We have a great strawberry pie!
 JEAN-LUC: Well, I'm very glad to hear your customers continue to enjoy Belle Vie products.  
 I have some new ideas for this year's line that I'd like to share with you.  
 We're thinking about introducing some unusual scents such as chocolate and caramel...  
-NARRATOR: ÔÚÉÏÒ»¸öµ¥ÔªÖÐ£¬Bernard Í¬ÒâÖ§³Ö Kenji ºÍ Rupert ×ö½øÒ»²½µ÷²é¡£  
-ÏÖÔÚ£¬Çë¼ÓÈëÓªÏú²¿¸±×Ü²Ã Jean-Luc Dubois ºÍ Belle Vie µÄ¿Í»§ Sarah Brown µÄ»áÃæ¡£  
-Sarah ÊÇÒ»¼Ò³öÊÛ Belle Vie ²úÆ·µÄ°Ù»õÉÌµêµÄ²É¹ºÔ±¡£  
-ËýºÍ Jean-Luc ÕýÔÚÅ¦Ô¼µÄÒ»¼Ò²Í¹Ý³ÔÍí²Í¡£  
-JEAN-LUC: Sarah£¬ºÜ¸ßÐËÔÙ´Î¼ûµ½Äú¡£  
-×Ô´ÓÎÒÉÏ´ÎÀ´Å¦Ô¼ËÆºõ¹ýÁËºÜ³¤Ò»¶ÎÊ±¼ä£¬µ«ÆäÊµÖ»ÓÐ¼¸¸öÔÂ¡£  
-SARAH: ÎÒÒ²ºÜ¸ßÐË¼ûµ½Äã£¬Jean Luc¡£ ºÜ¸ßÐËÄãÄÜÓëÎÒ¹²½øÍí²Í¡£  
-ÕâÊÇÎÒÔÚÅ¦Ô¼×îÏ²»¶µÄ²Í¹ÝÖ®Ò»¡£  
-JEAN-LUC: ¿´ÆðÀ´ºÃ³Ô¼«ÁË£¡ ÎÒµÈ²»¼°³¢Ò»¿ÚÁË¡£ ÄÇ¾Íµã²Í°É¡£  
-½üÀ´ÉúÒâÔõÃ´Ñù£¿  
-SARAH: Ä¿Ç°×´¿ö»¹²»´í¡£  
-ÎÒÃÇµÄÄêÏúÊÛÁ¿Ôö³¤ÁË 3.5 %£¬±ÈÍ¬ÐÐµÄÆ½¾ùË®Æ½Òª¸ß¡£  
-ÎÒÈÏÎªÎÒÃÇ¿ªÊ¼ÈÃÅ¦Ô¼µÄÆäËüÒ»Ð©ÁãÊÛÉÌ±äµÃ½ôÕÅÆðÀ´ÁË¡£  
-JEAN-LUC: Äú¶Ô Belle Vie ²úÆ·µÄÏúÊÛÇé¿ö¸Ðµ½ÂúÒâÂð£¿  
-SARAH: µ±È»¡£  
-ÎÒÃÇµÄ¿Í»§¶Ô Belle Vie ÒÀ¾ÉÇéÓÐ¶ÀÖÓ¡£  
-WAITER: ÍíÉÏºÃ¡£  
-ÄúÏëÏÈºÈµãÒûÁÏÂð£¿  
-JEAN-LUC: ÎÒÏëÒªÒ»Æ¿ËÕ´òË®¡£  
-SARAH: ÎÒÏëÀ´Æ¿ËÕ´òË®¡£  
-ÇëÀ´±­½¡âù¿ÉÀÖ¡£  
-WAITER: ºÃµÄ¡£  
-ÎÒ»áÂíÉÏ»ØÀ´ÌæÄúµã²Ë¡£  
-½ñÍíÎÒÃÇÓÐÒ»Ð©·Ç³£ºÃµÄÌØÉ«²Ë¡£  
-¿¾öÙÓã´øÓÐÇà¶¹½ÇºÍ¿¾ÂíÁåÊí¡£  
-JEAN-LUC: ¶¹½ÇÊÇÔõÃ´×öµÄ£¿  
-WAITER: ÎÒÃÇ°ÑËü·ÅÔÚÖ¥ÂéÓÍÀï¼å¡£  
-ÁíÒ»·ÝÌØÉ«²ËÊÇ°èÓÐµ­Î¶ÄÌÓÍµ÷ÁÏµÄÒâ´óÀûÃæ¡£  
-»¹´øÓÐ²¤²ËÉ«À­¡£  
-ÎÒÂíÉÏ¸øÄúÄÃÒûÁÏÀ´¡£  
-Èç¹ûÄú¶Ô²Ëµ¥»¹ÓÐÊ²Ã´ÒÉÎÊ£¬ÇëÁ¢¿ÌÍ¨ÖªÎÒ¡£  
-JEAN-LUC: ÕâÀïµÄÃ¿ÑùÊ³Îï¿´ÆðÀ´¶¼ºÜ¿É¿Ú¡£  
-ÄúÏëµãÊ²Ã´²Ë£¿  
-SARAH: ÎÒÌýËµÕâÀïµÄº£²ú·Ç³£²»´í£¬µ«ÊÇÎÒ²»ÄÜ³Ô£¬ÒòÎªÎÒ¶Ô±´Àà¹ýÃô¡£  
-ÎÒÏëÀ´·Ý´óËâ¼¦Èâ·¹¡£  
-ÄúÏëÀ´µãÊ²Ã´£¿  
-JEAN-LUC: É«À­¶ÔÎÒµÄÉíÌå»á¸üºÃÒ»Ð©£¬µ«ÊÇ¿¾Å£Èâ¿´ÆðÀ´·Ç³£ºÃ£¬ÈÃÎÒÄÑÒÔ´í¹ý¡£  
-WAITER: ÕâÊÇÄúµÄÒûÁÏ¡£  
-Äú×¼±¸µã²ËÂð£¿  
-SARAH: ÎÒÏëÏÈÒªÒ»·ÝÄãÃÇµÄÌØÖÆÉ«À­½´°èµÄ²ËÔ°É«À­¡£  
-ÎÒÏëÒªÒ»·Ý´óËâ¼¦Èâ·¹¡£  
-WAITER: ·Ç³£ºÃ¡£  
-ÏÈÉú£¬ÄúÏë³ÔµãÊ²Ã´ÄØ£¿  
-JEAN-LUC: ÎÒÏëÏÈÒªºÈµãÑó´ÐÌÀ¡£  
-Ö÷²ËÎÒÏë³Ô¿¾Å£Èâ¡£  
-WAITER: Å£ÈâÒªÊ²Ã´»ðºòµÄ£¿  
-JEAN-LUC: ÎÒÏëÒªÎå·ÖÊìµÄ£¬¿ÉÒÔÂð£¿  
-WAITER: ºÃ¡£ ÎÒÂíÉÏ¸øÄúÉÏÌÀºÍÉ«À­¡£  
-»¹ÒªÁôµã¶ù¶Ç×Ó³ÔÌðµã¡£ ÎÒÃÇ³ÔÁËÃÀÎ¶²ÝÝ®±ý£¡  
-JEAN-LUC: ºÃ£¬ÎÒºÜ¸ßÐËÌýµ½ÄúµÄ¹Ë¿ÍÒÀ¾ÉÏ²»¶ Belle Vie µÄ²úÆ·¡£  
-ÎÒÓÐÒ»Ð©¹ØÓÚ½ñÄêµÄ²úÆ·Æ·ÏßµÄÐÂÏë·¨£¬ÏëºÍÄúÌ¸Ò»Ì¸¡£  
-ÎÒÃÇÕýÔÚ¿¼ÂÇÒý½øÒ»Ð©ÓëÖÚ²»Í¬ÏãÐÍ£¬ÀýÈçÇÉ¿ËÁ¦Î¶ºÍ½¹ÌÇÎ¶...  
+NARRATOR: åœ¨ä¸Šä¸€ä¸ªå•å…ƒä¸­ï¼ŒBernard åŒæ„æ”¯æŒ Kenji å’Œ Rupert åšè¿›ä¸€æ­¥è°ƒæŸ¥ã€‚  
+çŽ°åœ¨ï¼Œè¯·åŠ å…¥è¥é”€éƒ¨å‰¯æ€»è£ Jean-Luc Dubois å’Œ Belle Vie çš„å®¢æˆ· Sarah Brown çš„ä¼šé¢ã€‚  
+Sarah æ˜¯ä¸€å®¶å‡ºå”® Belle Vie äº§å“çš„ç™¾è´§å•†åº—çš„é‡‡è´­å‘˜ã€‚  
+å¥¹å’Œ Jean-Luc æ­£åœ¨çº½çº¦çš„ä¸€å®¶é¤é¦†åƒæ™šé¤ã€‚  
+JEAN-LUC: Sarahï¼Œå¾ˆé«˜å…´å†æ¬¡è§åˆ°æ‚¨ã€‚  
+è‡ªä»Žæˆ‘ä¸Šæ¬¡æ¥çº½çº¦ä¼¼ä¹Žè¿‡äº†å¾ˆé•¿ä¸€æ®µæ—¶é—´ï¼Œä½†å…¶å®žåªæœ‰å‡ ä¸ªæœˆã€‚  
+SARAH: æˆ‘ä¹Ÿå¾ˆé«˜å…´è§åˆ°ä½ ï¼ŒJean Lucã€‚ å¾ˆé«˜å…´ä½ èƒ½ä¸Žæˆ‘å…±è¿›æ™šé¤ã€‚  
+è¿™æ˜¯æˆ‘åœ¨çº½çº¦æœ€å–œæ¬¢çš„é¤é¦†ä¹‹ä¸€ã€‚  
+JEAN-LUC: çœ‹èµ·æ¥å¥½åƒæžäº†ï¼ æˆ‘ç­‰ä¸åŠå°ä¸€å£äº†ã€‚ é‚£å°±ç‚¹é¤å§ã€‚  
+è¿‘æ¥ç”Ÿæ„æ€Žä¹ˆæ ·ï¼Ÿ  
+SARAH: ç›®å‰çŠ¶å†µè¿˜ä¸é”™ã€‚  
+æˆ‘ä»¬çš„å¹´é”€å”®é‡å¢žé•¿äº† 3.5 %ï¼Œæ¯”åŒè¡Œçš„å¹³å‡æ°´å¹³è¦é«˜ã€‚  
+æˆ‘è®¤ä¸ºæˆ‘ä»¬å¼€å§‹è®©çº½çº¦çš„å…¶å®ƒä¸€äº›é›¶å”®å•†å˜å¾—ç´§å¼ èµ·æ¥äº†ã€‚  
+JEAN-LUC: æ‚¨å¯¹ Belle Vie äº§å“çš„é”€å”®æƒ…å†µæ„Ÿåˆ°æ»¡æ„å—ï¼Ÿ  
+SARAH: å½“ç„¶ã€‚  
+æˆ‘ä»¬çš„å®¢æˆ·å¯¹ Belle Vie ä¾æ—§æƒ…æœ‰ç‹¬é’Ÿã€‚  
+WAITER: æ™šä¸Šå¥½ã€‚  
+æ‚¨æƒ³å…ˆå–ç‚¹é¥®æ–™å—ï¼Ÿ  
+JEAN-LUC: æˆ‘æƒ³è¦ä¸€ç“¶è‹æ‰“æ°´ã€‚  
+SARAH: æˆ‘æƒ³æ¥ç“¶è‹æ‰“æ°´ã€‚  
+è¯·æ¥æ¯å¥æ€¡å¯ä¹ã€‚  
+WAITER: å¥½çš„ã€‚  
+æˆ‘ä¼šé©¬ä¸Šå›žæ¥æ›¿æ‚¨ç‚¹èœã€‚  
+ä»Šæ™šæˆ‘ä»¬æœ‰ä¸€äº›éžå¸¸å¥½çš„ç‰¹è‰²èœã€‚  
+çƒ¤é²‘é±¼å¸¦æœ‰é’è±†è§’å’Œçƒ¤é©¬é“ƒè–¯ã€‚  
+JEAN-LUC: è±†è§’æ˜¯æ€Žä¹ˆåšçš„ï¼Ÿ  
+WAITER: æˆ‘ä»¬æŠŠå®ƒæ”¾åœ¨èŠéº»æ²¹é‡Œç…Žã€‚  
+å¦ä¸€ä»½ç‰¹è‰²èœæ˜¯æ‹Œæœ‰æ·¡å‘³å¥¶æ²¹è°ƒæ–™çš„æ„å¤§åˆ©é¢ã€‚  
+è¿˜å¸¦æœ‰è èœè‰²æ‹‰ã€‚  
+æˆ‘é©¬ä¸Šç»™æ‚¨æ‹¿é¥®æ–™æ¥ã€‚  
+å¦‚æžœæ‚¨å¯¹èœå•è¿˜æœ‰ä»€ä¹ˆç–‘é—®ï¼Œè¯·ç«‹åˆ»é€šçŸ¥æˆ‘ã€‚  
+JEAN-LUC: è¿™é‡Œçš„æ¯æ ·é£Ÿç‰©çœ‹èµ·æ¥éƒ½å¾ˆå¯å£ã€‚  
+æ‚¨æƒ³ç‚¹ä»€ä¹ˆèœï¼Ÿ  
+SARAH: æˆ‘å¬è¯´è¿™é‡Œçš„æµ·äº§éžå¸¸ä¸é”™ï¼Œä½†æ˜¯æˆ‘ä¸èƒ½åƒï¼Œå› ä¸ºæˆ‘å¯¹è´ç±»è¿‡æ•ã€‚  
+æˆ‘æƒ³æ¥ä»½å¤§è’œé¸¡è‚‰é¥­ã€‚  
+æ‚¨æƒ³æ¥ç‚¹ä»€ä¹ˆï¼Ÿ  
+JEAN-LUC: è‰²æ‹‰å¯¹æˆ‘çš„èº«ä½“ä¼šæ›´å¥½ä¸€äº›ï¼Œä½†æ˜¯çƒ¤ç‰›è‚‰çœ‹èµ·æ¥éžå¸¸å¥½ï¼Œè®©æˆ‘éš¾ä»¥é”™è¿‡ã€‚  
+WAITER: è¿™æ˜¯æ‚¨çš„é¥®æ–™ã€‚  
+æ‚¨å‡†å¤‡ç‚¹èœå—ï¼Ÿ  
+SARAH: æˆ‘æƒ³å…ˆè¦ä¸€ä»½ä½ ä»¬çš„ç‰¹åˆ¶è‰²æ‹‰é…±æ‹Œçš„èœå›­è‰²æ‹‰ã€‚  
+æˆ‘æƒ³è¦ä¸€ä»½å¤§è’œé¸¡è‚‰é¥­ã€‚  
+WAITER: éžå¸¸å¥½ã€‚  
+å…ˆç”Ÿï¼Œæ‚¨æƒ³åƒç‚¹ä»€ä¹ˆå‘¢ï¼Ÿ  
+JEAN-LUC: æˆ‘æƒ³å…ˆè¦å–ç‚¹æ´‹è‘±æ±¤ã€‚  
+ä¸»èœæˆ‘æƒ³åƒçƒ¤ç‰›è‚‰ã€‚  
+WAITER: ç‰›è‚‰è¦ä»€ä¹ˆç«å€™çš„ï¼Ÿ  
+JEAN-LUC: æˆ‘æƒ³è¦äº”åˆ†ç†Ÿçš„ï¼Œå¯ä»¥å—ï¼Ÿ  
+WAITER: å¥½ã€‚ æˆ‘é©¬ä¸Šç»™æ‚¨ä¸Šæ±¤å’Œè‰²æ‹‰ã€‚  
+è¿˜è¦ç•™ç‚¹å„¿è‚šå­åƒç”œç‚¹ã€‚ æˆ‘ä»¬åƒäº†ç¾Žå‘³è‰èŽ“é¥¼ï¼  
+JEAN-LUC: å¥½ï¼Œæˆ‘å¾ˆé«˜å…´å¬åˆ°æ‚¨çš„é¡¾å®¢ä¾æ—§å–œæ¬¢ Belle Vie çš„äº§å“ã€‚  
+æˆ‘æœ‰ä¸€äº›å…³äºŽä»Šå¹´çš„äº§å“å“çº¿çš„æ–°æƒ³æ³•ï¼Œæƒ³å’Œæ‚¨è°ˆä¸€è°ˆã€‚  
+æˆ‘ä»¬æ­£åœ¨è€ƒè™‘å¼•è¿›ä¸€äº›ä¸Žä¼—ä¸åŒé¦™åž‹ï¼Œä¾‹å¦‚å·§å…‹åŠ›å‘³å’Œç„¦ç³–å‘³...  
 ###  3.2 listening   
 > 1. I like this restaurant. We can get an appetizer, an entree, and dessert for a fixed price.  
 > 2. salmon is one of the most popular fish on the west coast of the United States. It tastes good and has an appealing color.  
@@ -388,7 +388,7 @@ I've had some interesting experiences on my business trips, but I've never seen 
 SARAH: Really? Why?  
 What was it like?  
 JEAN-LUC: Well, the Japanese have an interesting custom.  
-It's a meal of about a dozen different dishes, and each one represents a wish for the New Year¡ªblack beans for health, seaweed for happiness, and so on.  
+It's a meal of about a dozen different dishes, and each one represents a wish for the New Yearâ€”black beans for health, seaweed for happiness, and so on.  
 SARAH: Really? Interesting. And speaking of Asia, I've heard that in some places it's considered impolite to put your chopsticks straight up in a bowl of rice.  
 It reminds people of death.  
 JEAN-LUC: That's true.  
@@ -400,49 +400,49 @@ WAITER: Can I bring you anything else this evening?
 SARAH: No, I don't think we need anything else, thank you.  
 JEAN-LUC: May I have the check please?  
 You have to allow me to pick up the tab.  
-SARAH: Oh no, you don't have to do that¡­  
+SARAH: Oh no, you don't have to do thatâ€¦  
 JEAN-LUC: No really, I insist.  
 You've paid for dinner the last three times I've been in town.  
 SARAH: Well, thank you very much, Jean-Luc.  
 I look forward to treating you next time.  
-NARRATOR: Jean-Luc Dubois ÕýÔÚºÍËûµÄÒ»Î»¿Í»§ Sarah Brown ¹²½øÍí²Í¡£  
-Sarah ÊÇÅ¦Ô¼Ò»¼Ò°Ù»õÉÌµêµÄÒ»Î»×ÊÉîÏãË®²É¹ºÔ±¡£  
-ÇëÌýËûÃÇ¶Ô²»Í¬¹ú¼ÒÒûÊ³Ï°¹ßµÄÌÖÂÛ¡£  
-SARAH: Õâ²Ëµ¥ºÜÈÃÈËÐÄ¶¯¡£  
-ËµÊµÔÚµÄ£¬ÎÒÁ¬Ò»°ë¶¼¿´²»¶®£¡  
-JEAN-LUC: ÎÒÒ²ÊÇ£¡ µã²ÍÊ±ÎÒ×ÜÅÂ×Ô¼º·¢Òô²»ÕýÈ·¡£  
-SARAH: ÎÒÃ÷°×ÄãµÄÒâË¼¡£  
-ÎÒ¸úÄãËµ¹ýÎÒÔÚÒâ´óÀû²Í¹ÝÄÇ´ÎÞÏÞÎµÄ¾­ÀúÂð£¿  
-JEAN-LUC: Ã»ÓÐ£¬ÎÒ´ÓÃ»ÌýÄãËµ¹ý¡£  
-ÔõÃ´»ØÊÂ£¿  
-SARAH: ÎÒÔÚ·ðÂÞÂ×ÈøµÄÒ»¼ÒÁÚÀï²Í¹Ý´ó³ÔÁËÒ»¶Ù¡£  
-ÎÒÏëÒªÍí²Íºó¿§·È£¬ËùÒÔÎÒµãÁËÒ»±­¿¨²¼ÆæÅµ¡£  
-JEAN-LUC: µ±È»£¬ÕâÊÇÄãÔÚÃÀ¹ú×öÁË²»Öª¶àÉÙ´ÎµÄÊÂ¡£  
-SARAH: ÊÇµÄ¡£ µ«ÊÇ£¬ÔÚÒâ´óÀûÓÐÐ©ÈËÈÏÎªÕâÊÇ·Ç³£²»ÀñÃ²µÄ£¬ÒòÎªËûÃÇÍ¨³£Ö»ÊÇÔÚÔçÉÏºÈ(¿¨²¼ÆäÅµ)ÈÈÅ£ÄÌ¿§·È¡£  
-Espresso ÊÇÒ»ÖÖÆ½³£ÍíÉÏºÈµÄÒûÁÏ¡£  
-ÎÒÏëÎÒÃ°·¸ÁËÊÌÕßºÍ³øÊ¦£¬Òò´Ë£¬´ÓÄÇÒÔºóÎÒ±ÜÃâÍí·¹ºóºÈ(¿¨²¼ÆäÅµ)ÈÈÅ£ÄÌ¿§·È¡£  
-JEAN-LUC: àÞ£¬Í¦¿ÉÅÂµÄ¡£  
-ÎÒ³ö²îÊ±Ò²ÓÐ¹ýÒ»Ð©ÓÐÈ¤µÄ¾­Àú£¬µ«ÊÇÎÒ´ÓÃ»ÓÐ¼û¹ýÎÒÔÚ¶«¾©¹ýÐÂÄêÊ±³Ô¹ýµÄÊ³Îï¡£  
-SARAH: ÕæµÄÂð£¿ ÎªÊ²Ã´£¿  
-ÔõÃ´Ñù£¿  
-JEAN-LUC: ÈÕ±¾ÈËÓÐÒ»¸öÓÐÈ¤µÄ·çË×¡£  
-ÄÇÊÇÒ»¶ÙÓÐÊ®¼¸µÀ²ËµÄ´ó²Í£¬Ã¿µÀ²Ë´ú±íÐÂÄêµÄÒ»¸öÔ¸Íû--ºÚ¶¹´ú±í½¡¿µ£¬º£Ôå´ú±íÐÒ¸££¬µÈµÈ¡£  
-SARAH: Ëµµ½ÑÇÖÞµÄÒûÊ³Ï°¹ß£¬ÎÒÌýËµ£¬ÔÚÓÐÐ©µØ·½½«¿ê×ÓÖ±Ö±µØ²åÔÚÒ»ÍëÃ×·¹ÉÏÊÇ²»ÀñÃ²µÄ¡£  
-ÕâÑù»áÊ¹ÈËÏëµ½ËÀÍö¡£  
-JEAN-LUC: ÊÇµÄ¡£  
-ÓÐÈËÔø¾­¸æËßÎÒ£¬ÔÚÌ©¹ú£¬Èç¹ûÄã°Ñ½Å·ÅµÃ±ÈÃ×·¹»òÈÎºÎÊ³Æ·»¹¸ß£¬½«±»ÈÏÎªÊÇÊ®·Ö²»ÀñÃ²µÄ¡£  
-½Å±»¿´×÷ÊÇÈËÉíÌåÉÏ×îµÍµÄ£¬×îÔàµÄ²¿·Ö¡£  
-SARAH: ÕæµÄÂð£¿ ÕâÎÒµ¹Ã»ÌýËµ¹ý¡£  
-ºÃ°É£¬ÏÂ´ÎÄãÀ´Å¦Ô¼µÃÔÙ¸øÎÒ½²½²Äã³ö²îÊ±ÁË½âµ½µÄÐÂµÄÒûÊ³·çË×¡£  
-WAITER: ½ñÍíÄã»¹ÐèÒª±ðµÄÊ²Ã´Âð£¿  
-SARAH: ²»ÒªÁË£¬Ð»Ð»¡£  
-JEAN-LUC: ÇëÈÃÎÒ¸¶ÕË£¬ºÃÂð£¿  
-Õâ´ÎÄãµÃÈÃÎÒÀ´¸¶ÕÊ¡£  
-SARAH: Å¶²»£¬Ã»ÄÇ±ØÒª¡£  
-JEAN-LUC: ÕæµÄ£¬Õâ´ÎÎÒÒ»¶¨Òª¸¶¡£  
-ÎÒÀ´Å¦Ô¼ºó£¬×î½üµÄÈý´ÎÍí·¹¶¼ÊÇÄã½áµÄÕÊ¡£  
-SARAH: ºÃµÄ£¬·Ç³£¸ÐÐ»£¬Jean-Luc¡£  
-ÎÒÏ£ÍûÏÂ´ÎÄÜÈÃÎÒÇë¿Í¡£s  
+NARRATOR: Jean-Luc Dubois æ­£åœ¨å’Œä»–çš„ä¸€ä½å®¢æˆ· Sarah Brown å…±è¿›æ™šé¤ã€‚  
+Sarah æ˜¯çº½çº¦ä¸€å®¶ç™¾è´§å•†åº—çš„ä¸€ä½èµ„æ·±é¦™æ°´é‡‡è´­å‘˜ã€‚  
+è¯·å¬ä»–ä»¬å¯¹ä¸åŒå›½å®¶é¥®é£Ÿä¹ æƒ¯çš„è®¨è®ºã€‚  
+SARAH: è¿™èœå•å¾ˆè®©äººå¿ƒåŠ¨ã€‚  
+è¯´å®žåœ¨çš„ï¼Œæˆ‘è¿žä¸€åŠéƒ½çœ‹ä¸æ‡‚ï¼  
+JEAN-LUC: æˆ‘ä¹Ÿæ˜¯ï¼ ç‚¹é¤æ—¶æˆ‘æ€»æ€•è‡ªå·±å‘éŸ³ä¸æ­£ç¡®ã€‚  
+SARAH: æˆ‘æ˜Žç™½ä½ çš„æ„æ€ã€‚  
+æˆ‘è·Ÿä½ è¯´è¿‡æˆ‘åœ¨æ„å¤§åˆ©é¤é¦†é‚£æ¬¡å°´å°¬çš„ç»åŽ†å—ï¼Ÿ  
+JEAN-LUC: æ²¡æœ‰ï¼Œæˆ‘ä»Žæ²¡å¬ä½ è¯´è¿‡ã€‚  
+æ€Žä¹ˆå›žäº‹ï¼Ÿ  
+SARAH: æˆ‘åœ¨ä½›ç½—ä¼¦è¨çš„ä¸€å®¶é‚»é‡Œé¤é¦†å¤§åƒäº†ä¸€é¡¿ã€‚  
+æˆ‘æƒ³è¦æ™šé¤åŽå’–å•¡ï¼Œæ‰€ä»¥æˆ‘ç‚¹äº†ä¸€æ¯å¡å¸ƒå¥‡è¯ºã€‚  
+JEAN-LUC: å½“ç„¶ï¼Œè¿™æ˜¯ä½ åœ¨ç¾Žå›½åšäº†ä¸çŸ¥å¤šå°‘æ¬¡çš„äº‹ã€‚  
+SARAH: æ˜¯çš„ã€‚ ä½†æ˜¯ï¼Œåœ¨æ„å¤§åˆ©æœ‰äº›äººè®¤ä¸ºè¿™æ˜¯éžå¸¸ä¸ç¤¼è²Œçš„ï¼Œå› ä¸ºä»–ä»¬é€šå¸¸åªæ˜¯åœ¨æ—©ä¸Šå–(å¡å¸ƒå…¶è¯º)çƒ­ç‰›å¥¶å’–å•¡ã€‚  
+Espresso æ˜¯ä¸€ç§å¹³å¸¸æ™šä¸Šå–çš„é¥®æ–™ã€‚  
+æˆ‘æƒ³æˆ‘å†’çŠ¯äº†ä¾è€…å’ŒåŽ¨å¸ˆï¼Œå› æ­¤ï¼Œä»Žé‚£ä»¥åŽæˆ‘é¿å…æ™šé¥­åŽå–(å¡å¸ƒå…¶è¯º)çƒ­ç‰›å¥¶å’–å•¡ã€‚  
+JEAN-LUC: å™¢ï¼ŒæŒºå¯æ€•çš„ã€‚  
+æˆ‘å‡ºå·®æ—¶ä¹Ÿæœ‰è¿‡ä¸€äº›æœ‰è¶£çš„ç»åŽ†ï¼Œä½†æ˜¯æˆ‘ä»Žæ²¡æœ‰è§è¿‡æˆ‘åœ¨ä¸œäº¬è¿‡æ–°å¹´æ—¶åƒè¿‡çš„é£Ÿç‰©ã€‚  
+SARAH: çœŸçš„å—ï¼Ÿ ä¸ºä»€ä¹ˆï¼Ÿ  
+æ€Žä¹ˆæ ·ï¼Ÿ  
+JEAN-LUC: æ—¥æœ¬äººæœ‰ä¸€ä¸ªæœ‰è¶£çš„é£Žä¿—ã€‚  
+é‚£æ˜¯ä¸€é¡¿æœ‰åå‡ é“èœçš„å¤§é¤ï¼Œæ¯é“èœä»£è¡¨æ–°å¹´çš„ä¸€ä¸ªæ„¿æœ›--é»‘è±†ä»£è¡¨å¥åº·ï¼Œæµ·è—»ä»£è¡¨å¹¸ç¦ï¼Œç­‰ç­‰ã€‚  
+SARAH: è¯´åˆ°äºšæ´²çš„é¥®é£Ÿä¹ æƒ¯ï¼Œæˆ‘å¬è¯´ï¼Œåœ¨æœ‰äº›åœ°æ–¹å°†ç­·å­ç›´ç›´åœ°æ’åœ¨ä¸€ç¢—ç±³é¥­ä¸Šæ˜¯ä¸ç¤¼è²Œçš„ã€‚  
+è¿™æ ·ä¼šä½¿äººæƒ³åˆ°æ­»äº¡ã€‚  
+JEAN-LUC: æ˜¯çš„ã€‚  
+æœ‰äººæ›¾ç»å‘Šè¯‰æˆ‘ï¼Œåœ¨æ³°å›½ï¼Œå¦‚æžœä½ æŠŠè„šæ”¾å¾—æ¯”ç±³é¥­æˆ–ä»»ä½•é£Ÿå“è¿˜é«˜ï¼Œå°†è¢«è®¤ä¸ºæ˜¯ååˆ†ä¸ç¤¼è²Œçš„ã€‚  
+è„šè¢«çœ‹ä½œæ˜¯äººèº«ä½“ä¸Šæœ€ä½Žçš„ï¼Œæœ€è„çš„éƒ¨åˆ†ã€‚  
+SARAH: çœŸçš„å—ï¼Ÿ è¿™æˆ‘å€’æ²¡å¬è¯´è¿‡ã€‚  
+å¥½å§ï¼Œä¸‹æ¬¡ä½ æ¥çº½çº¦å¾—å†ç»™æˆ‘è®²è®²ä½ å‡ºå·®æ—¶äº†è§£åˆ°çš„æ–°çš„é¥®é£Ÿé£Žä¿—ã€‚  
+WAITER: ä»Šæ™šä½ è¿˜éœ€è¦åˆ«çš„ä»€ä¹ˆå—ï¼Ÿ  
+SARAH: ä¸è¦äº†ï¼Œè°¢è°¢ã€‚  
+JEAN-LUC: è¯·è®©æˆ‘ä»˜è´¦ï¼Œå¥½å—ï¼Ÿ  
+è¿™æ¬¡ä½ å¾—è®©æˆ‘æ¥ä»˜å¸ã€‚  
+SARAH: å“¦ä¸ï¼Œæ²¡é‚£å¿…è¦ã€‚  
+JEAN-LUC: çœŸçš„ï¼Œè¿™æ¬¡æˆ‘ä¸€å®šè¦ä»˜ã€‚  
+æˆ‘æ¥çº½çº¦åŽï¼Œæœ€è¿‘çš„ä¸‰æ¬¡æ™šé¥­éƒ½æ˜¯ä½ ç»“çš„å¸ã€‚  
+SARAH: å¥½çš„ï¼Œéžå¸¸æ„Ÿè°¢ï¼ŒJean-Lucã€‚  
+æˆ‘å¸Œæœ›ä¸‹æ¬¡èƒ½è®©æˆ‘è¯·å®¢ã€‚s  
 ###  4.2 vocabulary   
 > 1. It's important to understand other people's cultures so you don't do anything to offend anyone.  
 > 2. There is no excuse for bad manners. I think that smoking while other people are eating is just plain rude.  
@@ -482,11 +482,11 @@ SOPHIE: Yes, absolutely.
 We've had basically the same ad campaign for the past ten years!  
 When some of the newer brands took part of our market share, we didn't react to protect ourselves.  
 That's why sales are declining.  
-KENJI: Hmm¡­ I see.  
+KENJI: Hmmâ€¦ I see.  
 And what other problems are you having?  
 SOPHIE: Well, another problem is our media mix.  
 We place almost all our ads in women's fashion magazines.  
-We've created a sophisticated campaign for L'Amour, but now we need to rethink our strategy to reach a larger¡ªand younger¡ªaudience.  
+We've created a sophisticated campaign for L'Amour, but now we need to rethink our strategy to reach a largerâ€”and youngerâ€”audience.  
 KENJI: And how are you planning to do that?  
 SOPHIE: Well, at our management retreat last year, we agreed that Belle Vie has to develop a more aggressive media plan.  
 We talked about TV spots and in-store promotions, but we've failed to follow up on these ideas.  
@@ -498,38 +498,38 @@ But they aren't really interested in L'Amour.
 KENJI: Huh. You know, I doubt that advertising alone can solve that problem.  
 SOPHIE: Yes, I agree with you, but we do need to figure out a way to attract that younger audience.  
 If we can create new products for younger women, I'm sure my staff can develop a terrific strategy to reach those women.  
-NARRATOR: ÔÚÉÏÒ»´Î×÷ÒµÖÐ£¬Jean-Luc Dubois ÔÚÅ¦Ô¼Óö¼ûÁË Sarah Brown¡£  
-Sarah Ö¤Êµ¹Ë¿ÍÈÔÈ»ÖÓÇéÓÚ Belle Vie¡£  
-ÏÖÔÚ£¬Kenji ÔÚÓë Belle Vie µÄ¹ã¸æ²¿¾­Àí Sophie Leblanc »áÃæ¡£  
-¹ØÓÚ¹«Ë¾µÄ¹ã¸æ²ßÂÔ£¬Sophie ½«ËµÐ©Ê²Ã´ÄØ£¿  
-KENJI: ÎÒºÍÎÒµÄÍ¬ÊÂ Rupert Andrews ÒÑ¾­ÊÕ¼¯ÁËÒ»Ð©ÓÐ¹Ø Belle Vie ²úÆ·µÄÐÅÏ¢¡£  
-ÎÒÏëºÍÄã¼ûÃæ£¬Ì¸Ì¸¹«Ë¾µÄ¹ã¸æÇé¿ö¡£  
-SOPHIE: ÎÒÒ»Ö±Ï£ÍûÄÜÓëÄãÌ¸Ì¸¡£  
-ÎÒÈÏÎª×îÖØÒªµÄÎÊÌâÊÇ Belle Vie ¹ýÈ¥Ò»Ö±²»ÐèÒª×ö´óÁ¿µÄ¹ã¸æ£¬ÏÖÔÚÔò²»È»¡£  
-Ôç¼¸Äê£¬L'Amour µÄ³É¹¦Ê¹ Belle Vie ÓÐÁË½Ï¸ßµÄÆ·ÅÆ¼ÛÖµ¡£  
-×ÔÄÇÊ±ºòÆð£¬ÎÒÃÇ±£³Ö×Å¾ºÕùÁ¦£¬¿¿µÄÊÇÆ·ÅÆÖ§³Ö¶ÈºÍÎÒÃÇÇ¿´óµÄÉùÓþ£¬¶ø²»ÊÇ¿¿¹ã¸æ¡£  
-KENJI: ÎÒÃ÷°×¡£  
-ÄÇÃ´£¬ÄãÈÏÎªÏÖÔÚ¹«Ë¾ÐèÒª¿¿Ôö¼Ó¹ã¸æÀ´ÎüÒý¹Ë¿ÍÂð£¿  
-SOPHIE: ÊÇµÄ£¬¾ø¶Ô±ØÒª¡£  
-ÎÒÃÇµÄ¹ã¸æ»î¶¯ÔÚ¹ýÈ¥Ê®Äê»ù±¾ÉÏÃ»ÓÐ±ä¹ý£¡  
-µ±Ò»Ð©ÐÂµÄÆ·ÅÆÇÀÕ¼ÎÒÃÇµÄÊÐ³¡·Ý¶îµÄÊ±ºò£¬ÎÒÃÇÈ´²»ÄÜ²ÉÈ¡ÐÐ¶¯±£»¤×Ô¼º¡£  
-ÕâÕýÊÇÏúÊÛ¶îÏÂ½µµÄÔ­Òò¡£  
-KENJI: àÅ... ÎÒÃ÷°×ÁË¡£  
-ÄãÃÇÏÖÔÚ»¹ÓÐÆäËûÊ²Ã´ÎÊÌâ£¿  
-SOPHIE: ÁíÍâÒ»¸öÎÊÌâÊÇÎÒÃÇÓ¦¸Ã×ÛºÏÔËÓÃ¸÷ÖÖÃ½ÌåÀ´×ö¹ã¸æ¡£  
-ÎÒÃÇ°Ñ¼¸ºõËùÓÐµÄ¹ã¸æ¶¼·ÅÔÚ¸¾Å®Ê±ÉÐÔÓÖ¾ÉÏ¡£  
-ÎÒÃÇÔøÎª L'Amour ²ß»®ÁË¸ßµµ´ÎµÄ¹ã¸æ»î¶¯£¬µ«ÊÇÏÖÔÚÎÒÃÇÐèÒªÖØÐÂ¿¼ÂÇÃæÏò¸üÅÓ´ó¡¢¸üÄêÇáµÄÏû·ÑÈºÌåµÄ¹ã¸æ²ßÂÔ¡£  
-KENJI: Äã´òËãÔõÃ´×öÄØ£¿  
-SOPHIE: ÊÇÕâÑùµÄ£¬ÔÚÈ¥ÄêÎÒÃÇ¹ÜÀí°à×ÓµÄ³öÍâÐÝÕûÊ±£¬ÎÒÃÇÒ»ÖÂÈÏÎª Belle Vie Ó¦¸Ã·¢Õ¹Ò»¸ö¸ü¸»ÌôÕ½ÐÔµÄÃ½Ìå¼Æ»®¡£  
-ÎÒÃÇÌ¸µ½¹ýµçÊÓ¹ã¸æºÍÁãÊÛ´ÙÏú»î¶¯£¬µ«ÊÇÎÒÃÇ²¢Ã»ÓÐ½øÒ»²½ÊµÊ©ÕâÐ©Ïë·¨¡£  
-KENJI: ÎÒÖªµÀ Belle Vie ¾ÍÆäÊÐ³¡µØÎ»×ö¹ýµ÷²é¡£  
-Äã´ÓÕâ·Ýµ÷²éÖÐÁË½âµ½ÁËÊ²Ã´£¿  
-SOPHIE: È¥ÄêµÄ³éÑùµ÷²é±íÃ÷ÄêÇá¸¾Å®¶Ô Belle Vie ÓÐÒ»¶¨µÄÁË½â¡£  
-ËýÃÇÈÏÎª¹«Ë¾µÄ²úÆ·µµ´Î¸ß£¬ÖÊÁ¿ºÃ¡£  
-µ«ÊÇËýÃÇ¶Ô L'Amour ²¢²»ÕæÕý¸ÐÐËÈ¤¡£  
-KENJI: ÎÒ»³ÒÉµ¥¿¿¹ã¸æÄÜ·ñ½â¾öÕâ¸öÎÊÌâ¡£  
-SOPHIE: ÎÒÍ¬ÒâÄãµÄ¹Ûµã£¬µ«ÊÇÎÒÃÇ±ØÐëÕÒµ½ÎüÒýÄêÇáÈËÏû·ÑÈºÌåµÄÍ¾¾¶¡£  
-Èç¹ûÎÒÃÇÄÜÎª±È½ÏÄêÇáµÄÅ®Ê¿´´ÔìÐÂ²úÆ·£¬ÎÒµÄÔ±¹¤Ò»¶¨ÄÜÎªÊ¹ÕâÐ©Å®Ê¿ÁË½âÐÂ²úÆ·¶øÖð²½ÖÆ¶¨³ö¾øÃîÕ½ÂÔ¡£  
+NARRATOR: åœ¨ä¸Šä¸€æ¬¡ä½œä¸šä¸­ï¼ŒJean-Luc Dubois åœ¨çº½çº¦é‡è§äº† Sarah Brownã€‚  
+Sarah è¯å®žé¡¾å®¢ä»ç„¶é’Ÿæƒ…äºŽ Belle Vieã€‚  
+çŽ°åœ¨ï¼ŒKenji åœ¨ä¸Ž Belle Vie çš„å¹¿å‘Šéƒ¨ç»ç† Sophie Leblanc ä¼šé¢ã€‚  
+å…³äºŽå…¬å¸çš„å¹¿å‘Šç­–ç•¥ï¼ŒSophie å°†è¯´äº›ä»€ä¹ˆå‘¢ï¼Ÿ  
+KENJI: æˆ‘å’Œæˆ‘çš„åŒäº‹ Rupert Andrews å·²ç»æ”¶é›†äº†ä¸€äº›æœ‰å…³ Belle Vie äº§å“çš„ä¿¡æ¯ã€‚  
+æˆ‘æƒ³å’Œä½ è§é¢ï¼Œè°ˆè°ˆå…¬å¸çš„å¹¿å‘Šæƒ…å†µã€‚  
+SOPHIE: æˆ‘ä¸€ç›´å¸Œæœ›èƒ½ä¸Žä½ è°ˆè°ˆã€‚  
+æˆ‘è®¤ä¸ºæœ€é‡è¦çš„é—®é¢˜æ˜¯ Belle Vie è¿‡åŽ»ä¸€ç›´ä¸éœ€è¦åšå¤§é‡çš„å¹¿å‘Šï¼ŒçŽ°åœ¨åˆ™ä¸ç„¶ã€‚  
+æ—©å‡ å¹´ï¼ŒL'Amour çš„æˆåŠŸä½¿ Belle Vie æœ‰äº†è¾ƒé«˜çš„å“ç‰Œä»·å€¼ã€‚  
+è‡ªé‚£æ—¶å€™èµ·ï¼Œæˆ‘ä»¬ä¿æŒç€ç«žäº‰åŠ›ï¼Œé çš„æ˜¯å“ç‰Œæ”¯æŒåº¦å’Œæˆ‘ä»¬å¼ºå¤§çš„å£°èª‰ï¼Œè€Œä¸æ˜¯é å¹¿å‘Šã€‚  
+KENJI: æˆ‘æ˜Žç™½ã€‚  
+é‚£ä¹ˆï¼Œä½ è®¤ä¸ºçŽ°åœ¨å…¬å¸éœ€è¦é å¢žåŠ å¹¿å‘Šæ¥å¸å¼•é¡¾å®¢å—ï¼Ÿ  
+SOPHIE: æ˜¯çš„ï¼Œç»å¯¹å¿…è¦ã€‚  
+æˆ‘ä»¬çš„å¹¿å‘Šæ´»åŠ¨åœ¨è¿‡åŽ»åå¹´åŸºæœ¬ä¸Šæ²¡æœ‰å˜è¿‡ï¼  
+å½“ä¸€äº›æ–°çš„å“ç‰ŒæŠ¢å æˆ‘ä»¬çš„å¸‚åœºä»½é¢çš„æ—¶å€™ï¼Œæˆ‘ä»¬å´ä¸èƒ½é‡‡å–è¡ŒåŠ¨ä¿æŠ¤è‡ªå·±ã€‚  
+è¿™æ­£æ˜¯é”€å”®é¢ä¸‹é™çš„åŽŸå› ã€‚  
+KENJI: å—¯... æˆ‘æ˜Žç™½äº†ã€‚  
+ä½ ä»¬çŽ°åœ¨è¿˜æœ‰å…¶ä»–ä»€ä¹ˆé—®é¢˜ï¼Ÿ  
+SOPHIE: å¦å¤–ä¸€ä¸ªé—®é¢˜æ˜¯æˆ‘ä»¬åº”è¯¥ç»¼åˆè¿ç”¨å„ç§åª’ä½“æ¥åšå¹¿å‘Šã€‚  
+æˆ‘ä»¬æŠŠå‡ ä¹Žæ‰€æœ‰çš„å¹¿å‘Šéƒ½æ”¾åœ¨å¦‡å¥³æ—¶å°šæ‚å¿—ä¸Šã€‚  
+æˆ‘ä»¬æ›¾ä¸º L'Amour ç­–åˆ’äº†é«˜æ¡£æ¬¡çš„å¹¿å‘Šæ´»åŠ¨ï¼Œä½†æ˜¯çŽ°åœ¨æˆ‘ä»¬éœ€è¦é‡æ–°è€ƒè™‘é¢å‘æ›´åºžå¤§ã€æ›´å¹´è½»çš„æ¶ˆè´¹ç¾¤ä½“çš„å¹¿å‘Šç­–ç•¥ã€‚  
+KENJI: ä½ æ‰“ç®—æ€Žä¹ˆåšå‘¢ï¼Ÿ  
+SOPHIE: æ˜¯è¿™æ ·çš„ï¼Œåœ¨åŽ»å¹´æˆ‘ä»¬ç®¡ç†ç­å­çš„å‡ºå¤–ä¼‘æ•´æ—¶ï¼Œæˆ‘ä»¬ä¸€è‡´è®¤ä¸º Belle Vie åº”è¯¥å‘å±•ä¸€ä¸ªæ›´å¯ŒæŒ‘æˆ˜æ€§çš„åª’ä½“è®¡åˆ’ã€‚  
+æˆ‘ä»¬è°ˆåˆ°è¿‡ç”µè§†å¹¿å‘Šå’Œé›¶å”®ä¿ƒé”€æ´»åŠ¨ï¼Œä½†æ˜¯æˆ‘ä»¬å¹¶æ²¡æœ‰è¿›ä¸€æ­¥å®žæ–½è¿™äº›æƒ³æ³•ã€‚  
+KENJI: æˆ‘çŸ¥é“ Belle Vie å°±å…¶å¸‚åœºåœ°ä½åšè¿‡è°ƒæŸ¥ã€‚  
+ä½ ä»Žè¿™ä»½è°ƒæŸ¥ä¸­äº†è§£åˆ°äº†ä»€ä¹ˆï¼Ÿ  
+SOPHIE: åŽ»å¹´çš„æŠ½æ ·è°ƒæŸ¥è¡¨æ˜Žå¹´è½»å¦‡å¥³å¯¹ Belle Vie æœ‰ä¸€å®šçš„äº†è§£ã€‚  
+å¥¹ä»¬è®¤ä¸ºå…¬å¸çš„äº§å“æ¡£æ¬¡é«˜ï¼Œè´¨é‡å¥½ã€‚  
+ä½†æ˜¯å¥¹ä»¬å¯¹ L'Amour å¹¶ä¸çœŸæ­£æ„Ÿå…´è¶£ã€‚  
+KENJI: æˆ‘æ€€ç–‘å•é å¹¿å‘Šèƒ½å¦è§£å†³è¿™ä¸ªé—®é¢˜ã€‚  
+SOPHIE: æˆ‘åŒæ„ä½ çš„è§‚ç‚¹ï¼Œä½†æ˜¯æˆ‘ä»¬å¿…é¡»æ‰¾åˆ°å¸å¼•å¹´è½»äººæ¶ˆè´¹ç¾¤ä½“çš„é€”å¾„ã€‚  
+å¦‚æžœæˆ‘ä»¬èƒ½ä¸ºæ¯”è¾ƒå¹´è½»çš„å¥³å£«åˆ›é€ æ–°äº§å“ï¼Œæˆ‘çš„å‘˜å·¥ä¸€å®šèƒ½ä¸ºä½¿è¿™äº›å¥³å£«äº†è§£æ–°äº§å“è€Œé€æ­¥åˆ¶å®šå‡ºç»å¦™æˆ˜ç•¥ã€‚  
 ###  5.2 vocabulary   
 > 1. He doesn't have very sophisticated tastes. He didn't even know what caviar is.  
 > 2. We need to protect our computer files, so be sure you make copies of everything.  
@@ -560,11 +560,11 @@ NARRATOR: Isabelle Rollette, Simone Buttet, and Jean-Luc Dubois agree that Belle
 NARRATOR: Bernard has been interested only in a new men's fragrance line.  
 KENJI AND RUPERT WANT TO EXPAND THE SCOPE OF THEIR RESEARCH BECAUSE THEY BELIEVE THAT THE COMPANY HAS THE RESOURCES TO TRY ALL THREE OPTIONS: a young women's fragrance, a men's fragrance, and a new accessories line.  
 NARRATOR: Kenji and Rupert have finished their research and are now planning their presentation to Bernard, Isabelle, Simone, and Jean-Luc. What do you think they will suggest to Belle Vie?  
-´ÓÇ°£¬Kenji Watanabe ºÍ Rupert Andrews Óë Belle Vie µÄ¹ÜÀí²ãÌ¸ÂÛ¹ý ¹«Ë¾µÄÒ»Ð©Ñ¡Ôñ¡£  
-Isabelle Rollette¡¢Simone Buttet ºÍ Jean-Luc Dubois ÔÞ³É Belle Vie Ó¦¸Ã¿ª·¢ÄêÇáÅ®ÐÔÓÃµÄÏãË®£¬²¢À©´óËüµÄÊÎÆ·ÖÖÀà¡£  
-Bernard Ò»Ö±Ö»¶ÔÐÂµÄÄÐÓÃÏãË®²úÆ·¸ÐÐËÈ¤¡£  
-Kenji ºÍ Rupert ÏëÀ©´óËûÃÇµÄ¿¼²ì·¶Î§£¬ÒòÎªËûÃÇÈÏÎª¹«Ë¾ÓÐÄÜÁ¦³¢ÊÔ ËùÓÐÈýÖÖ¿ÉÄÜµÄÑ¡Ôñ£ºÄêÇáÅ®ÐÔÓÃµÄÏãË®¡¢ÄÐÓÃÏãË®ºÍÐÂ¿îÊÎÆ·¡£  
-Kenji ºÍ Rupert ÒÑÍê³ÉÁËËûÃÇµÄ¿¼²ì£¬ÏÖÔÚÕý×¼±¸¸ø Bernard¡¢Isabelle¡¢ Simone¡¢ºÍ Jean-Luc ×÷»ã±¨¡£Äú¾õµÃËûÃÇ»á¶Ô Belle Vie ÌáÊ²Ã´ÑùµÄ½¨Òé£¿  
+ä»Žå‰ï¼ŒKenji Watanabe å’Œ Rupert Andrews ä¸Ž Belle Vie çš„ç®¡ç†å±‚è°ˆè®ºè¿‡ å…¬å¸çš„ä¸€äº›é€‰æ‹©ã€‚  
+Isabelle Rolletteã€Simone Buttet å’Œ Jean-Luc Dubois èµžæˆ Belle Vie åº”è¯¥å¼€å‘å¹´è½»å¥³æ€§ç”¨çš„é¦™æ°´ï¼Œå¹¶æ‰©å¤§å®ƒçš„é¥°å“ç§ç±»ã€‚  
+Bernard ä¸€ç›´åªå¯¹æ–°çš„ç”·ç”¨é¦™æ°´äº§å“æ„Ÿå…´è¶£ã€‚  
+Kenji å’Œ Rupert æƒ³æ‰©å¤§ä»–ä»¬çš„è€ƒå¯ŸèŒƒå›´ï¼Œå› ä¸ºä»–ä»¬è®¤ä¸ºå…¬å¸æœ‰èƒ½åŠ›å°è¯• æ‰€æœ‰ä¸‰ç§å¯èƒ½çš„é€‰æ‹©ï¼šå¹´è½»å¥³æ€§ç”¨çš„é¦™æ°´ã€ç”·ç”¨é¦™æ°´å’Œæ–°æ¬¾é¥°å“ã€‚  
+Kenji å’Œ Rupert å·²å®Œæˆäº†ä»–ä»¬çš„è€ƒå¯Ÿï¼ŒçŽ°åœ¨æ­£å‡†å¤‡ç»™ Bernardã€Isabelleã€ Simoneã€å’Œ Jean-Luc ä½œæ±‡æŠ¥ã€‚æ‚¨è§‰å¾—ä»–ä»¬ä¼šå¯¹ Belle Vie æä»€ä¹ˆæ ·çš„å»ºè®®ï¼Ÿ  
 ###  6.2 listening   
 > NARRATOR: Kenji and Rupert have finished their research and are now planning their presentation to Bernard, Isabelle, Simone, and Jean-Luc.  
 What do you think they will suggest to Belle Vie?  
@@ -572,7 +572,7 @@ KENJI: Hi, Rupert.
 I'm ready to plan next week's presentation to Belle Vie.  
 RUPERT: Great! I am too.  
 So, what are your thoughts?  
-KENJI: Well, I think we should divide our presentation into three main parts: first, Belle Vie's mature products; second, new fragrances; and third, nonfragrances¡ªthat is, cosmetics and accessories.  
+KENJI: Well, I think we should divide our presentation into three main parts: first, Belle Vie's mature products; second, new fragrances; and third, nonfragrancesâ€”that is, cosmetics and accessories.  
 RUPERT: Good. That's just what I was thinking.  
 KENJI: So let's start with mature products, specifically L'Amour.  
 L'Amour's customer base shrinks more every year.  
@@ -583,7 +583,7 @@ A better option is to cut back spending on L'Amour.
 Then the company could redirect L'Amour's profits to other parts of the business.  
 KENJI: You have a point, but if Belle Vie reduces spending on L'Amour, sales will continue to drop.  
 And then L'Amour won't generate enough profits to use in other parts of the business.  
-RUPERT: Yeah¡­ I think you're right.  
+RUPERT: Yeahâ€¦ I think you're right.  
 Another option is to just change the advertising strategy a little.  
 Belle Vie could focus on small changes to help boost sales.  
 KENJI: I like this option the best.  
@@ -599,39 +599,39 @@ I think the company should create a young women's fragrance while slowly develop
 KENJI: So do I.  
 Let's include this strategy in our recommendations.  
 At this rate, we'll have plenty of time to write up our presentation.  
-NARRATOR: Kenji and Rupert Íê³ÉÁËËûÃÇµÄµ÷²é£¬ÏÖÔÚÕý×¼±¸Ïò Bernard¡¢Isabelle¡¢Simone¡¢ºÍ Jean-Luc ×÷»ã±¨¡£  
-ÄúÈÏÎªËûÃÇ»á¶Ô Belle Vie Ìá³öÊ²Ã´ÑùµÄ½¨Òé£¿  
-KENJI: Rupert£¬ÄúºÃ¡£  
-ÎÒÒÑ¾­×¼±¸ÁËÏÂÐÇÆÚÏò Belle Vie »ã±¨µÄ±¨¸æ¡£  
-RUPERT: ºÃ¼«ÁË£¡ ÎÒÒ²ÕâÃ´Ïë¡£  
-ÄúÓÐÊ²Ã´¿´·¨£¿  
-KENJI: ÎÒ¾õµÃÎÒÃÇÓ¦¸Ã°ÑÎÒÃÇµÄ·¢ÑÔ·Ö³ÉÈý´ó²¿·Ö£ºµÚÒ»£¬Belle Vie µÄÀÏ²úÆ·£»µÚ¶þ£¬ÐÂÏãË®£»µÚÈý£¬·ÇÏãË®Àà²úÆ·£¬Ò²¾ÍÊÇ»¯×±Æ·ºÍÊÎÆ·¡£  
-RUPERT: ²»´í¡£¸úÎÒÏëµÄÒ»Ñù¡£  
-KENJI: ÎÒÃÇÏÈ½²ÀÏ²úÆ·£¬ÌØ±ðÊÇ L'Amour¡£  
-L'Amour µÄ¹Ë¿ÍÈºÃ¿Äê¶¼ÔÚ±äÐ¡£¬¶øÇÒÃ¿ÄêÔ½À´Ô½ÉÙ¡£  
-Belle Vie ±ØÐë²ÉÈ¡´ëÊ©£¬²»¹ýÎÒÈÏÎªËûÃÇ²»±ØÍêÈ«¸Ä±äËûÃÇµÄ¹ã¸æ·½·¨¡£  
-RUPERT: ÎÒÒ²¾õµÃÃ»ÓÐ±ØÒª¡£  
-ÎÒ¾õµÃÎª L'Amour ×öÐÂµÄ¹ã¸æÐû´«ÊÕÐ§²»´ó ¡£  
-½ÏºÃµÄ°ì·¨ÊÇÏ÷¼õ¶Ô L'Amour µÄÍ¶×Ê¡£  
-È»ºó£¬¹«Ë¾¿ÉÒÔ½« L'Amour µÄÀûÈó×ªÒÆµ½ÆäËüÒµÎñÉÏÈ¥¡£  
-KENJI: ÄúµÄ»°²»ÎÞµÀÀí¡£¿ÉÊÇ£¬Èç¹û Belle Vie Ï÷¼õ¶Ô L'Amour µÄÍ¶×Ê£¬ËüµÄÏúÊÛÁ¿»¹»á¼ÌÐøÏÂ½µ¡£  
-L'Amour ½«²»ÄÜ²úÉú×ã¹»µÄÀûÈó¹©ÆäËüÒµÎñÊ¹ÓÃ¡£  
-RUPERT: ÄúËµµÃ¶Ô¡£  
-ÄÇÃ´£¬ÁíÒ»¸ö°ì·¨¾ÍÊÇÖ»¶Ô¹ã¸æ²ßÂÔ×öÐ©Ð¡µÄµ÷Õû¡£  
-Belle Vie ¿ÉÒÔÕë¶Ô¿É°ïÖúÀ©´óÏúÊÛÁ¿µÄ·½Ãæ×öÐ¡µÄµ÷Õû¡£  
-KENJI: ÎÒ¾õµÃÕâÖÖ°ì·¨×îºÃ¡£  
-RUPERT: ÎÒÒ²ÕâÃ´Ïë¡£  
-ÕâÖÖ×ö·¨·çÏÕ»á±È½ÏµÍ£¬¶øÇÒ²»»áÓÐÈÎºÎÕæÕýµÄ¸ºÃæ½á¹û¡£  
-ºÃ£¬ÏÖÔÚÎÒÃÇÀ´Ì¸Ì¸Á½¸öÐÂµÄÏãË®ÊÐ³¡£ºÄÐÈËºÍÄêÇáÅ®ÐÔ¡£  
-ÕâÐ©ÊÐ³¡¿ÉÄÜ»á¶ÔÃ¿·ÖÇ®µÄÍ¶×Ê²úÉú½Ï¸ßµÄ»Ø±¨ÂÊ¡£  
-KENJI: ÄÇµ¹²»´í£¬¿ÉÊÇÎÞÂÛ¿ª·¢ËüÃÇÖÐµÄÄÄÒ»¸ö¶¼¿ÉÄÜÓÐ·Ç³£¸ßµÄ·çÏÕ¡£  
-ÎÒ¾õµÃ Belle Vie Ä¿Ç°¶ÔÕâÐ©ÐÂÊÐ³¡Ã»ÓÐ×ã¹»µÄÁË½â¡£  
-RUPERT: ÄúËµµÃ¶Ô£¬µ«±ðÍüÁË Belle Vie ¶ÔÅ®ÓÃÏãË®ÊÇºÜÁË½âµÄ¡£  
-¼¯ÖÐ¿ª·¢ÄêÇáÅ®ÐÔÏãË®µÄ·çÏÕ¿ÉÄÜ»á±È½ÏµÍ¡£  
-ÎÒ¾õµÃ¹«Ë¾Ó¦¸Ã¿ª·¢ÄêÇáÅ®ÐÔµÄÏãË®£¬Í¬Ê±ÔÙÂýÂý¿ª·¢ÄÐÓÃÏãË®µÄÆ·ÖÖ¡£  
-KENJI: ÎÒÒ²¾õµÃÕâÑù±È½ÏºÏÊÊ¡£  
-ÈÃÎÒÃÇ°ÑÕâ¸ö²ßÂÔ°üÀ¨ÔÚÎÒÃÇµÄ½¨ÒéÀïÈ¥¡£  
-ÕâÑùµÄ»°£¬ÎÒÃÇ½«ÓÐ³ä·ÖµÄÊ±¼äÀ´Ð´ÎÒÃÇµÄ±¨¸æ¡£  
+NARRATOR: Kenji and Rupert å®Œæˆäº†ä»–ä»¬çš„è°ƒæŸ¥ï¼ŒçŽ°åœ¨æ­£å‡†å¤‡å‘ Bernardã€Isabelleã€Simoneã€å’Œ Jean-Luc ä½œæ±‡æŠ¥ã€‚  
+æ‚¨è®¤ä¸ºä»–ä»¬ä¼šå¯¹ Belle Vie æå‡ºä»€ä¹ˆæ ·çš„å»ºè®®ï¼Ÿ  
+KENJI: Rupertï¼Œæ‚¨å¥½ã€‚  
+æˆ‘å·²ç»å‡†å¤‡äº†ä¸‹æ˜ŸæœŸå‘ Belle Vie æ±‡æŠ¥çš„æŠ¥å‘Šã€‚  
+RUPERT: å¥½æžäº†ï¼ æˆ‘ä¹Ÿè¿™ä¹ˆæƒ³ã€‚  
+æ‚¨æœ‰ä»€ä¹ˆçœ‹æ³•ï¼Ÿ  
+KENJI: æˆ‘è§‰å¾—æˆ‘ä»¬åº”è¯¥æŠŠæˆ‘ä»¬çš„å‘è¨€åˆ†æˆä¸‰å¤§éƒ¨åˆ†ï¼šç¬¬ä¸€ï¼ŒBelle Vie çš„è€äº§å“ï¼›ç¬¬äºŒï¼Œæ–°é¦™æ°´ï¼›ç¬¬ä¸‰ï¼Œéžé¦™æ°´ç±»äº§å“ï¼Œä¹Ÿå°±æ˜¯åŒ–å¦†å“å’Œé¥°å“ã€‚  
+RUPERT: ä¸é”™ã€‚è·Ÿæˆ‘æƒ³çš„ä¸€æ ·ã€‚  
+KENJI: æˆ‘ä»¬å…ˆè®²è€äº§å“ï¼Œç‰¹åˆ«æ˜¯ L'Amourã€‚  
+L'Amour çš„é¡¾å®¢ç¾¤æ¯å¹´éƒ½åœ¨å˜å°ï¼Œè€Œä¸”æ¯å¹´è¶Šæ¥è¶Šå°‘ã€‚  
+Belle Vie å¿…é¡»é‡‡å–æŽªæ–½ï¼Œä¸è¿‡æˆ‘è®¤ä¸ºä»–ä»¬ä¸å¿…å®Œå…¨æ”¹å˜ä»–ä»¬çš„å¹¿å‘Šæ–¹æ³•ã€‚  
+RUPERT: æˆ‘ä¹Ÿè§‰å¾—æ²¡æœ‰å¿…è¦ã€‚  
+æˆ‘è§‰å¾—ä¸º L'Amour åšæ–°çš„å¹¿å‘Šå®£ä¼ æ”¶æ•ˆä¸å¤§ ã€‚  
+è¾ƒå¥½çš„åŠžæ³•æ˜¯å‰Šå‡å¯¹ L'Amour çš„æŠ•èµ„ã€‚  
+ç„¶åŽï¼Œå…¬å¸å¯ä»¥å°† L'Amour çš„åˆ©æ¶¦è½¬ç§»åˆ°å…¶å®ƒä¸šåŠ¡ä¸ŠåŽ»ã€‚  
+KENJI: æ‚¨çš„è¯ä¸æ— é“ç†ã€‚å¯æ˜¯ï¼Œå¦‚æžœ Belle Vie å‰Šå‡å¯¹ L'Amour çš„æŠ•èµ„ï¼Œå®ƒçš„é”€å”®é‡è¿˜ä¼šç»§ç»­ä¸‹é™ã€‚  
+L'Amour å°†ä¸èƒ½äº§ç”Ÿè¶³å¤Ÿçš„åˆ©æ¶¦ä¾›å…¶å®ƒä¸šåŠ¡ä½¿ç”¨ã€‚  
+RUPERT: æ‚¨è¯´å¾—å¯¹ã€‚  
+é‚£ä¹ˆï¼Œå¦ä¸€ä¸ªåŠžæ³•å°±æ˜¯åªå¯¹å¹¿å‘Šç­–ç•¥åšäº›å°çš„è°ƒæ•´ã€‚  
+Belle Vie å¯ä»¥é’ˆå¯¹å¯å¸®åŠ©æ‰©å¤§é”€å”®é‡çš„æ–¹é¢åšå°çš„è°ƒæ•´ã€‚  
+KENJI: æˆ‘è§‰å¾—è¿™ç§åŠžæ³•æœ€å¥½ã€‚  
+RUPERT: æˆ‘ä¹Ÿè¿™ä¹ˆæƒ³ã€‚  
+è¿™ç§åšæ³•é£Žé™©ä¼šæ¯”è¾ƒä½Žï¼Œè€Œä¸”ä¸ä¼šæœ‰ä»»ä½•çœŸæ­£çš„è´Ÿé¢ç»“æžœã€‚  
+å¥½ï¼ŒçŽ°åœ¨æˆ‘ä»¬æ¥è°ˆè°ˆä¸¤ä¸ªæ–°çš„é¦™æ°´å¸‚åœºï¼šç”·äººå’Œå¹´è½»å¥³æ€§ã€‚  
+è¿™äº›å¸‚åœºå¯èƒ½ä¼šå¯¹æ¯åˆ†é’±çš„æŠ•èµ„äº§ç”Ÿè¾ƒé«˜çš„å›žæŠ¥çŽ‡ã€‚  
+KENJI: é‚£å€’ä¸é”™ï¼Œå¯æ˜¯æ— è®ºå¼€å‘å®ƒä»¬ä¸­çš„å“ªä¸€ä¸ªéƒ½å¯èƒ½æœ‰éžå¸¸é«˜çš„é£Žé™©ã€‚  
+æˆ‘è§‰å¾— Belle Vie ç›®å‰å¯¹è¿™äº›æ–°å¸‚åœºæ²¡æœ‰è¶³å¤Ÿçš„äº†è§£ã€‚  
+RUPERT: æ‚¨è¯´å¾—å¯¹ï¼Œä½†åˆ«å¿˜äº† Belle Vie å¯¹å¥³ç”¨é¦™æ°´æ˜¯å¾ˆäº†è§£çš„ã€‚  
+é›†ä¸­å¼€å‘å¹´è½»å¥³æ€§é¦™æ°´çš„é£Žé™©å¯èƒ½ä¼šæ¯”è¾ƒä½Žã€‚  
+æˆ‘è§‰å¾—å…¬å¸åº”è¯¥å¼€å‘å¹´è½»å¥³æ€§çš„é¦™æ°´ï¼ŒåŒæ—¶å†æ…¢æ…¢å¼€å‘ç”·ç”¨é¦™æ°´çš„å“ç§ã€‚  
+KENJI: æˆ‘ä¹Ÿè§‰å¾—è¿™æ ·æ¯”è¾ƒåˆé€‚ã€‚  
+è®©æˆ‘ä»¬æŠŠè¿™ä¸ªç­–ç•¥åŒ…æ‹¬åœ¨æˆ‘ä»¬çš„å»ºè®®é‡ŒåŽ»ã€‚  
+è¿™æ ·çš„è¯ï¼Œæˆ‘ä»¬å°†æœ‰å……åˆ†çš„æ—¶é—´æ¥å†™æˆ‘ä»¬çš„æŠ¥å‘Šã€‚  
 ###  6.3 vocabulary   
 > 1. The company will stop production of several low-return items. Their focus is on increasing profits.  
 > 2. It's only two years old, but it's the company's most mature product. The next oldest is only six months old.  
@@ -668,7 +668,7 @@ THEN WE'LL PRESENT A RISK-RETURN ANALYSIS OF THE COMPANY'S OPTIONS IN THREE AREA
 Finally, after we've discussed these options, we'll outline our recommendations for future steps.  
 RUPERT: First, let's talk about where you stand in the women's fragrance market today.  
 In many ways, Belle Vie is in an excellent market position.  
-The company and its flagship product ¡ªL'Amour¡ª are highly respected worldwide.  
+The company and its flagship product â€”L'Amourâ€” are highly respected worldwide.  
 The company's strong brand equity is one of its greatest assets.  
 KENJI: At the same time, the women's fragrance market is changing in ways that aren't favorable for Belle Vie.  
 This market segment is becoming more fragmented because of new products and competitors.  
@@ -677,7 +677,7 @@ you'll continue to lose market share.
 RUPERT: Now, let's consider the risks and potential returns of each option.  
 Take a look at this chart while we explain it.  
 First, let's discuss the fragrance market.  
-KENJI: As you can see, adjusting the strategy for your existing flagship product¡ªL'Amour¡ªis a low-risk, low-return option.  
+KENJI: As you can see, adjusting the strategy for your existing flagship productâ€”L'Amourâ€”is a low-risk, low-return option.  
 On the other hand, launching a new women's fragrance presents a medium-risk, medium-return option, and a new men's fragrance presents a higher risk.  
 FINALLY, LET'S MOVE ON TO THE THIRD OPTION: the non-fragrance market.  
 RUPERT: We believe that this category offers high potential returns for Belle Vie.  
@@ -686,37 +686,37 @@ One, you could license the Belle Vie name to a company that makes high-quality a
 Two, you could bring in design experts and develop a new line of accessories or cosmetics.  
 And three, you could acquire a small manufacturer that has high-quality products but limited distribution.  
 KENJI: So, are there any questions before we make our final recommendations?  
-NARRATOR: ÔÚÇ°ÃæµÄÇé½ÚÀï£¬¹ËÎÊ×¨¼Ò Kenji Watanabe ºÍ Rupert Andrews ÔÚ×¼±¸ËûÃÇ¹ØÓÚ Belle Vie µÄ¿ÉÄÜÑ¡ÔñµÄ·¢ÑÔ±¨¸æ¡£  
-ÏÖÔÚËûÃÇ½«¶Ô Belle Vie µÄ×ÊÉî¹ÜÀí²ã×÷»ã±¨·¢ÑÔ¡£  
-KENJI: ºÃ£¬ÈÃÎÒÃÇ¿ªÊ¼°É¡£  
-ÏÂÎçºÃ£¬¸ÐÐ»¸÷Î»ÑûÇëÎÒÃÇ²Î¼ÓÕâ¸ö»áÒé¡£  
-½ñÌì£¬ÎÒºÍÎÒµÄÍ¬ÊÂ Rupert Andrews ½«Ìá³öÎÒÃÇµÄ½¨Òé¡£  
-ÎÒÃÇ½«ÌÖÂÛ Belle Vie ¿ÉÒÔÔõÑùÌá¸ßËüµÄ¾ºÕùµØÎ»¡£  
-RUPERT: ÔÚÎÒ¿ªÊ¼Ö®Ç°£¬ÎÒÃÇÏë¸ÐÐ»ÎªÎÒÃÇµÄµ÷²éÌá¹©Ð­ÖúµÄÃ¿Ò»¸ö Belle Vie Ö°Ô±¡£  
-ÄúÃÇÔÚÕû¸öµ÷²é¹ý³ÌÖÐËùÌá¹©µÄ²ÄÁÏºÍÒâ¼ûÊÇ·Ç³£ÓÐ¼ÛÖµµÄ¡£  
-KENJI: ÎÒÃÇ½«ÏÈ¿´Ò»¿´ Belle Vie µÄÏÖÓÐÊÐ³¡µØÎ»¡£  
-È»ºó£¬ÎÒÃÇ½«¶Ô¹«Ë¾ÔÚÏÖÓÐÏãË®¡¢ÐÂ¿îÏãË®ºÍ·ÇÏãË®Àà²úÆ·Èý¸öÁìÓòÖÐµÄ¿ÉÄÜÑ¡Ôñ×÷·çÏÕ£­»Ø±¨µÄ·ÖÎö¡£  
-ÌÖÂÛÍêÕâÐ©¿ÉÄÜÑ¡Ôñºó£¬ÎÒÃÇ×îºó»á¸ÅÀ¨ÎÒÃÇ¶ÔÎ´À´·¢Õ¹µÄ½¨Òé¡£  
-RUPERT: Ê×ÏÈ£¬ÈÃÎÒÃÇÌ¸Ì¸ÄúÃÇÔÚ½ñÌìÅ®ÓÃÏãË®ÊÐ³¡ÖÐµÄÎ»ÖÃ¡£  
-ÔÚÐí¶à·½Ãæ£¬Belle Vie Õý´¦ÓÚ¼«ºÃµÄÊÐ³¡Î»ÖÃ¡£  
-¹«Ë¾¼°ÆäÍõÅÆ²úÆ· L'Amour ÔÚÊÀ½ç¸÷µØ¶¼ÊÜµ½¸ß¶ÈµÄ×ðÖØ¡£  
-¹«Ë¾µÄÓÅÐãÃûÅÆÉÌ±êÖµÊÇ¹«Ë¾×î´óµÄ×Ê²úÖ®Ò»¡£  
-KENJI: µ«Óë´ËÍ¬Ê±£¬Å®ÓÃÏãË®ÊÐ³¡È´Õý³¯×Å²»ÀûÓÚ Belle Vie µÄ·½Ïò¸Ä±ä¡£  
-ÓÉÓÚÓÐÐÂµÄ²úÆ·ºÍÐÂµÄ¾ºÕùÕß£¬Õâ²¿·ÖÊÐ³¡ÕýÔÚ±äµÃ¸ü¼ÓÖ§ÀëÆÆËé¡£  
-Èç¹ûÄúÃÇ²»¸Ä±äÄúÃÇµÄÊÐ³¡²ßÂÔ£¬ÄúÃÇ½«»á¼ÌÐøÊ§È¥ÄúÃÇµÄÊÐ³¡Õ¼ÓÐÂÊ¡£  
-RUPERT: ÕâÊÇÕæµÄ¡£  
-ÏÖÔÚÈÃÎÒÃÇ¿¼ÂÇÃ¿¸öÑ¡ÔñµÄ·çÏÕ¼°¿ÉÄÜµÄ»Ø±¨¡£  
-Çë¿´ÕâÕÅÍ¼±í£¬ÎÒÃÇ½«ÖðÏî½âÊÍ¡£  
-Ê×ÏÈ£¬ÈÃÎÒÃÇÌÖÂÛÏãË®ÊÐ³¡¡£  
-KENJI: ¿ÉÒÔ¿´³ö£¬µ÷ÕûÏÖÓÐÆì½¢²úÆ·¡°L'Amour¡±µÄÕ½ÂÔÊÇÒ»¸öµÍ·çÏÕ¡¢µÍ»Ø±¨µÄ±¸Ñ¡·½·¨¡£  
-¶øÔÚÁíÒ»·½Ãæ£¬ÎÒÃÇ¿´µ½£¬¿ª·¢ÐÂ¿îÅ®ÓÃÏãË®³ÊÏÖÎªÖÐµÈ·çÏÕºÍÖÐµÈ»Ø±¨µÄÑ¡ Ôñ£¬¿ª·¢ÐÂµÄÄÐÓÃÏãË®Ôò³ÊÏÖÎª¸ß·çÏÕµÄÑ¡Ôñ¡£  
-×îºó£¬ÈÃÎÒÃÇ¿´¿´µÚÈýÖÖÑ¡Ôñ£º·ÇÏãË®Àà²úÆ·ÊÐ³¡¡£  
-RUPERT: ÎÒÃÇÏàÐÅÕâ¸öÖÖÀàºÜÓÐ¿ÉÄÜ»á¸ø Belle Vie ´øÀ´¸ßµÄ»Ø±¨¡£  
-ÎÒÃÇÈÏÎª£¬¹«Ë¾ÔÚ·ÇÏãË®ÊÐ³¡ÖÐÓÐÈýÏî±¸Ñ¡Õ½ÂÔ¡£  
-µÚÒ»£¬ÄúÃÇ¿ÉÒÔ½« Belle Vie µÄÆ·ÅÆÓÐÌõ¼þµØ×ªÈÃÉú²ú¸ßÖÊÁ¿×°ÊÎÆ·»ò»¯×±Æ·µÄ¹«Ë¾Ê¹ÓÃ¡£  
-µÚ¶þ£¬ÄúÃÇ¿ÉÒÔÇëÉè¼Æ×¨¼Ò¿ª·¢ÐÂµÄÊÎÆ·»ò»¯×±Æ·²úÆ·¡£  
-µÚÈý£¬ÄúÃÇ¿ÉÒÔ²¢¹ºÒ»¼ÒÉú²ú¸ßÖÊÁ¿²úÆ·£¬µ«·ÖÏúÃæÓÐÏÞµÄÐ¡ÐÍ¹¤³§¡£  
-KENJI: ÔÚÎÒÃÇ×Ü½áÎÒÃÇµÄ×îºó½¨ÒéÖ®Ç°£¬ÇëÎÊ¸÷Î»ÓÐÃ»ÓÐÎÊÌâ£¿  
+NARRATOR: åœ¨å‰é¢çš„æƒ…èŠ‚é‡Œï¼Œé¡¾é—®ä¸“å®¶ Kenji Watanabe å’Œ Rupert Andrews åœ¨å‡†å¤‡ä»–ä»¬å…³äºŽ Belle Vie çš„å¯èƒ½é€‰æ‹©çš„å‘è¨€æŠ¥å‘Šã€‚  
+çŽ°åœ¨ä»–ä»¬å°†å¯¹ Belle Vie çš„èµ„æ·±ç®¡ç†å±‚ä½œæ±‡æŠ¥å‘è¨€ã€‚  
+KENJI: å¥½ï¼Œè®©æˆ‘ä»¬å¼€å§‹å§ã€‚  
+ä¸‹åˆå¥½ï¼Œæ„Ÿè°¢å„ä½é‚€è¯·æˆ‘ä»¬å‚åŠ è¿™ä¸ªä¼šè®®ã€‚  
+ä»Šå¤©ï¼Œæˆ‘å’Œæˆ‘çš„åŒäº‹ Rupert Andrews å°†æå‡ºæˆ‘ä»¬çš„å»ºè®®ã€‚  
+æˆ‘ä»¬å°†è®¨è®º Belle Vie å¯ä»¥æ€Žæ ·æé«˜å®ƒçš„ç«žäº‰åœ°ä½ã€‚  
+RUPERT: åœ¨æˆ‘å¼€å§‹ä¹‹å‰ï¼Œæˆ‘ä»¬æƒ³æ„Ÿè°¢ä¸ºæˆ‘ä»¬çš„è°ƒæŸ¥æä¾›ååŠ©çš„æ¯ä¸€ä¸ª Belle Vie èŒå‘˜ã€‚  
+æ‚¨ä»¬åœ¨æ•´ä¸ªè°ƒæŸ¥è¿‡ç¨‹ä¸­æ‰€æä¾›çš„ææ–™å’Œæ„è§æ˜¯éžå¸¸æœ‰ä»·å€¼çš„ã€‚  
+KENJI: æˆ‘ä»¬å°†å…ˆçœ‹ä¸€çœ‹ Belle Vie çš„çŽ°æœ‰å¸‚åœºåœ°ä½ã€‚  
+ç„¶åŽï¼Œæˆ‘ä»¬å°†å¯¹å…¬å¸åœ¨çŽ°æœ‰é¦™æ°´ã€æ–°æ¬¾é¦™æ°´å’Œéžé¦™æ°´ç±»äº§å“ä¸‰ä¸ªé¢†åŸŸä¸­çš„å¯èƒ½é€‰æ‹©ä½œé£Žé™©ï¼å›žæŠ¥çš„åˆ†æžã€‚  
+è®¨è®ºå®Œè¿™äº›å¯èƒ½é€‰æ‹©åŽï¼Œæˆ‘ä»¬æœ€åŽä¼šæ¦‚æ‹¬æˆ‘ä»¬å¯¹æœªæ¥å‘å±•çš„å»ºè®®ã€‚  
+RUPERT: é¦–å…ˆï¼Œè®©æˆ‘ä»¬è°ˆè°ˆæ‚¨ä»¬åœ¨ä»Šå¤©å¥³ç”¨é¦™æ°´å¸‚åœºä¸­çš„ä½ç½®ã€‚  
+åœ¨è®¸å¤šæ–¹é¢ï¼ŒBelle Vie æ­£å¤„äºŽæžå¥½çš„å¸‚åœºä½ç½®ã€‚  
+å…¬å¸åŠå…¶çŽ‹ç‰Œäº§å“ L'Amour åœ¨ä¸–ç•Œå„åœ°éƒ½å—åˆ°é«˜åº¦çš„å°Šé‡ã€‚  
+å…¬å¸çš„ä¼˜ç§€åç‰Œå•†æ ‡å€¼æ˜¯å…¬å¸æœ€å¤§çš„èµ„äº§ä¹‹ä¸€ã€‚  
+KENJI: ä½†ä¸Žæ­¤åŒæ—¶ï¼Œå¥³ç”¨é¦™æ°´å¸‚åœºå´æ­£æœç€ä¸åˆ©äºŽ Belle Vie çš„æ–¹å‘æ”¹å˜ã€‚  
+ç”±äºŽæœ‰æ–°çš„äº§å“å’Œæ–°çš„ç«žäº‰è€…ï¼Œè¿™éƒ¨åˆ†å¸‚åœºæ­£åœ¨å˜å¾—æ›´åŠ æ”¯ç¦»ç ´ç¢Žã€‚  
+å¦‚æžœæ‚¨ä»¬ä¸æ”¹å˜æ‚¨ä»¬çš„å¸‚åœºç­–ç•¥ï¼Œæ‚¨ä»¬å°†ä¼šç»§ç»­å¤±åŽ»æ‚¨ä»¬çš„å¸‚åœºå æœ‰çŽ‡ã€‚  
+RUPERT: è¿™æ˜¯çœŸçš„ã€‚  
+çŽ°åœ¨è®©æˆ‘ä»¬è€ƒè™‘æ¯ä¸ªé€‰æ‹©çš„é£Žé™©åŠå¯èƒ½çš„å›žæŠ¥ã€‚  
+è¯·çœ‹è¿™å¼ å›¾è¡¨ï¼Œæˆ‘ä»¬å°†é€é¡¹è§£é‡Šã€‚  
+é¦–å…ˆï¼Œè®©æˆ‘ä»¬è®¨è®ºé¦™æ°´å¸‚åœºã€‚  
+KENJI: å¯ä»¥çœ‹å‡ºï¼Œè°ƒæ•´çŽ°æœ‰æ——èˆ°äº§å“â€œL'Amourâ€çš„æˆ˜ç•¥æ˜¯ä¸€ä¸ªä½Žé£Žé™©ã€ä½Žå›žæŠ¥çš„å¤‡é€‰æ–¹æ³•ã€‚  
+è€Œåœ¨å¦ä¸€æ–¹é¢ï¼Œæˆ‘ä»¬çœ‹åˆ°ï¼Œå¼€å‘æ–°æ¬¾å¥³ç”¨é¦™æ°´å‘ˆçŽ°ä¸ºä¸­ç­‰é£Žé™©å’Œä¸­ç­‰å›žæŠ¥çš„é€‰ æ‹©ï¼Œå¼€å‘æ–°çš„ç”·ç”¨é¦™æ°´åˆ™å‘ˆçŽ°ä¸ºé«˜é£Žé™©çš„é€‰æ‹©ã€‚  
+æœ€åŽï¼Œè®©æˆ‘ä»¬çœ‹çœ‹ç¬¬ä¸‰ç§é€‰æ‹©ï¼šéžé¦™æ°´ç±»äº§å“å¸‚åœºã€‚  
+RUPERT: æˆ‘ä»¬ç›¸ä¿¡è¿™ä¸ªç§ç±»å¾ˆæœ‰å¯èƒ½ä¼šç»™ Belle Vie å¸¦æ¥é«˜çš„å›žæŠ¥ã€‚  
+æˆ‘ä»¬è®¤ä¸ºï¼Œå…¬å¸åœ¨éžé¦™æ°´å¸‚åœºä¸­æœ‰ä¸‰é¡¹å¤‡é€‰æˆ˜ç•¥ã€‚  
+ç¬¬ä¸€ï¼Œæ‚¨ä»¬å¯ä»¥å°† Belle Vie çš„å“ç‰Œæœ‰æ¡ä»¶åœ°è½¬è®©ç”Ÿäº§é«˜è´¨é‡è£…é¥°å“æˆ–åŒ–å¦†å“çš„å…¬å¸ä½¿ç”¨ã€‚  
+ç¬¬äºŒï¼Œæ‚¨ä»¬å¯ä»¥è¯·è®¾è®¡ä¸“å®¶å¼€å‘æ–°çš„é¥°å“æˆ–åŒ–å¦†å“äº§å“ã€‚  
+ç¬¬ä¸‰ï¼Œæ‚¨ä»¬å¯ä»¥å¹¶è´­ä¸€å®¶ç”Ÿäº§é«˜è´¨é‡äº§å“ï¼Œä½†åˆ†é”€é¢æœ‰é™çš„å°åž‹å·¥åŽ‚ã€‚  
+KENJI: åœ¨æˆ‘ä»¬æ€»ç»“æˆ‘ä»¬çš„æœ€åŽå»ºè®®ä¹‹å‰ï¼Œè¯·é—®å„ä½æœ‰æ²¡æœ‰é—®é¢˜ï¼Ÿ  
 ###  7.2 vocabulary   
 > 1. That market is very fragmented. I think it will be difficult to create advertisements that appeal to all the different groups.  
 > 2. We'll have a better understanding of the problem after we finish the analysis of the data.  
@@ -747,12 +747,12 @@ Our strategy for L'Amour is probably our most important point.
 L'Amour helped establish Belle Vie as a top-tier company, and in many countries around the world the fragrance is a household name.  
 RUPERT: Because L'Amour is so well known already, we recommend only small changes in advertising and marketing to increase sales.  
 Big changes could jeopardize L'Amour's current customer base.  
-KENJI: As for the new fragrances, we recommend that you move forward with a men's fragrance¡ªbut slowly.  
+KENJI: As for the new fragrances, we recommend that you move forward with a men's fragranceâ€”but slowly.  
 Test it in a limited market.  
 This will give you the opportunity to refine the product and marketing plan before trying a full launch.  
 RUPERT: We also recommend that you focus attention on the younger women's fragrance market since women's fragrances are your area of expertise.  
 Our market research shows that younger women want a fragrance that's more youthful and exciting than L'Amour.  
-KENJI: Finally, regarding the third category¡ªthe nonfragrance market¡ªwe recommend two possible options.  
+KENJI: Finally, regarding the third categoryâ€”the nonfragrance marketâ€”we recommend two possible options.  
 Since the Belle Vie name is very valuable, you should license the name to another company that produces high-quality cosmetics or accessories.  
 This would provide a steady income at little or no cost.  
 RUPERT: At the same time, start talking with investment banks about the possibility of acquiring a small, high-quality accessories company.  
@@ -763,41 +763,41 @@ Well, I think that covers everything.
 Now, we'd like to answer any questions you might have.  
 BERNARD: First, let me thank you both for a very interesting and useful presentation.  
 Could you say a little more about what specific changes we should make in our marketing and advertising strategy for L'Amour?  
-KENJI: Sure. We think that Belle Vie should focus more on in-store promotions¡ªespecially in the department stores where your customers shop.  
+KENJI: Sure. We think that Belle Vie should focus more on in-store promotionsâ€”especially in the department stores where your customers shop.  
 You should freshen up the ad campaign and advertise in a wider variety of women's magazines, and also expand your online advertising.  
 Emphasize the reputation of the brand.  
 Any other questions?  
 No? Well, that's it.  
 Thank you very much for your time, and we hope to work with Belle Vie moving forward.  
-NARRATOR: Kenji Watanabe ºÍ Rupert Andrews ÒÑ¾­Ìá³öÁËËûÃÇ¶Ô Belle Vie µÄ¿ÉÄÜÑ¡ÔñµÄ·ÖÎö¡£  
-ÏÖÔÚËûÃÇÕýÔÚÏò Belle Vie µÄ×Ü¾­ÀíÃÇÌá½¨Òé¡£  
-KENJI: Ç°ÃæÎÒÃÇÒÑ¾­ÌÖÂÛÁË Belle Vie µÄ¿ÉÄÜÑ¡Ôñ¼°Æä¿ÉÄÜ¸ø¹«Ë¾´øÀ´µÄ·çÏÕºÍ»Ø±¨¡£ÏÖÔÚ£¬ÎÒÃÇÏëËµËµÎÒÃÇµÄ½¨Òé¡£  
-ÎÒÃÇµÄ L'Amour ²ßÂÔ¿ÉÄÜÊÇÎÒÃÇ×îÖØÒªµÄ¹Ûµã¡£  
-L'Amour °ïÖú Belle Vie ½¨Á¢ÁË¸ß¼¶¹«Ë¾µÄÐÎÏó£¬²¢Ê¹ËüµÄÏãË®ÔÚÊÀ½çÉÏÐí¶à¹ú¼Ò³ÉÎª¼ÒÓ÷»§ÏþµÄÃû×Ö¡£  
-RUPERT: ÒòÎª L'Amour ÒÑ¾­·Ç³£ÖøÃû£¬ÎÒÃÇ½¨ÒéÔÚ¹ã¸æºÍÍÆÏúÉÏ×÷Ð¡µÄ¸Ä½øÒÔÔö¼ÓÏúÊÛ¡£  
-´óµÄ¸Ä±ä¿ÉÄÜ»áÎ£º¦ L'Amour µÄÏÖÓÐ¹Ë¿ÍÈº¡£  
-KENJI: ÖÁÓÚÐÂÏãË®£¬ÎÒÃÇ½¨ÒéÒÔºóÍÆ³öÄÐÊ¿ÏãË®£¬µ«ÒªÂýÂýÀ´¡£  
-ÏÈÔÚ½ÏÐ¡µÄÊÐ³¡ÀïÊÔÑé¡£  
-ÕâÑù×ö»áÈÃÄúÃÇÔÚÈ«ÃæÍÆ¹ãÖ®Ç°ÓÐ»ú»á¸Ä½ø²úÆ·ºÍÊÐ³¡¼Æ»®¡£  
-RUPERT: ÎÒÃÇ»¹½¨ÒéÄúÃÇ½«ÖØµã·ÅÔÚÄêÇáÅ®ÐÔÏãË®ÊÐ³¡£¬ÒòÎªÅ®ÓÃÏãË®ÊÇÄúÃÇ¾«ÊìµÄÁìÓò¡£  
-ÎÒÃÇµÄµ÷²éÏÔÊ¾£¬ÄêÇáÅ®ÐÔÏëÒª±È L'Amour ÄêÇáºÍ´Ì¼¤µÄÏãË®¡£  
-KENJI: ×îºó£¬¹ØÓÚµÚÈýÀà£¬·ÇÏãË®Àà²úÆ·ÊÐ³¡£¬ÎÒÃÇÌá³öÁ½ÖÖ¿ÉÄÜµÄÑ¡Ôñ½¨Òé¡£  
-ÒòÎª Belle Vie µÄÃû×Ö·Ç³£ÓÐ¼ÛÖµ£¬ÄúÃÇÓ¦¸Ã½«Ãû×Ö×âÁÞ£¬×â¸øÁíÒ»¼ÒÉú²úÓÅÖÊ»¯×±Æ·»òÊÎÆ·µÄ¹«Ë¾Ê¹ÓÃ¡£  
-ÕâÑù×ö½«Îª¹«Ë¾Ìá¹©µÍ³É±¾»òÎÞ³É±¾µÄÎÈ¶¨ÊÕÈë¡£  
-RUPERT: Óë´ËÍ¬Ê±£¬¿ªÊ¼ÓëÍ¶×ÊÒøÐÐÌ¸ÊÕ¹ºÒ»¼ÒÉú²úÓÅÖÊÊÎÆ·µÄÐ¡ÐÍ¹«Ë¾µÄ¿ÉÄÜÐÔ¡£  
-ºÏÊÊµÄ¹«Ë¾¿ÉÒÔ°ïÖú Belle Vie ³É¹¦µØÇÐÈëÄêÇáÅ®ÐÔµÄÊÐ³¡¡£  
-KENJI: ÎÞÂÛÄúÑ¡ÔñÄÄÒ»ÖÖ¼Æ»®£¬¶¼¿ÉÄÜ»á°éËæ³öÏÖÐí¶àÆäËüÎÊÌâ¡£  
-µ±È»£¬ÎÒÃÇ»¶Ó­ÔÚÎ´À´¸úÄúÃÇÒ»Æð¹¤×÷µÄ»ú»á¡£  
-ºÃ£¬ÎÒÏëÎÒÃÇÒªËµµÄ¾ÍÊÇÕâÐ©¡£  
-ÏÖÔÚ£¬ÎÒÏë»Ø´ðÄúÃÇ¿ÉÄÜÓÐµÄÈÎºÎÎÊÌâ¡£  
-BERNARD: Ê×ÏÈ£¬ÈÃÎÒ¸ÐÐ»¶þÎ»·Ç³£ÓÐÈ¤ºÍÓÐÓÃµÄÑÝ½²¡£  
-ÄúÄÜ²»ÄÜ¶ÔÎÒÃÇÔÚ L'Amour µÄÍÆÏúºÍ¹ã¸æ²ßÂÔ·½ÃæÓ¦¸Ã×÷Ê²Ã´ÑùµÄ¾ßÌå¸Ä½øÔÙËµÏêÏ¸Ò»Ð©µÄÒâ¼û£¿  
-KENJI: µ±È»¿ÉÒÔ¡£ÎÒÃÇÈÏÎª Belle Vie Ó¦¸ÃÖØµã¼ÓÇ¿µêÄÚÐû´«£¬ÌØ±ðÊÇÔÚÄúÃÇ¹Ë¿Í¹º»õµÄ°Ù»õÉÌµêÄÚµÄÐû´«¡£  
-Ó¦¸ÃÔÚ¸ü¶àµÄÅ®ÐÔÔÓÖ¾ÖÐ¸üÐÂ¹ã¸æ´óÆ¬²¢¿¯µÇ¹ã¸æ£¬¶øÇÒ»¹ÒªÀ©´óÔÚÏß¹ã¸æ¹æÄ£¡£  
-Ç¿µ÷Æ·ÅÆµÄÉùÓþ¡£  
-ÓÐÃ»ÓÐÆäËüÎÊÌâ£¿  
-²»ÐÐ£¿ àÅ£¬¾ÍÕâÑù°É¡£  
-·Ç³£¸ÐÐ»ÄãËù»¨µÄÊ±¼ä£¬ÎÒÃÇÏ£ÍûÒÔºóÓë Belle Vie ºÏ×÷¡£  
+NARRATOR: Kenji Watanabe å’Œ Rupert Andrews å·²ç»æå‡ºäº†ä»–ä»¬å¯¹ Belle Vie çš„å¯èƒ½é€‰æ‹©çš„åˆ†æžã€‚  
+çŽ°åœ¨ä»–ä»¬æ­£åœ¨å‘ Belle Vie çš„æ€»ç»ç†ä»¬æå»ºè®®ã€‚  
+KENJI: å‰é¢æˆ‘ä»¬å·²ç»è®¨è®ºäº† Belle Vie çš„å¯èƒ½é€‰æ‹©åŠå…¶å¯èƒ½ç»™å…¬å¸å¸¦æ¥çš„é£Žé™©å’Œå›žæŠ¥ã€‚çŽ°åœ¨ï¼Œæˆ‘ä»¬æƒ³è¯´è¯´æˆ‘ä»¬çš„å»ºè®®ã€‚  
+æˆ‘ä»¬çš„ L'Amour ç­–ç•¥å¯èƒ½æ˜¯æˆ‘ä»¬æœ€é‡è¦çš„è§‚ç‚¹ã€‚  
+L'Amour å¸®åŠ© Belle Vie å»ºç«‹äº†é«˜çº§å…¬å¸çš„å½¢è±¡ï¼Œå¹¶ä½¿å®ƒçš„é¦™æ°´åœ¨ä¸–ç•Œä¸Šè®¸å¤šå›½å®¶æˆä¸ºå®¶å–»æˆ·æ™“çš„åå­—ã€‚  
+RUPERT: å› ä¸º L'Amour å·²ç»éžå¸¸è‘—åï¼Œæˆ‘ä»¬å»ºè®®åœ¨å¹¿å‘Šå’ŒæŽ¨é”€ä¸Šä½œå°çš„æ”¹è¿›ä»¥å¢žåŠ é”€å”®ã€‚  
+å¤§çš„æ”¹å˜å¯èƒ½ä¼šå±å®³ L'Amour çš„çŽ°æœ‰é¡¾å®¢ç¾¤ã€‚  
+KENJI: è‡³äºŽæ–°é¦™æ°´ï¼Œæˆ‘ä»¬å»ºè®®ä»¥åŽæŽ¨å‡ºç”·å£«é¦™æ°´ï¼Œä½†è¦æ…¢æ…¢æ¥ã€‚  
+å…ˆåœ¨è¾ƒå°çš„å¸‚åœºé‡Œè¯•éªŒã€‚  
+è¿™æ ·åšä¼šè®©æ‚¨ä»¬åœ¨å…¨é¢æŽ¨å¹¿ä¹‹å‰æœ‰æœºä¼šæ”¹è¿›äº§å“å’Œå¸‚åœºè®¡åˆ’ã€‚  
+RUPERT: æˆ‘ä»¬è¿˜å»ºè®®æ‚¨ä»¬å°†é‡ç‚¹æ”¾åœ¨å¹´è½»å¥³æ€§é¦™æ°´å¸‚åœºï¼Œå› ä¸ºå¥³ç”¨é¦™æ°´æ˜¯æ‚¨ä»¬ç²¾ç†Ÿçš„é¢†åŸŸã€‚  
+æˆ‘ä»¬çš„è°ƒæŸ¥æ˜¾ç¤ºï¼Œå¹´è½»å¥³æ€§æƒ³è¦æ¯” L'Amour å¹´è½»å’Œåˆºæ¿€çš„é¦™æ°´ã€‚  
+KENJI: æœ€åŽï¼Œå…³äºŽç¬¬ä¸‰ç±»ï¼Œéžé¦™æ°´ç±»äº§å“å¸‚åœºï¼Œæˆ‘ä»¬æå‡ºä¸¤ç§å¯èƒ½çš„é€‰æ‹©å»ºè®®ã€‚  
+å› ä¸º Belle Vie çš„åå­—éžå¸¸æœ‰ä»·å€¼ï¼Œæ‚¨ä»¬åº”è¯¥å°†åå­—ç§Ÿèµï¼Œç§Ÿç»™å¦ä¸€å®¶ç”Ÿäº§ä¼˜è´¨åŒ–å¦†å“æˆ–é¥°å“çš„å…¬å¸ä½¿ç”¨ã€‚  
+è¿™æ ·åšå°†ä¸ºå…¬å¸æä¾›ä½Žæˆæœ¬æˆ–æ— æˆæœ¬çš„ç¨³å®šæ”¶å…¥ã€‚  
+RUPERT: ä¸Žæ­¤åŒæ—¶ï¼Œå¼€å§‹ä¸ŽæŠ•èµ„é“¶è¡Œè°ˆæ”¶è´­ä¸€å®¶ç”Ÿäº§ä¼˜è´¨é¥°å“çš„å°åž‹å…¬å¸çš„å¯èƒ½æ€§ã€‚  
+åˆé€‚çš„å…¬å¸å¯ä»¥å¸®åŠ© Belle Vie æˆåŠŸåœ°åˆ‡å…¥å¹´è½»å¥³æ€§çš„å¸‚åœºã€‚  
+KENJI: æ— è®ºæ‚¨é€‰æ‹©å“ªä¸€ç§è®¡åˆ’ï¼Œéƒ½å¯èƒ½ä¼šä¼´éšå‡ºçŽ°è®¸å¤šå…¶å®ƒé—®é¢˜ã€‚  
+å½“ç„¶ï¼Œæˆ‘ä»¬æ¬¢è¿Žåœ¨æœªæ¥è·Ÿæ‚¨ä»¬ä¸€èµ·å·¥ä½œçš„æœºä¼šã€‚  
+å¥½ï¼Œæˆ‘æƒ³æˆ‘ä»¬è¦è¯´çš„å°±æ˜¯è¿™äº›ã€‚  
+çŽ°åœ¨ï¼Œæˆ‘æƒ³å›žç­”æ‚¨ä»¬å¯èƒ½æœ‰çš„ä»»ä½•é—®é¢˜ã€‚  
+BERNARD: é¦–å…ˆï¼Œè®©æˆ‘æ„Ÿè°¢äºŒä½éžå¸¸æœ‰è¶£å’Œæœ‰ç”¨çš„æ¼”è®²ã€‚  
+æ‚¨èƒ½ä¸èƒ½å¯¹æˆ‘ä»¬åœ¨ L'Amour çš„æŽ¨é”€å’Œå¹¿å‘Šç­–ç•¥æ–¹é¢åº”è¯¥ä½œä»€ä¹ˆæ ·çš„å…·ä½“æ”¹è¿›å†è¯´è¯¦ç»†ä¸€äº›çš„æ„è§ï¼Ÿ  
+KENJI: å½“ç„¶å¯ä»¥ã€‚æˆ‘ä»¬è®¤ä¸º Belle Vie åº”è¯¥é‡ç‚¹åŠ å¼ºåº—å†…å®£ä¼ ï¼Œç‰¹åˆ«æ˜¯åœ¨æ‚¨ä»¬é¡¾å®¢è´­è´§çš„ç™¾è´§å•†åº—å†…çš„å®£ä¼ ã€‚  
+åº”è¯¥åœ¨æ›´å¤šçš„å¥³æ€§æ‚å¿—ä¸­æ›´æ–°å¹¿å‘Šå¤§ç‰‡å¹¶åˆŠç™»å¹¿å‘Šï¼Œè€Œä¸”è¿˜è¦æ‰©å¤§åœ¨çº¿å¹¿å‘Šè§„æ¨¡ã€‚  
+å¼ºè°ƒå“ç‰Œçš„å£°èª‰ã€‚  
+æœ‰æ²¡æœ‰å…¶å®ƒé—®é¢˜ï¼Ÿ  
+ä¸è¡Œï¼Ÿ å—¯ï¼Œå°±è¿™æ ·å§ã€‚  
+éžå¸¸æ„Ÿè°¢ä½ æ‰€èŠ±çš„æ—¶é—´ï¼Œæˆ‘ä»¬å¸Œæœ›ä»¥åŽä¸Ž Belle Vie åˆä½œã€‚  
 ###  8.2 vocabulary   
 > 1. The current system is good, but I think we can refine it to make it even better.  
 > 2. It's important for us not to jeopardize our loyal customer base as we expand the company.  
@@ -837,12 +837,12 @@ Should I call the police and report it missing?
 CONCIERGE: Yes, you could do that.  
 But first, I'll check the hotel lost and found.  
 Are there any items in the briefcase that you need for your trip home today?  
-KENJI: Yes! Everything I need is in the briefcase¡ªmy credit cards, my passport...  
+KENJI: Yes! Everything I need is in the briefcaseâ€”my credit cards, my passport...  
 What should I do?  
 CONCIERGE: Why don't you call your credit card company?  
 They'll close your account.  
 As for the passport, I'd recommend calling the consulate immediately.  
-KENJI: Okay, I'll do that. And should I try getting a later flight so that¡ªuh, excuse me a second, I have a call on my cell.  
+KENJI: Okay, I'll do that. And should I try getting a later flight so thatâ€”uh, excuse me a second, I have a call on my cell.  
 Hello, Rupert.  
 RUPERT: Hi, Kenji.  
 I was just finishing up in the health club, and they told me that you'd left your briefcase there.  
@@ -851,36 +851,36 @@ KENJI: Oh, thank you! I'm so relieved!
 I really should keep an eye on my possessions.  
 Well, I'll see you here in a few minutes.  
 Our flight leaves in a couple of hours.  
-NARRATOR: ¹Û²ì Kenji ´òµç»°¸ø·þÎñÌ¨Ñ¯ÎÊËû¶ªÊ§µÄ¹«ÎÄ°ü¡£  
-KENJI: Çë½Ó·þÎñÌ¨¡£  
-ÄúºÃ£¬ÎÒÊÇ×¡ÔÚ Concorde Ì×·¿µÄ Kenji Watanabe¡£  
-CONCIERGE: Îç°²£¬Watanabe ÏÈÉú¡£  
-ÎÒÄÜ°ïÄú×öµã¶ùÊ²Ã´£¿  
-KENJI: ÊÇÕâÑù¡£ÎÒ¸Õ·¢ÏÖÎÒµÄ¹«ÎÄ°ü²»¼ûÁË£¬¶øÇÒÎÒÔÙ¹ýÁ½¸öÐ¡Ê±¾ÍÒªÀë¿ª°ÍÀè¡£  
-ÎÒ²»ÖªµÀ¸ÃÔõÃ´°ì£¬ËùÒÔÎÒÏ£ÍûÄú¿ÉÒÔ°ïÃ¦¡£  
-CONCIERGE: µ±È»¿ÉÒÔ¡£  
-ÄúÒ²ÐíÓ¦¸Ã»Øµ½ÄúÈ¥¹ýµÄµØ·½È¥ÕÒ¡£  
-Äú×îºó¿´¼ûËüÊÇÊ²Ã´Ê±ºò£¿  
-KENJI: ÎÒ¼ÇµÃ½ñÌìÔçÉÏ³ÔÔç·¹Ê±»¹´ø×ÅËü¡£  
-ÀÏÊµËµ£¬ÎÒ²»ÖªµÀÊÇÎÒ·Å´íµØ·½ÁË£¬»¹ÊÇÓÐÈË°ÑËüÍµ×ßÁË¡£  
-ÎÒÊÇ²»ÊÇÓ¦¸Ã´òµç»°¸ø¾¯²ì±¨Ê§?  
-CONCIERGE: ÊÇ£¬Äú¿ÉÒÔÄÇÑù×ö¡£  
-µ«ÊÇ£¬ÏÈÈÃÎÒÎÊÒ»ÏÂ¾ÆµêÊ§ÎïÕÐÁì´¦¡£  
-¹«ÎÄ°üÀïÓÐÃ»ÓÐÄú½ñÌìÂÃÐÐÐèÒªµÄ¶«Î÷¡£  
-KENJI: ÓÐ£¡ÎÒÐèÒªµÄ¶«Î÷È«ÔÚ¹«ÎÄ°üÀï£¬ÎÒµÄ»úÆ±¡¢ÎÒµÄÐÅÓÃ¿¨£¬»¹ÓÐÎÒµÄ»¤ÕÕ¡£  
-ÎÒ¸ÃÔõÃ´°ìÄØ£¿  
-CONCIERGE: ÎªÊ²Ã´²»ÍùÐÅÓÃ¿¨¹«Ë¾´òµç»°£¿  
-ËûÃÇ»á¹Ø±ÕÄãµÄÕÊ»§¡£  
-ÖÁÓÚ»¤ÕÕ£¬ÎÒ½¨ÒéÄúÂíÉÏ´òµç»°¸øÁìÊÂ¹Ý¡£  
-KENJI: ºÃ°É£¬ÎÒ»á¸øËûÃÇ´òµç»°¡£ ÎÒÊÇ²»ÊÇÓ¦¸Ã¾¡Á¿´îÍíµã¶ùµÄº½°à£¬ÕâÑù£¬àÅ£¬¶Ô²»Æð£¬ÉÔµÈ£¬ÎÒÊÖ»úÀ´µç»°ÁË¡£  
-Î¹£¿  
-RUPERT: ÄãºÃ£¬Kenji¡£  
-ÎÒ¸ÕÔÚ½¡Éí¾ãÀÖ²¿½áÊø½¡Éí£¬ËûÃÇ¾Í¸æËßÎÒÄã°ÑÊÖÌáÏäÂäÄÇ¶ùÁË¡£  
-ÊÖÌáÏäÔÚÎÒÕâ¶ù¡£  
-Å¶£¬Ð»Ð»£¡ ÕâÑùÎÒ¾Í·ÅÐÄÁË£¡  
-ÎÒÕæµÃ¿´ºÃ×Ô¼ºµÄ¶«Î÷¡£  
-àÅ£¬¼¸·ÖÖÓºóÎÒ¾ÍÄÜÔÚÕâ¶ù¿´µ½Äã¡£  
-ÎÒÃÇµÄº½°à¼¸¸öÐ¡Ê±ºó¾ÍÒª³ö·¢ÁË¡£  
+NARRATOR: è§‚å¯Ÿ Kenji æ‰“ç”µè¯ç»™æœåŠ¡å°è¯¢é—®ä»–ä¸¢å¤±çš„å…¬æ–‡åŒ…ã€‚  
+KENJI: è¯·æŽ¥æœåŠ¡å°ã€‚  
+æ‚¨å¥½ï¼Œæˆ‘æ˜¯ä½åœ¨ Concorde å¥—æˆ¿çš„ Kenji Watanabeã€‚  
+CONCIERGE: åˆå®‰ï¼ŒWatanabe å…ˆç”Ÿã€‚  
+æˆ‘èƒ½å¸®æ‚¨åšç‚¹å„¿ä»€ä¹ˆï¼Ÿ  
+KENJI: æ˜¯è¿™æ ·ã€‚æˆ‘åˆšå‘çŽ°æˆ‘çš„å…¬æ–‡åŒ…ä¸è§äº†ï¼Œè€Œä¸”æˆ‘å†è¿‡ä¸¤ä¸ªå°æ—¶å°±è¦ç¦»å¼€å·´é»Žã€‚  
+æˆ‘ä¸çŸ¥é“è¯¥æ€Žä¹ˆåŠžï¼Œæ‰€ä»¥æˆ‘å¸Œæœ›æ‚¨å¯ä»¥å¸®å¿™ã€‚  
+CONCIERGE: å½“ç„¶å¯ä»¥ã€‚  
+æ‚¨ä¹Ÿè®¸åº”è¯¥å›žåˆ°æ‚¨åŽ»è¿‡çš„åœ°æ–¹åŽ»æ‰¾ã€‚  
+æ‚¨æœ€åŽçœ‹è§å®ƒæ˜¯ä»€ä¹ˆæ—¶å€™ï¼Ÿ  
+KENJI: æˆ‘è®°å¾—ä»Šå¤©æ—©ä¸Šåƒæ—©é¥­æ—¶è¿˜å¸¦ç€å®ƒã€‚  
+è€å®žè¯´ï¼Œæˆ‘ä¸çŸ¥é“æ˜¯æˆ‘æ”¾é”™åœ°æ–¹äº†ï¼Œè¿˜æ˜¯æœ‰äººæŠŠå®ƒå·èµ°äº†ã€‚  
+æˆ‘æ˜¯ä¸æ˜¯åº”è¯¥æ‰“ç”µè¯ç»™è­¦å¯ŸæŠ¥å¤±?  
+CONCIERGE: æ˜¯ï¼Œæ‚¨å¯ä»¥é‚£æ ·åšã€‚  
+ä½†æ˜¯ï¼Œå…ˆè®©æˆ‘é—®ä¸€ä¸‹é…’åº—å¤±ç‰©æ‹›é¢†å¤„ã€‚  
+å…¬æ–‡åŒ…é‡Œæœ‰æ²¡æœ‰æ‚¨ä»Šå¤©æ—…è¡Œéœ€è¦çš„ä¸œè¥¿ã€‚  
+KENJI: æœ‰ï¼æˆ‘éœ€è¦çš„ä¸œè¥¿å…¨åœ¨å…¬æ–‡åŒ…é‡Œï¼Œæˆ‘çš„æœºç¥¨ã€æˆ‘çš„ä¿¡ç”¨å¡ï¼Œè¿˜æœ‰æˆ‘çš„æŠ¤ç…§ã€‚  
+æˆ‘è¯¥æ€Žä¹ˆåŠžå‘¢ï¼Ÿ  
+CONCIERGE: ä¸ºä»€ä¹ˆä¸å¾€ä¿¡ç”¨å¡å…¬å¸æ‰“ç”µè¯ï¼Ÿ  
+ä»–ä»¬ä¼šå…³é—­ä½ çš„å¸æˆ·ã€‚  
+è‡³äºŽæŠ¤ç…§ï¼Œæˆ‘å»ºè®®æ‚¨é©¬ä¸Šæ‰“ç”µè¯ç»™é¢†äº‹é¦†ã€‚  
+KENJI: å¥½å§ï¼Œæˆ‘ä¼šç»™ä»–ä»¬æ‰“ç”µè¯ã€‚ æˆ‘æ˜¯ä¸æ˜¯åº”è¯¥å°½é‡æ­æ™šç‚¹å„¿çš„èˆªç­ï¼Œè¿™æ ·ï¼Œå—¯ï¼Œå¯¹ä¸èµ·ï¼Œç¨ç­‰ï¼Œæˆ‘æ‰‹æœºæ¥ç”µè¯äº†ã€‚  
+å–‚ï¼Ÿ  
+RUPERT: ä½ å¥½ï¼ŒKenjiã€‚  
+æˆ‘åˆšåœ¨å¥èº«ä¿±ä¹éƒ¨ç»“æŸå¥èº«ï¼Œä»–ä»¬å°±å‘Šè¯‰æˆ‘ä½ æŠŠæ‰‹æç®±è½é‚£å„¿äº†ã€‚  
+æ‰‹æç®±åœ¨æˆ‘è¿™å„¿ã€‚  
+å“¦ï¼Œè°¢è°¢ï¼ è¿™æ ·æˆ‘å°±æ”¾å¿ƒäº†ï¼  
+æˆ‘çœŸå¾—çœ‹å¥½è‡ªå·±çš„ä¸œè¥¿ã€‚  
+å—¯ï¼Œå‡ åˆ†é’ŸåŽæˆ‘å°±èƒ½åœ¨è¿™å„¿çœ‹åˆ°ä½ ã€‚  
+æˆ‘ä»¬çš„èˆªç­å‡ ä¸ªå°æ—¶åŽå°±è¦å‡ºå‘äº†ã€‚  
 ###  9.2 vocabulary   
 > 1. I was late for the meeting because I misplaced my car keys.  
 > 2. My briefcase is missing. Has anyone seen it?  
@@ -905,7 +905,7 @@ lost and found
 report  
 ###  10.1 listening   
 > NARRATOR: Previously, Rupert Andrews and Kenji Watanabe presented their recommendations to the executives at Belle Vie.  
-Isabelle Rollette and Bernard Valence are discussing the options¡ªcreating a young women's fragrance, a men's fragrance, or a new accessories line.  
+Isabelle Rollette and Bernard Valence are discussing the optionsâ€”creating a young women's fragrance, a men's fragrance, or a new accessories line.  
 What do you think they will decide to do?  
 BERNARD: I'm excited about making changes at Belle Vie, but I'm surprised that the consultants recommended all three options.  
 I'm opposed to launching three new products at once.  
@@ -940,42 +940,42 @@ That seems to be the most cost-effective way to add to our existing accessories 
 As the consultants pointed out, we could earn a good profit without investing much money.  
 ISABELLE: I agree.  
 Let's discuss these ideas with Jean-Luc and Simone at our meeting tomorrow.  
-NARRATOR: Ç°Ãæ£¬Rupert Andrews ºÍ Kenji Watanabe ÒÑ¾­½«ËûÃÇµÄ½¨ÒéÏò Belle Vie µÄ×Ü¾­ÀíÃÇ×÷ÁË»Ø±¨¡£  
-Isabelle Rollette ºÍ Bernard Valence ÕýÔÚÌÖÂÛÏà¹ØÏîÄ¿£º¿ª·¢ÄêÇáÅ®ÐÔÏãË®£¬ÄÐÓÃÏãË®»òÐÂÊÎÆ·ÏµÁÐ¡£  
-ÄúÈÏÎªËûÃÇ»á×öÊ²Ã´ÑùµÄ¾ö¶¨£¿  
-BERNARD: ÎÒ¶ÔÔÚ Belle Vie ÄÚ½øÐÐ¸Ä¸ïÉî¸ÐÐË·Ü£¬µ«ÎÒºÜ¾ªÑÈ×ÉÑ¯¹ËÎÊ»áÍÆ¼öËùÓÐµÄÈýÖÖÑ¡Ôñ¡£  
-ÎÒ·´¶ÔÍ¬Ê±¿ª·¢ÈýÖÖÐÂ²úÆ·¡£  
-ISABELLE: ¿ÉÊÇ£¬Bernard£¬ÎÒÃÇ¿ÉÒÔºÜÈÝÒ×ÕÒµ½×ÊÖúËùÓÐÈýÖÖÑ¡ÔñµÄ×Ê½ð¡£  
-ÎÒÃÇ²»»áÓÐ´û²»µ½¿îµÄÎÊÌâ¡£  
-BERNARD: ¶Ô¡£  
-¶àÕõÇ®²¢²»ÄÑ¡£  
-µ«¶­ÊÂ»áÏëÔÚÎ´À´Áù¸öÔÂÄÚ¿´µ½Ð§¹û¡£  
-Èç¹ûÎÒÃÇ°ÑÌ¯×ÓÆÌµÃ¹ý´ó£¬ÎÒÃÇ»á×ÔÑ°Ê§°Ü¡£  
-ISABELLE: ËùÒÔ£¬ÎÒÃÇÒ²ÐíÓ¦¸ÃÖ»½«¾«Á¦¼¯ÖÐÔÚÒ»¸öÏîÄ¿ÉÏ¡£  
-Èç¹ûÊÇÄÇÑù£¬Äú¶ÔÊµÊ©ÄÄ¸öÏîÄ¿¸ÐÐËÈ¤£¿  
-BERNARD: ÎÒÏë£¬×ÉÑ¯¹ËÎÊµÄµ÷²éÏÔÊ¾ÊÀ½ç¸÷µØ¹ºÂò¸çÁúÏãË®µÄÄÐÐÔÊýÁ¿ÕýÔÚÔö¼Ó¡£  
-ËùÒÔ£¬ÎÒÇãÏòÓÚ°Ñ¾«Á¦·ÅÔÚÄÐÓÃÏãË®ÉÏ£¬¶ø²»ÊÇÔÚÅ®ÓÃÏãË®ÉÏÃæ¡£  
-ISABELLE: µ«ÊÇ£¬Belle Vie ÊìÏ¤Å®ÐÔµÄÐèÒªºÍ¹ºÎïÏ°¹ß¡£  
-ÎÒÃÇ´ÓÎ´Ìá¹©ÄÐÓÃ²úÆ·¡£  
-ÎÒÃÇ±ØÐë¶ÔÄÐÓÃÏãË®ÊÐ³¡×ö¸ü¶à¡¢¸ü¹ã·ºµÄµ÷²é¡£  
-BERNARD: ËäÈ»Èç´Ë£¬µ«ÎÒÃÇ¶ÔÄêÇáÅ®ÐÔµÄÊÐ³¡Ò²²»ÊìÏ¤¡£  
-ÎÒÃÇÒ²±ØÐë¶Ô¸ÃÊÐ³¡×ö¸ü¶àµÄµ÷²é¡£  
-ISABELLE: µ«´Ó³¤Ô¶µÄ½Ç¶È¿´£¬Èç¹ûÓÐ¸ü¶àµÄÄêÇáÅ®ÐÔ³ÉÎª Belle Vie µÄ¹Ë¿Í£¬ÎÒÃÇ¿ÉÒÔÔÚËýÃÇÄêÁä±È½Ï´óÊ±£¬¼ÌÐøÎªËýÃÇÌá¹©¶àÑù»¯µÄ²úÆ·¡£  
-BERNARD: ÄÇµ¹²»´í¡£  
-¹Ø¼üÊÇÔÚËýÃÇÄêÇáµÄÊ±ºò×¥×¡ËýÃÇ¡£  
-¿ÉÊÇÎÒÃÇÒÑ¾­ÔÚÄÐÓÃ²úÆ·ÉÏ×öÁËÄÇÃ´¶àµÄµ÷²éÑÐ¾¿¡£  
-ÎÒÃÇÉõÖÁÒÑ¾­Ðû²¼ÎÒÃÇ½«ÍÆ³öÐÂµÄÄÐÓÃÏãË®¡£  
-ISABELLE: ÄÇÃ´»¹ÊÇÄÇÑù£¬ÎÒÃÇÒ²ÐíÓ¦¸Ã¼õÉÙÎÒÃÇµÄËðÊ§£¬¶ø½«¾«Á¦¼¯ÖÐÔÚÐÂµÄÅ®ÓÃÏãË®ÉÏÃæ¡£  
-ÎÒÃÇÓÃ²»×Å·ÇµÃµõÔÚÎÒÃÇ×î³õµÄ¼Æ»®ÉÏÃæ¡£  
-ÎÒÃÇÓ¦¸ÃÕâÃ´¿´¡£  
-ÎÒÃÇËäÈ»ÈÔ±ØÐëµ÷²éÄêÇáÅ®ÐÔµÄÊÐ³¡£¬µ«ÊÇÎÒÈÏÎªËüËùÐèÒªµÄÊ±¼äºÍ¾«Á¦»á±È¼ÌÐø¿ª·¢Ò»¸öÈ«ÐÂµÄÊÐ³¡ËùÐèÒªµÄÉÙ¡£  
-BERNARD: ÕâÒ»µãºÜÓÐµÀÀí¡£  
-ÎÒÈÏÎªËüÄ¿Ç°¶Ô¹«Ë¾À´ËµÊÇ×î¼ÑÑ¡Ôñ¡£  
-ÎÒÃÇÒ²Ó¦¸Ã¿¼ÂÇ½«ÎÒÃÇµÄÃû×Ö·¢ÕÕ×â¸øÒ»¼ÒÊÎÆ·³§ÉÌÊ¹ÓÃ¡£  
-Ëü¿´À´ÊÇÔö¼ÓÎÒÃÇÏÖÓÐÊÎÆ·µÄ×îºÏËãµÄ·½·¨¡£  
-ÕýÈç×ÉÑ¯¹ËÎÊËùÖ¸³öµÄ£¬ÎÒÃÇ¿ÉÒÔ²»ÓÃÍ¶×ÊºÜ¶àÇ®¾Í¿ÉÒÔ»ñµÃºÜºÃµÄÀûÈó¡£  
-ISABELLE: ÎÒÍ¬Òâ¡£  
-ÈÃÎÒÃÇÃ÷Ìì¿ª»áÊ±°ÑÕâÐ©Ïë·¨¸ú Jean-Luc ºÍ Simone ÌÖÂÛÒ»ÏÂ¡£  
+NARRATOR: å‰é¢ï¼ŒRupert Andrews å’Œ Kenji Watanabe å·²ç»å°†ä»–ä»¬çš„å»ºè®®å‘ Belle Vie çš„æ€»ç»ç†ä»¬ä½œäº†å›žæŠ¥ã€‚  
+Isabelle Rollette å’Œ Bernard Valence æ­£åœ¨è®¨è®ºç›¸å…³é¡¹ç›®ï¼šå¼€å‘å¹´è½»å¥³æ€§é¦™æ°´ï¼Œç”·ç”¨é¦™æ°´æˆ–æ–°é¥°å“ç³»åˆ—ã€‚  
+æ‚¨è®¤ä¸ºä»–ä»¬ä¼šåšä»€ä¹ˆæ ·çš„å†³å®šï¼Ÿ  
+BERNARD: æˆ‘å¯¹åœ¨ Belle Vie å†…è¿›è¡Œæ”¹é©æ·±æ„Ÿå…´å¥‹ï¼Œä½†æˆ‘å¾ˆæƒŠè®¶å’¨è¯¢é¡¾é—®ä¼šæŽ¨èæ‰€æœ‰çš„ä¸‰ç§é€‰æ‹©ã€‚  
+æˆ‘åå¯¹åŒæ—¶å¼€å‘ä¸‰ç§æ–°äº§å“ã€‚  
+ISABELLE: å¯æ˜¯ï¼ŒBernardï¼Œæˆ‘ä»¬å¯ä»¥å¾ˆå®¹æ˜“æ‰¾åˆ°èµ„åŠ©æ‰€æœ‰ä¸‰ç§é€‰æ‹©çš„èµ„é‡‘ã€‚  
+æˆ‘ä»¬ä¸ä¼šæœ‰è´·ä¸åˆ°æ¬¾çš„é—®é¢˜ã€‚  
+BERNARD: å¯¹ã€‚  
+å¤šæŒ£é’±å¹¶ä¸éš¾ã€‚  
+ä½†è‘£äº‹ä¼šæƒ³åœ¨æœªæ¥å…­ä¸ªæœˆå†…çœ‹åˆ°æ•ˆæžœã€‚  
+å¦‚æžœæˆ‘ä»¬æŠŠæ‘Šå­é“ºå¾—è¿‡å¤§ï¼Œæˆ‘ä»¬ä¼šè‡ªå¯»å¤±è´¥ã€‚  
+ISABELLE: æ‰€ä»¥ï¼Œæˆ‘ä»¬ä¹Ÿè®¸åº”è¯¥åªå°†ç²¾åŠ›é›†ä¸­åœ¨ä¸€ä¸ªé¡¹ç›®ä¸Šã€‚  
+å¦‚æžœæ˜¯é‚£æ ·ï¼Œæ‚¨å¯¹å®žæ–½å“ªä¸ªé¡¹ç›®æ„Ÿå…´è¶£ï¼Ÿ  
+BERNARD: æˆ‘æƒ³ï¼Œå’¨è¯¢é¡¾é—®çš„è°ƒæŸ¥æ˜¾ç¤ºä¸–ç•Œå„åœ°è´­ä¹°å“¥é¾™é¦™æ°´çš„ç”·æ€§æ•°é‡æ­£åœ¨å¢žåŠ ã€‚  
+æ‰€ä»¥ï¼Œæˆ‘å€¾å‘äºŽæŠŠç²¾åŠ›æ”¾åœ¨ç”·ç”¨é¦™æ°´ä¸Šï¼Œè€Œä¸æ˜¯åœ¨å¥³ç”¨é¦™æ°´ä¸Šé¢ã€‚  
+ISABELLE: ä½†æ˜¯ï¼ŒBelle Vie ç†Ÿæ‚‰å¥³æ€§çš„éœ€è¦å’Œè´­ç‰©ä¹ æƒ¯ã€‚  
+æˆ‘ä»¬ä»Žæœªæä¾›ç”·ç”¨äº§å“ã€‚  
+æˆ‘ä»¬å¿…é¡»å¯¹ç”·ç”¨é¦™æ°´å¸‚åœºåšæ›´å¤šã€æ›´å¹¿æ³›çš„è°ƒæŸ¥ã€‚  
+BERNARD: è™½ç„¶å¦‚æ­¤ï¼Œä½†æˆ‘ä»¬å¯¹å¹´è½»å¥³æ€§çš„å¸‚åœºä¹Ÿä¸ç†Ÿæ‚‰ã€‚  
+æˆ‘ä»¬ä¹Ÿå¿…é¡»å¯¹è¯¥å¸‚åœºåšæ›´å¤šçš„è°ƒæŸ¥ã€‚  
+ISABELLE: ä½†ä»Žé•¿è¿œçš„è§’åº¦çœ‹ï¼Œå¦‚æžœæœ‰æ›´å¤šçš„å¹´è½»å¥³æ€§æˆä¸º Belle Vie çš„é¡¾å®¢ï¼Œæˆ‘ä»¬å¯ä»¥åœ¨å¥¹ä»¬å¹´é¾„æ¯”è¾ƒå¤§æ—¶ï¼Œç»§ç»­ä¸ºå¥¹ä»¬æä¾›å¤šæ ·åŒ–çš„äº§å“ã€‚  
+BERNARD: é‚£å€’ä¸é”™ã€‚  
+å…³é”®æ˜¯åœ¨å¥¹ä»¬å¹´è½»çš„æ—¶å€™æŠ“ä½å¥¹ä»¬ã€‚  
+å¯æ˜¯æˆ‘ä»¬å·²ç»åœ¨ç”·ç”¨äº§å“ä¸Šåšäº†é‚£ä¹ˆå¤šçš„è°ƒæŸ¥ç ”ç©¶ã€‚  
+æˆ‘ä»¬ç”šè‡³å·²ç»å®£å¸ƒæˆ‘ä»¬å°†æŽ¨å‡ºæ–°çš„ç”·ç”¨é¦™æ°´ã€‚  
+ISABELLE: é‚£ä¹ˆè¿˜æ˜¯é‚£æ ·ï¼Œæˆ‘ä»¬ä¹Ÿè®¸åº”è¯¥å‡å°‘æˆ‘ä»¬çš„æŸå¤±ï¼Œè€Œå°†ç²¾åŠ›é›†ä¸­åœ¨æ–°çš„å¥³ç”¨é¦™æ°´ä¸Šé¢ã€‚  
+æˆ‘ä»¬ç”¨ä¸ç€éžå¾—åŠåœ¨æˆ‘ä»¬æœ€åˆçš„è®¡åˆ’ä¸Šé¢ã€‚  
+æˆ‘ä»¬åº”è¯¥è¿™ä¹ˆçœ‹ã€‚  
+æˆ‘ä»¬è™½ç„¶ä»å¿…é¡»è°ƒæŸ¥å¹´è½»å¥³æ€§çš„å¸‚åœºï¼Œä½†æ˜¯æˆ‘è®¤ä¸ºå®ƒæ‰€éœ€è¦çš„æ—¶é—´å’Œç²¾åŠ›ä¼šæ¯”ç»§ç»­å¼€å‘ä¸€ä¸ªå…¨æ–°çš„å¸‚åœºæ‰€éœ€è¦çš„å°‘ã€‚  
+BERNARD: è¿™ä¸€ç‚¹å¾ˆæœ‰é“ç†ã€‚  
+æˆ‘è®¤ä¸ºå®ƒç›®å‰å¯¹å…¬å¸æ¥è¯´æ˜¯æœ€ä½³é€‰æ‹©ã€‚  
+æˆ‘ä»¬ä¹Ÿåº”è¯¥è€ƒè™‘å°†æˆ‘ä»¬çš„åå­—å‘ç…§ç§Ÿç»™ä¸€å®¶é¥°å“åŽ‚å•†ä½¿ç”¨ã€‚  
+å®ƒçœ‹æ¥æ˜¯å¢žåŠ æˆ‘ä»¬çŽ°æœ‰é¥°å“çš„æœ€åˆç®—çš„æ–¹æ³•ã€‚  
+æ­£å¦‚å’¨è¯¢é¡¾é—®æ‰€æŒ‡å‡ºçš„ï¼Œæˆ‘ä»¬å¯ä»¥ä¸ç”¨æŠ•èµ„å¾ˆå¤šé’±å°±å¯ä»¥èŽ·å¾—å¾ˆå¥½çš„åˆ©æ¶¦ã€‚  
+ISABELLE: æˆ‘åŒæ„ã€‚  
+è®©æˆ‘ä»¬æ˜Žå¤©å¼€ä¼šæ—¶æŠŠè¿™äº›æƒ³æ³•è·Ÿ Jean-Luc å’Œ Simone è®¨è®ºä¸€ä¸‹ã€‚  
 ###  10.2 vocabulary   
 > 1. Which computer system do you think the technology manager will opt for?  
 > 2. What do you think is the biggest obstacle standing in the way of our success?  
@@ -1013,14 +1013,14 @@ Then we'd have the option to renew if sales are good.
 NIKOS: Well, that sounds reasonable.  
 Now, I've brought some sketches of the designs we talked about.  
 ISABELLE: These look very stylish.  
-I especially like this design¡ªI'd wear glasses like these myself.  
+I especially like this designâ€”I'd wear glasses like these myself.  
 NIKOS: Thanks! We gave the glasses a youthful but sophisticated look, as you wanted.  
 We considered wire frames, but these thick plastic frames are making a big comeback.  
 BERNARD: And these are high-end glasses?  
 We'll only consider attaching our name to a product that meets our standards of quality.  
 NIKOS: Oh, yes.  
 We've designed these sunglasses to meet the highest standards.  
-They're exactly what smart consumers look for¡ªin addition to their high-fashion look, they're durable, comfortable, and practical.  
+They're exactly what smart consumers look forâ€”in addition to their high-fashion look, they're durable, comfortable, and practical.  
 ISABELLE: Good.  
 We look forward to seeing a prototype.  
 We'd like to sign off on the final design as soon as possible.  
@@ -1034,41 +1034,41 @@ Did the figures we shared last week seem close?
 BERNARD: Uh, yes, they were close. But we'd like you to consider something closer to 22 percent rather than 18 percent.  
 NIKOS: I see. We might agree to that.  
 I'll have a closer look at the numbers and get back to you.  
-NARRATOR: ÔÚ´ËÒÔÇ°£¬Belle Vie µÄÁìµ¼ÃÇÒÑ¾ö¶¨ÒªÔö¼ÓËûÃÇµÄ·þÊÎ²úÆ·ÖÖÀà¡£  
-Á½¸öÔÂºó£¬Belle Vie µÄ Bernard Valence ºÍ Isabelle Rollette ÕýÔÚÓëÒ»¼ÒÏ£À°Ì«ÑôÑÛ¾µÉú²úÉÌ Naxos Optical µÄ Nikos Manolas ¾ÙÐÐ»áÌ¸¡£  
-NIKOS: ÎÒºÜ¸ßÐËÄÜÓÐ»ú»áÓë Belle Vie ¹«Ë¾½øÒ»²½ÌÖÂÛÎÒÃÇµÄÊ¹ÓÃÐí¿ÉºÏÍ¬ÎÊÌâ¡£  
-ÄúÔÚµç»°ÉÏ¸æËßÎÒ£¬ÄãÃÇ¿ÉÄÜ»á¿¼ÂÇÒ»¸ö¶À¼Ò×¨ÓÃµÄ°²ÅÅ¡£  
-ISABELLE: ÊÇ¡£  
-ÓëÖÆÔìÉÌ½¨Á¢³¤ÆÚ¹ØÏµ£¬¿ÉÄÜÊÇÎÒÃÇÔÚÕâ¸öÊÐ³¡ÖÐ»ñµÃ³É¹¦µÄ¹Ø¼ü¡£  
-ÎÒÃÇ²»´òËãÔÊÐíÆäËûÌ«Ñô¾µÖÆÔìÉÌÊ¹ÓÃÃû³Æ¡°Belle Vie¡±¡£  
-NIKOS: ÎÒºÜ¸ßÐËÌýÄúÕâÃ´Ëµ¡£  
-ÄúÊÇ·ñ¿É¿¼ÂÇÇ©Ò»¸öÎªÆÚ3ÄêµÄÊ×ÆÚºÏÍ¬£¿  
-BERNARD: ÎÒÃÇ¾õµÃ2ÄêÆÚºÏÍ¬¾Í×ãÒÔÈÃÎÒÃÇÅÐ¶ÏÕâÖÖ°²ÅÅÄÜ·ñ³É¹¦¡£  
-Èç¹ûÏúÊÛºÜºÃ£¬ÎÒÃÇÓÐÐøÔ¼µÄÑ¡ÔñÈ¨¡£  
-NIKOS: ÕâºÜºÏÇéÀí¡£  
-ºÃ£¬ÎÒ´øÀ´Ò»Ð©ÎÒÃÇÌ¸¹ýµÄÉè¼Æ²ÝÍ¼¡£  
-ISABELLE: ÕâÖÖÉè¼Æ¿´À´·Ç³£Ê±÷Ö¡£  
-ÎÒÌØ±ðÏ²»¶ÕâÖÖ¿îÊ½£¬ÎÒ×Ô¼º¾ÍÔ¸Òâ´÷ÏàËÆµÄÑÛ¾µ¡£  
-NIKOS: ÕýÈçÄúÏ£ÍûµÄ£¬ÎÒÃÇ°ÑÑÛ¾µÉè¼ÆÎª¼ÈÏÔÄêÇáÓÖÏÔ³ÉÊì¡£  
-ÎÒÃÇÔ­ÏÈ¿¼ÂÇÓÃ½ðÊôË¿¿ò¼Ü£¬µ«ÕâÐ©ºñËÜÁÏ¿ò¼ÜÕýÔÚÖØÐÂ·çÐÐ¡£  
-BERNARD: ¶øÇÒÕâÊÇÒ»ÖÖ¸ßµµµÄÑÛ¾µÊÇ²»ÊÇ£¿  
-ÎÒÃÇ½«Ö»¿¼ÂÇ°ÑÎÒÃÇµÄÉÌ±êÌùÔÚ·ûºÏÎÒÃÇÖÊÁ¿±ê×¼µÄ²úÆ·ÉÏ¡£  
-NIKOS: ÄÇµ±È»¡£  
-ÎÒÃÇÉè¼ÆÕâÖÖÌ«ÑôÑÛ¾µÒÔ·ûºÏ×î¸ßµÄ±ê×¼¡£  
-ËüÃÇÕýºÃÊÇ´ÏÃ÷µÄÏû·ÑÕßËùÐèÒªµÄ£¬ËüÃÇ³ýÁËÓÐ·Ç³£Ê±÷ÖµÄÍâ±í£¬¶øÇÒ»¹ÓÐÄÍ ÓÃ¡¢ÊæÊÊºÍÊµÓÃµÄÌØµã¡£  
-ISABELLE: ºÜºÃ¡£  
-ÎÒÃÇµÈ×Å¿´ÑùÆ·Ô­ÐÍ¡£  
-ÎÒÃÇÏë¾¡¿ìÇÃ¶¨×îÖÕµÄÊ½Ñù¡£  
-ÄÜ²»ÄÜÔÚÏÂÖÜÒ»¿ªÊ¼µÄÊ±ºò¸øÎÒÃÇÅª¸öÑùÆ·£¿  
-NIKOS: ÎÒÎÒ²»ÖªµÀ¡­¡­ÎÒÃÇÐèÒªµÄÊ±¼ä¿ÉÄÜ¶àÒ»µã¶ù¡£ µ«ÎÒÃÇÒ»¶¨ÄÜÔÚÏÂÖÜÖÜÄ©¸øÄãÅªµ½ÊÖ¡£  
-BERNARD: ÐÐ¡£  
-ÄÇÃ´£¬ÎÒÏëÎÒÃÇ½Ó½ü´ï³ÉÐ­ÒéÁË¡£  
-ÎÒÃÇÏÖÔÚÊÇ·ñÓ¦¸ÃÌ¸Ì¸ÌØÐíÊ¹ÓÃ·ÑµÄÎÊÌâ£¿  
-NIKOS: ºÃ°¡¡£  
-ÉÏÖÜÎÒÃÇ¸øÄãµÄÊý×Ö¿´ÆðÀ´²î²»¶à°É£¿  
-BERNARD: àÅ£¬ÊÇ²î²»¶à¡£ µ«ÎÒÃÇÏëÈÃÄã¿¼ÂÇµÄÊÇ½Ó½ü 22% ¶ø²»ÊÇ 18% µÄ±ÈÀý¡£  
-NIKOS: ÎÒÃ÷°×ÁË¡£ ÎÒÃÇ¿ÉÒÔÍ¬ÒâÕâÃ´°ì¡£  
-ÎÒÒª×£ Bernard 50 ËêÉúÈÕ¿ìÀÖ£¡  
+NARRATOR: åœ¨æ­¤ä»¥å‰ï¼ŒBelle Vie çš„é¢†å¯¼ä»¬å·²å†³å®šè¦å¢žåŠ ä»–ä»¬çš„æœé¥°äº§å“ç§ç±»ã€‚  
+ä¸¤ä¸ªæœˆåŽï¼ŒBelle Vie çš„ Bernard Valence å’Œ Isabelle Rollette æ­£åœ¨ä¸Žä¸€å®¶å¸Œè…Šå¤ªé˜³çœ¼é•œç”Ÿäº§å•† Naxos Optical çš„ Nikos Manolas ä¸¾è¡Œä¼šè°ˆã€‚  
+NIKOS: æˆ‘å¾ˆé«˜å…´èƒ½æœ‰æœºä¼šä¸Ž Belle Vie å…¬å¸è¿›ä¸€æ­¥è®¨è®ºæˆ‘ä»¬çš„ä½¿ç”¨è®¸å¯åˆåŒé—®é¢˜ã€‚  
+æ‚¨åœ¨ç”µè¯ä¸Šå‘Šè¯‰æˆ‘ï¼Œä½ ä»¬å¯èƒ½ä¼šè€ƒè™‘ä¸€ä¸ªç‹¬å®¶ä¸“ç”¨çš„å®‰æŽ’ã€‚  
+ISABELLE: æ˜¯ã€‚  
+ä¸Žåˆ¶é€ å•†å»ºç«‹é•¿æœŸå…³ç³»ï¼Œå¯èƒ½æ˜¯æˆ‘ä»¬åœ¨è¿™ä¸ªå¸‚åœºä¸­èŽ·å¾—æˆåŠŸçš„å…³é”®ã€‚  
+æˆ‘ä»¬ä¸æ‰“ç®—å…è®¸å…¶ä»–å¤ªé˜³é•œåˆ¶é€ å•†ä½¿ç”¨åç§°â€œBelle Vieâ€ã€‚  
+NIKOS: æˆ‘å¾ˆé«˜å…´å¬æ‚¨è¿™ä¹ˆè¯´ã€‚  
+æ‚¨æ˜¯å¦å¯è€ƒè™‘ç­¾ä¸€ä¸ªä¸ºæœŸ3å¹´çš„é¦–æœŸåˆåŒï¼Ÿ  
+BERNARD: æˆ‘ä»¬è§‰å¾—2å¹´æœŸåˆåŒå°±è¶³ä»¥è®©æˆ‘ä»¬åˆ¤æ–­è¿™ç§å®‰æŽ’èƒ½å¦æˆåŠŸã€‚  
+å¦‚æžœé”€å”®å¾ˆå¥½ï¼Œæˆ‘ä»¬æœ‰ç»­çº¦çš„é€‰æ‹©æƒã€‚  
+NIKOS: è¿™å¾ˆåˆæƒ…ç†ã€‚  
+å¥½ï¼Œæˆ‘å¸¦æ¥ä¸€äº›æˆ‘ä»¬è°ˆè¿‡çš„è®¾è®¡è‰å›¾ã€‚  
+ISABELLE: è¿™ç§è®¾è®¡çœ‹æ¥éžå¸¸æ—¶é«¦ã€‚  
+æˆ‘ç‰¹åˆ«å–œæ¬¢è¿™ç§æ¬¾å¼ï¼Œæˆ‘è‡ªå·±å°±æ„¿æ„æˆ´ç›¸ä¼¼çš„çœ¼é•œã€‚  
+NIKOS: æ­£å¦‚æ‚¨å¸Œæœ›çš„ï¼Œæˆ‘ä»¬æŠŠçœ¼é•œè®¾è®¡ä¸ºæ—¢æ˜¾å¹´è½»åˆæ˜¾æˆç†Ÿã€‚  
+æˆ‘ä»¬åŽŸå…ˆè€ƒè™‘ç”¨é‡‘å±žä¸æ¡†æž¶ï¼Œä½†è¿™äº›åŽšå¡‘æ–™æ¡†æž¶æ­£åœ¨é‡æ–°é£Žè¡Œã€‚  
+BERNARD: è€Œä¸”è¿™æ˜¯ä¸€ç§é«˜æ¡£çš„çœ¼é•œæ˜¯ä¸æ˜¯ï¼Ÿ  
+æˆ‘ä»¬å°†åªè€ƒè™‘æŠŠæˆ‘ä»¬çš„å•†æ ‡è´´åœ¨ç¬¦åˆæˆ‘ä»¬è´¨é‡æ ‡å‡†çš„äº§å“ä¸Šã€‚  
+NIKOS: é‚£å½“ç„¶ã€‚  
+æˆ‘ä»¬è®¾è®¡è¿™ç§å¤ªé˜³çœ¼é•œä»¥ç¬¦åˆæœ€é«˜çš„æ ‡å‡†ã€‚  
+å®ƒä»¬æ­£å¥½æ˜¯èªæ˜Žçš„æ¶ˆè´¹è€…æ‰€éœ€è¦çš„ï¼Œå®ƒä»¬é™¤äº†æœ‰éžå¸¸æ—¶é«¦çš„å¤–è¡¨ï¼Œè€Œä¸”è¿˜æœ‰è€ ç”¨ã€èˆ’é€‚å’Œå®žç”¨çš„ç‰¹ç‚¹ã€‚  
+ISABELLE: å¾ˆå¥½ã€‚  
+æˆ‘ä»¬ç­‰ç€çœ‹æ ·å“åŽŸåž‹ã€‚  
+æˆ‘ä»¬æƒ³å°½å¿«æ•²å®šæœ€ç»ˆçš„å¼æ ·ã€‚  
+èƒ½ä¸èƒ½åœ¨ä¸‹å‘¨ä¸€å¼€å§‹çš„æ—¶å€™ç»™æˆ‘ä»¬å¼„ä¸ªæ ·å“ï¼Ÿ  
+NIKOS: æˆ‘æˆ‘ä¸çŸ¥é“â€¦â€¦æˆ‘ä»¬éœ€è¦çš„æ—¶é—´å¯èƒ½å¤šä¸€ç‚¹å„¿ã€‚ ä½†æˆ‘ä»¬ä¸€å®šèƒ½åœ¨ä¸‹å‘¨å‘¨æœ«ç»™ä½ å¼„åˆ°æ‰‹ã€‚  
+BERNARD: è¡Œã€‚  
+é‚£ä¹ˆï¼Œæˆ‘æƒ³æˆ‘ä»¬æŽ¥è¿‘è¾¾æˆåè®®äº†ã€‚  
+æˆ‘ä»¬çŽ°åœ¨æ˜¯å¦åº”è¯¥è°ˆè°ˆç‰¹è®¸ä½¿ç”¨è´¹çš„é—®é¢˜ï¼Ÿ  
+NIKOS: å¥½å•Šã€‚  
+ä¸Šå‘¨æˆ‘ä»¬ç»™ä½ çš„æ•°å­—çœ‹èµ·æ¥å·®ä¸å¤šå§ï¼Ÿ  
+BERNARD: å—¯ï¼Œæ˜¯å·®ä¸å¤šã€‚ ä½†æˆ‘ä»¬æƒ³è®©ä½ è€ƒè™‘çš„æ˜¯æŽ¥è¿‘ 22% è€Œä¸æ˜¯ 18% çš„æ¯”ä¾‹ã€‚  
+NIKOS: æˆ‘æ˜Žç™½äº†ã€‚ æˆ‘ä»¬å¯ä»¥åŒæ„è¿™ä¹ˆåŠžã€‚  
+æˆ‘è¦ç¥ Bernard 50 å²ç”Ÿæ—¥å¿«ä¹ï¼  
 ###  11.3 vocabulary   
 > Isabelle Rollette, CFO  
 Belle Vie  
@@ -1105,8 +1105,8 @@ SIMONE: Happy birthday, Bernard.
 BERNARD: Thanks, Simone.  
 ISABELLE: This is wonderful!  
 I love the festive atmosphere!  
-The balloons, the lights¡­  
-SIMONE: Oh¡­I think Sophie's about to speak.  
+The balloons, the lightsâ€¦  
+SIMONE: Ohâ€¦I think Sophie's about to speak.  
 SOPHIE: Could I have everyone's attention please?  
 I'd like to wish Bernard a happy 50th birthday!  
 Bernard, may you have many more years as CEO of Belle Vie.  
@@ -1126,33 +1126,33 @@ Launching these new products is a great way to celebrate a birthday.
 But I think the real gift is having a group of employees as hardworking as this one.  
 Thank you for everything you've done to create a new Belle Vie.  
 You're a fantastic team, and I look forward to many more successful ventures together!  
-NARRATOR: Belle Vie ×î½üÍÆ³öÒ»ÖÖÐÂÏãË®ºÍÒ»ÖÖÌ«ÑôÑÛ¾µÏµÁÐ¡£  
-ÏÖÔÚ£¬Ò»´óÈº Belle Vie Ö°Ô±»ã¼¯ÔÚ Grand Parc ¾Æµê²Î¼Ó Bernard µÄ50ËêÉúÈÕÍí»á¡£  
-SIMONE: Bernard£¬ÉúÈÕ¿ìÀÖ¡£  
-BERNARD: Ð»Ð»Äú£¬Simone¡£  
-ISABELLE: ÕâÕæÊÇºÃ¼«ÁË£¡  
-ÎÒÏ²»¶ÕâÖÖÏ²ÇìµÄÆø·Õ£¡  
-ÕâÆøÇò£¬ÕâµÆ¹â£¡  
-SIMONE: Å¶£¬ÎÒÏë Sophie ¾ÍÒª½²»°ÁË¡£  
-SOPHIE: ÎÒÄÜ²»ÄÜÇë¸÷Î»¾²Ò»ÏÂ£¿  
-ÎÒÒª×£ Bernard 50 ËêÉúÈÕ¿ìÀÖ£¡  
-Bernard£¬µ«Ô¸Äã¼ÌÐø³¤ÆÚµ£ÈÎ Belle Vie Ê×Ï¯Ö´ÐÐ¹Ù¡£  
-ÔÚÄãµÄÁìµ¼ÏÂ£¬ÎÒÃÇÍ¦¹ýÁËÀ§ÄÑÊ±ÆÚ¡£  
-ISABELLE: ÎÒ»¹Òª×£ Bernard ÉúÈÕ¿ìÀÖ£¬²¢×£ºØËûÈ¡µÃµÄ×¿Ô½³É¾Í¡£  
-12¸öÔÂÇ°£¬Belle Vie µÄÐÎÊÆ¿´ÆðÀ´·Ç³£²»Ãî¡£  
-µ«Í¨¹ý´ó¼ÒµÄÅ¬Á¦ºÍ Bernard µÄÁìµ¼£¬ÎÒÃÇÒÑ¾­´Ó¸ù±¾ÉÏ¸Ä±äÁË¾ÖÃæ¡£  
-Bernard£¬¶à¿÷ÄãµÄÁìµ¼ºÍÍÅ¶ÓÐ­×÷µÄÁ¦Á¿£¬Belle Vie µÄÎ´À´Ò»Æ¬¹âÃ÷£¡  
-BERNARD: Ð»Ð»Äú£¬Isabelle¡£  
-Èç¹ûÄãÃÇ²»½éÒâ£¬ÎÒÏë³Ë´Ë»ú»á¶ÔÎÒÃÇ¹ýÈ¥µÄÒ»ÄêËµ¼¸¾ä»°¡£  
-ÎÒÃÇÔø¾­Óöµ½À§ÄÑ£¬µ«ÎÒÃÇÏòÀ§ÄÑÓ­Õ½¡£  
-ÎÒÃÇÕÒµ½ÁË½â¾öÎÊÌâµÄÓÐÐ§·½·¨£¬¶øÏÖÔÚÇé¿öÕýÔÚºÃ×ª¡£  
-ÎÒÃÇ¹«Ë¾ÕýÔÚÑ¸ËÙ¸Ä±ä¡£  
-Naxos Optical ½«Éú²úÒ»Ì×ÐÂµÄ Belle Vie Ì«ÑôÑÛ¾µÏµÁÐ¡£  
-¶øÇÒ½ñÌì£¬ÎÒÃÇÒÑ¿ªÊ¼ÔÚÈ«Å·ÖÞµÄÉÌµêÀïÏúÊÛÎÒÃÇÐÂµÄÅ®ÓÃÏãË® Fleur de Bali¡£  
-ÍÆ³öÕâÐ©ÐÂ²úÆ·ÊÇÇì×£ÎÒÉúÈÕµÄ¼«ºÃµÄ·½Ê½¡£  
-µ«ÊÇÎÒÈÏÎª£¬×îÕä¹óµÄÀñÎïÊÇÎÒÓÐÔÚ×ù¸÷Î»ÕâÑùÒ»Ð©¹¤×÷Å¬Á¦µÄÔ±¹¤ ¡£  
-¸ÐÐ»ÄãÃÇÎª´´ÔìÐÂ Belle Vie Ëù×÷³öµÄÃ¿Ò»ÏîÅ¬Á¦¡£  
-ÄãÃÇÊÇÒ»¸öÁË²»ÆðµÄÍÅ¶Ó£¬Ï£ÍûÎÒÃÇ»á¹²Í¬³É¹¦Íê³É¸ü¶àµÄ·çÏÕÏîÄ¿£¡  
+NARRATOR: Belle Vie æœ€è¿‘æŽ¨å‡ºä¸€ç§æ–°é¦™æ°´å’Œä¸€ç§å¤ªé˜³çœ¼é•œç³»åˆ—ã€‚  
+çŽ°åœ¨ï¼Œä¸€å¤§ç¾¤ Belle Vie èŒå‘˜æ±‡é›†åœ¨ Grand Parc é…’åº—å‚åŠ  Bernard çš„50å²ç”Ÿæ—¥æ™šä¼šã€‚  
+SIMONE: Bernardï¼Œç”Ÿæ—¥å¿«ä¹ã€‚  
+BERNARD: è°¢è°¢æ‚¨ï¼ŒSimoneã€‚  
+ISABELLE: è¿™çœŸæ˜¯å¥½æžäº†ï¼  
+æˆ‘å–œæ¬¢è¿™ç§å–œåº†çš„æ°”æ°›ï¼  
+è¿™æ°”çƒï¼Œè¿™ç¯å…‰ï¼  
+SIMONE: å“¦ï¼Œæˆ‘æƒ³ Sophie å°±è¦è®²è¯äº†ã€‚  
+SOPHIE: æˆ‘èƒ½ä¸èƒ½è¯·å„ä½é™ä¸€ä¸‹ï¼Ÿ  
+æˆ‘è¦ç¥ Bernard 50 å²ç”Ÿæ—¥å¿«ä¹ï¼  
+Bernardï¼Œä½†æ„¿ä½ ç»§ç»­é•¿æœŸæ‹…ä»» Belle Vie é¦–å¸­æ‰§è¡Œå®˜ã€‚  
+åœ¨ä½ çš„é¢†å¯¼ä¸‹ï¼Œæˆ‘ä»¬æŒºè¿‡äº†å›°éš¾æ—¶æœŸã€‚  
+ISABELLE: æˆ‘è¿˜è¦ç¥ Bernard ç”Ÿæ—¥å¿«ä¹ï¼Œå¹¶ç¥è´ºä»–å–å¾—çš„å“è¶Šæˆå°±ã€‚  
+12ä¸ªæœˆå‰ï¼ŒBelle Vie çš„å½¢åŠ¿çœ‹èµ·æ¥éžå¸¸ä¸å¦™ã€‚  
+ä½†é€šè¿‡å¤§å®¶çš„åŠªåŠ›å’Œ Bernard çš„é¢†å¯¼ï¼Œæˆ‘ä»¬å·²ç»ä»Žæ ¹æœ¬ä¸Šæ”¹å˜äº†å±€é¢ã€‚  
+Bernardï¼Œå¤šäºä½ çš„é¢†å¯¼å’Œå›¢é˜Ÿåä½œçš„åŠ›é‡ï¼ŒBelle Vie çš„æœªæ¥ä¸€ç‰‡å…‰æ˜Žï¼  
+BERNARD: è°¢è°¢æ‚¨ï¼ŒIsabelleã€‚  
+å¦‚æžœä½ ä»¬ä¸ä»‹æ„ï¼Œæˆ‘æƒ³ä¹˜æ­¤æœºä¼šå¯¹æˆ‘ä»¬è¿‡åŽ»çš„ä¸€å¹´è¯´å‡ å¥è¯ã€‚  
+æˆ‘ä»¬æ›¾ç»é‡åˆ°å›°éš¾ï¼Œä½†æˆ‘ä»¬å‘å›°éš¾è¿Žæˆ˜ã€‚  
+æˆ‘ä»¬æ‰¾åˆ°äº†è§£å†³é—®é¢˜çš„æœ‰æ•ˆæ–¹æ³•ï¼Œè€ŒçŽ°åœ¨æƒ…å†µæ­£åœ¨å¥½è½¬ã€‚  
+æˆ‘ä»¬å…¬å¸æ­£åœ¨è¿…é€Ÿæ”¹å˜ã€‚  
+Naxos Optical å°†ç”Ÿäº§ä¸€å¥—æ–°çš„ Belle Vie å¤ªé˜³çœ¼é•œç³»åˆ—ã€‚  
+è€Œä¸”ä»Šå¤©ï¼Œæˆ‘ä»¬å·²å¼€å§‹åœ¨å…¨æ¬§æ´²çš„å•†åº—é‡Œé”€å”®æˆ‘ä»¬æ–°çš„å¥³ç”¨é¦™æ°´ Fleur de Baliã€‚  
+æŽ¨å‡ºè¿™äº›æ–°äº§å“æ˜¯åº†ç¥æˆ‘ç”Ÿæ—¥çš„æžå¥½çš„æ–¹å¼ã€‚  
+ä½†æ˜¯æˆ‘è®¤ä¸ºï¼Œæœ€çè´µçš„ç¤¼ç‰©æ˜¯æˆ‘æœ‰åœ¨åº§å„ä½è¿™æ ·ä¸€äº›å·¥ä½œåŠªåŠ›çš„å‘˜å·¥ ã€‚  
+æ„Ÿè°¢ä½ ä»¬ä¸ºåˆ›é€ æ–° Belle Vie æ‰€ä½œå‡ºçš„æ¯ä¸€é¡¹åŠªåŠ›ã€‚  
+ä½ ä»¬æ˜¯ä¸€ä¸ªäº†ä¸èµ·çš„å›¢é˜Ÿï¼Œå¸Œæœ›æˆ‘ä»¬ä¼šå…±åŒæˆåŠŸå®Œæˆæ›´å¤šçš„é£Žé™©é¡¹ç›®ï¼  
 ###  12.4 vocabulary   
 > Bernard's 50th Birthday  
 The party was a big success and a lot of fun! It was a very (1) festive event. There was (2) applause after every speech. The clapping was so loud that it was sometimes difficult to hear. Thanks again, Bernard, for your (3) leadership. You've done an excellent job of guiding us for more than a (4) decade. Let's hope for another ten years of success!  
@@ -1206,49 +1206,49 @@ ANNA: Sure.
 All of the department stores have them, or you can get them online, from Belle Vie's website.  
 MICHELE: I think I will.  
 Oh, there's our waiter. Let's order.  
-NARRATOR: Á½Î»ÅóÓÑ£¬Anna ºÍ Michele£¬ÕýÔÚ°ÍÀèÒ»¼ÒÂ¶ÌìÐ¡²Í¹ÝÅöÃæ¡£  
-Michele ÊÇ·¨¹úÈË¡£  
-Anna ÊÇÓ¢¹úÈË£¬¸Õ¸Õ´ÓËý¹¤×÷µÄ¹ã¸æ¹«Ë¾ÔÚÓ¢¹úÂü³¹Ë¹ÌØµÄ·Ö²¿µ÷µ½°ÍÀèµÄ×Ü²¿¹¤×÷¡£  
-MICHELE: Anna£¬ÔÙ´Î¼ûµ½ÄúÕæÈÃÎÒÊ®·Ö¸ßÐË£¡  
-²î²»¶à¿ì1ÄêÃ»¼ûÁË£¬ÊÇ²»ÊÇ£¿  
-ANNA: ÊÇ£¬Ã»´í¡£  
-Äú¼ôÍ··¢ÁË£¡  
-Í¦ºÃ¿´µÄ£¬Michele¡£  
-MICHELE: Ð»Ð»£¡  
-Äú¿´ÉÏÈ¥Ò²Í¦ºÃµÄ¡£  
-àË£¬¹§Ï²ÄúÌáÉýÎª´´×÷Ö÷ÈÎ¡£  
-ÎÒºÜ¸ßÐËÄúµÄ¹ã¸æ¹«Ë¾°ÑÄúÅÉµ½°ÍÀèÀ´¡£  
-ANNA: ÊÇÕâÑù£¬ÎÒÏë×ÅÒªÒÆ¾Óµ½ÕâÀïÀ´ÒÑ¾­ÓÐºÃÒ»Õó×ÓÁË¡£  
-ÅöÇÉ¹«Ë¾ÐèÒªÓÐÈË¸ºÔð°ÍÀèÕâÀïµÄ¹ú¼Ê¹ã¸æÖÆ×÷£¬ËùÒÔÎÒ¾ÍµÃµ½ÁËÕâ·Ý¹¤×÷¡£  
-MICHELE: ÕæÊÇÌ«ºÃÁË£¡  
-àË£¬Äú´÷µÄÊÇ Belle Vie µÄ Flair ÅÆÌ«ÑôÑÛ¾µÊÇ²»ÊÇ£¿  
-Äã¹ýÈ¥´÷µÄÌ«Ñô¾µÔõÃ´ÑùÁË£¿  
-Äã¼Ç²»¼ÇµÃ¡­¡­ÓÐ·´¹â¾µÆ¬µÄÌ«Ñô¾µ£¿  
-ANNA: ÎÒµ±È»¼ÇµÃ£¡  
-µ±ÎÒÂòµ½Õâ¸±ÐÂÑÛ¾µÊ±£¬ÎÒÖÕÓÚ°ÑËüÌÔÌ­µôÁË¡£  
-ÎÒÉíÉÏ»¹ÓÃÁË Belle Vie µÄÐÂÏãË® Fleur de Bali ÄØ¡£  
-ÓÐµã¶ùÒì¹úÇéµ÷ÊÇ²»ÊÇ£¿  
-ÕâÖÖÏãË®ÓÉÓ¡¶ÈÄáÎ÷ÑÇ»¨¶äÖÆ³É¡£  
-MICHELE: àÅ£¬ËüÍ¦ÊÊºÏÄúµÄ¡£  
-ÎÒÌýËµ Fleur de Bali ÏÖÔÚ·Ç³£Á÷ÐÐ¡£  
-ºÃÁË£¬Çë¸æËßÎÒ£¬Äú×¡ÔÚ°ÍÀèµÄ¸Ð¾õÔõÃ´Ñù£¿  
-ANNA: ÕâÀïµÄÈË¡¢ÎÄ»¯ºÍÒûÊ³¶¼Í¦ºÃµÄ¡£  
-¿ÉÊÇ£¬ÄúÖªµÀ£¬ÎÒ»¹²»Ï°¹ß°ÍÀèÈË¸ö¸ö¶¼ÄÇÃ´Ê±÷Ö¡£  
-Ëü¸úÂü³¹Ë¹ÌØºÜ²»Ò»Ñù¡£  
-MICHELE: ÄÇ¾ÍÊÇÄúÎªÊ²Ã´ÂòÄÇ¸±ÐÂÌ«ÑôÑÛ¾µºÍÄÇÖÖÆæÃîÏãË®µÄÔ­ÒòÊÇ²»ÊÇ£¿  
-ANNA: ÊÂÊµÉÏ£¬ÎÒÂò Fleur de Bali ÊÇÒòÎªÎÒ±» Belle Vie µÄÐÂµçÊÓ¹ã¸æÃÔ×¡ÁË¡£  
-Äú¿´¹ýËûÃÇµÄ¹ã¸æÂð£¿  
-ËûÃÇÓÃÁË Brigitte Bardot ºÍ Audrey Hepburn µÈ´óÃ÷ÐÇÑÝµÄÀÏµçÓ°Æ¬¶Ï¡£  
-ÎÒÏëÔÚÎÒµÄÒ»¸öÐÂ¹ã¸æÀïÒ²ÓÃÀàËÆµÄ´´Òâ¡£  
-MICHELE: ÌýÆðÀ´Í¦²»´íµÄ¡£  
-ÄúÖªµÀÂð£¬ËµÀ´»¹ºÜÓÐÈ¤¡£  
-´ó¼ÒÔ­À´¶¼°Ñ Belle Vie ¿´³ÉÂäÎéµÄ¹«Ë¾¡£  
-¿ÉÏÖÔÚËûÃÇµÄÐÎÏñÈ´·Ç³£ÐÂÅÉºÍ²»ÂäË×Ì×¡£  
-Ò²ÐíÎÒÒ²¸ÃÂòÒ»Ð© Belle Vie Ì«ÑôÑÛ¾µÁË£¬¶ÔÂð£¿  
-ANNA: µ±È»¡£  
-ËùÓÐ°Ù»õÉÌµê¶¼ÓÐÊÛ£¬Ò²¿ÉÔÚ Belle Vie µÄÍøÕ¾ÔÚÏß¹ºÂò¡£  
-MICHELE: ÎÒÏëÎÒ»áµÄ¡£  
-Å¶£¬ÎÒÃÇµÄ·þÎñÔ±À´ÁË£¬ÎÒÃÇµã²Ë°É¡£  
+NARRATOR: ä¸¤ä½æœ‹å‹ï¼ŒAnna å’Œ Micheleï¼Œæ­£åœ¨å·´é»Žä¸€å®¶éœ²å¤©å°é¤é¦†ç¢°é¢ã€‚  
+Michele æ˜¯æ³•å›½äººã€‚  
+Anna æ˜¯è‹±å›½äººï¼Œåˆšåˆšä»Žå¥¹å·¥ä½œçš„å¹¿å‘Šå…¬å¸åœ¨è‹±å›½æ›¼å½»æ–¯ç‰¹çš„åˆ†éƒ¨è°ƒåˆ°å·´é»Žçš„æ€»éƒ¨å·¥ä½œã€‚  
+MICHELE: Annaï¼Œå†æ¬¡è§åˆ°æ‚¨çœŸè®©æˆ‘ååˆ†é«˜å…´ï¼  
+å·®ä¸å¤šå¿«1å¹´æ²¡è§äº†ï¼Œæ˜¯ä¸æ˜¯ï¼Ÿ  
+ANNA: æ˜¯ï¼Œæ²¡é”™ã€‚  
+æ‚¨å‰ªå¤´å‘äº†ï¼  
+æŒºå¥½çœ‹çš„ï¼ŒMicheleã€‚  
+MICHELE: è°¢è°¢ï¼  
+æ‚¨çœ‹ä¸ŠåŽ»ä¹ŸæŒºå¥½çš„ã€‚  
+å—¨ï¼Œæ­å–œæ‚¨æå‡ä¸ºåˆ›ä½œä¸»ä»»ã€‚  
+æˆ‘å¾ˆé«˜å…´æ‚¨çš„å¹¿å‘Šå…¬å¸æŠŠæ‚¨æ´¾åˆ°å·´é»Žæ¥ã€‚  
+ANNA: æ˜¯è¿™æ ·ï¼Œæˆ‘æƒ³ç€è¦ç§»å±…åˆ°è¿™é‡Œæ¥å·²ç»æœ‰å¥½ä¸€é˜µå­äº†ã€‚  
+ç¢°å·§å…¬å¸éœ€è¦æœ‰äººè´Ÿè´£å·´é»Žè¿™é‡Œçš„å›½é™…å¹¿å‘Šåˆ¶ä½œï¼Œæ‰€ä»¥æˆ‘å°±å¾—åˆ°äº†è¿™ä»½å·¥ä½œã€‚  
+MICHELE: çœŸæ˜¯å¤ªå¥½äº†ï¼  
+å—¨ï¼Œæ‚¨æˆ´çš„æ˜¯ Belle Vie çš„ Flair ç‰Œå¤ªé˜³çœ¼é•œæ˜¯ä¸æ˜¯ï¼Ÿ  
+ä½ è¿‡åŽ»æˆ´çš„å¤ªé˜³é•œæ€Žä¹ˆæ ·äº†ï¼Ÿ  
+ä½ è®°ä¸è®°å¾—â€¦â€¦æœ‰åå…‰é•œç‰‡çš„å¤ªé˜³é•œï¼Ÿ  
+ANNA: æˆ‘å½“ç„¶è®°å¾—ï¼  
+å½“æˆ‘ä¹°åˆ°è¿™å‰¯æ–°çœ¼é•œæ—¶ï¼Œæˆ‘ç»ˆäºŽæŠŠå®ƒæ·˜æ±°æŽ‰äº†ã€‚  
+æˆ‘èº«ä¸Šè¿˜ç”¨äº† Belle Vie çš„æ–°é¦™æ°´ Fleur de Bali å‘¢ã€‚  
+æœ‰ç‚¹å„¿å¼‚å›½æƒ…è°ƒæ˜¯ä¸æ˜¯ï¼Ÿ  
+è¿™ç§é¦™æ°´ç”±å°åº¦å°¼è¥¿äºšèŠ±æœµåˆ¶æˆã€‚  
+MICHELE: å—¯ï¼Œå®ƒæŒºé€‚åˆæ‚¨çš„ã€‚  
+æˆ‘å¬è¯´ Fleur de Bali çŽ°åœ¨éžå¸¸æµè¡Œã€‚  
+å¥½äº†ï¼Œè¯·å‘Šè¯‰æˆ‘ï¼Œæ‚¨ä½åœ¨å·´é»Žçš„æ„Ÿè§‰æ€Žä¹ˆæ ·ï¼Ÿ  
+ANNA: è¿™é‡Œçš„äººã€æ–‡åŒ–å’Œé¥®é£Ÿéƒ½æŒºå¥½çš„ã€‚  
+å¯æ˜¯ï¼Œæ‚¨çŸ¥é“ï¼Œæˆ‘è¿˜ä¸ä¹ æƒ¯å·´é»Žäººä¸ªä¸ªéƒ½é‚£ä¹ˆæ—¶é«¦ã€‚  
+å®ƒè·Ÿæ›¼å½»æ–¯ç‰¹å¾ˆä¸ä¸€æ ·ã€‚  
+MICHELE: é‚£å°±æ˜¯æ‚¨ä¸ºä»€ä¹ˆä¹°é‚£å‰¯æ–°å¤ªé˜³çœ¼é•œå’Œé‚£ç§å¥‡å¦™é¦™æ°´çš„åŽŸå› æ˜¯ä¸æ˜¯ï¼Ÿ  
+ANNA: äº‹å®žä¸Šï¼Œæˆ‘ä¹° Fleur de Bali æ˜¯å› ä¸ºæˆ‘è¢« Belle Vie çš„æ–°ç”µè§†å¹¿å‘Šè¿·ä½äº†ã€‚  
+æ‚¨çœ‹è¿‡ä»–ä»¬çš„å¹¿å‘Šå—ï¼Ÿ  
+ä»–ä»¬ç”¨äº† Brigitte Bardot å’Œ Audrey Hepburn ç­‰å¤§æ˜Žæ˜Ÿæ¼”çš„è€ç”µå½±ç‰‡æ–­ã€‚  
+æˆ‘æƒ³åœ¨æˆ‘çš„ä¸€ä¸ªæ–°å¹¿å‘Šé‡Œä¹Ÿç”¨ç±»ä¼¼çš„åˆ›æ„ã€‚  
+MICHELE: å¬èµ·æ¥æŒºä¸é”™çš„ã€‚  
+æ‚¨çŸ¥é“å—ï¼Œè¯´æ¥è¿˜å¾ˆæœ‰è¶£ã€‚  
+å¤§å®¶åŽŸæ¥éƒ½æŠŠ Belle Vie çœ‹æˆè½ä¼çš„å…¬å¸ã€‚  
+å¯çŽ°åœ¨ä»–ä»¬çš„å½¢åƒå´éžå¸¸æ–°æ´¾å’Œä¸è½ä¿—å¥—ã€‚  
+ä¹Ÿè®¸æˆ‘ä¹Ÿè¯¥ä¹°ä¸€äº› Belle Vie å¤ªé˜³çœ¼é•œäº†ï¼Œå¯¹å—ï¼Ÿ  
+ANNA: å½“ç„¶ã€‚  
+æ‰€æœ‰ç™¾è´§å•†åº—éƒ½æœ‰å”®ï¼Œä¹Ÿå¯åœ¨ Belle Vie çš„ç½‘ç«™åœ¨çº¿è´­ä¹°ã€‚  
+MICHELE: æˆ‘æƒ³æˆ‘ä¼šçš„ã€‚  
+å“¦ï¼Œæˆ‘ä»¬çš„æœåŠ¡å‘˜æ¥äº†ï¼Œæˆ‘ä»¬ç‚¹èœå§ã€‚  
 ###  13.7 vocabulary   
 > Greetings Michele,  
 I'm so happy that I've (1) relocated to Paris. I was so bored in Manchester. I really like my new apartment building here because it's so international. My neighbors come from all over the world! Speaking of my new building, I have an embarrassing story to tell you.  
