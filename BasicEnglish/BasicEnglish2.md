@@ -1,4 +1,17 @@
 - [零起点英语 2](#零起点英语-2)
+  - [Lesson116 A Nasty Habit](#lesson116-a-nasty-habit)
+  - [Lesson116 Giving a Speech in Public](#lesson116-giving-a-speech-in-public)
+  - [Lesson117 What a Bad Day](#lesson117-what-a-bad-day)
+  - [Lesson118 A Good Role Model](#lesson118-a-good-role-model)
+  - [Lesson119 Fluffy the Pet Cat](#lesson119-fluffy-the-pet-cat)
+  - [Lesson120 A Teacher As Well As a Friend](#lesson120-a-teacher-as-well-as-a-friend)
+  - [Lesson121 Time to Buy a Watch](#lesson121-time-to-buy-a-watch)
+  - [Lesson122 Twin Brothers with Different Personalities](#lesson122-twin-brothers-with-different-personalities)
+  - [Lesson123 An Email from Jack](#lesson123-an-email-from-jack)
+  - [Lesson124 We Should Cherish Out Planet](#lesson124-we-should-cherish-out-planet)
+  - [Lesson125 The Common Housecat Is truly Unique](#lesson125-the-common-housecat-is-truly-unique)
+  - [Lesson126 Corn](#lesson126-corn)
+  - [Lesson127 Tom Had a Big Problem](#lesson127-tom-had-a-big-problem)
   - [Lesson128 Wrong Love for Birds](#lesson128-wrong-love-for-birds)
   - [Lesson129 Nothing in Common](#lesson129-nothing-in-common)
   - [Lesson130 Recycling](#lesson130-recycling)
@@ -11,7 +24,7 @@
   - [lesson137 A Long Healthy Life](#lesson137-a-long-healthy-life)
   - [lesson138 Exercise](#lesson138-exercise)
   - [Lesson139 A Late Night Call](#lesson139-a-late-night-call)
-  - [lesson 140 Career or Marriage?](#lesson-140-career-or-marriage)
+  - [lesson140 Career or Marriage?](#lesson140-career-or-marriage)
   - [Lesson141 A Happy Dream](#lesson141-a-happy-dream)
   - [Lesson142 Living through Books](#lesson142-living-through-books)
   - [Lesson143 At Home in the City](#lesson143-at-home-in-the-city)
@@ -22,8 +35,60 @@
   - [Lesson148 Taking Her Time](#lesson148-taking-her-time)
   - [Lesson149 A Second Chance](#lesson149-a-second-chance)
   - [Lesson150 Becoming a Doctor](#lesson150-becoming-a-doctor)
+  - [Lesson151 The Future of Cars](#lesson151-the-future-of-cars)
 
 # 零起点英语 2
+
+## Lesson116 A Nasty Habit
+> My mom says in the last few years, she has seen more and more teenagers smoking. They often smoke a cigarette before going to cram school. She si a cram school teacher, and she can smell the cigarette smoke on their clothes when they walk in the room. Mom hates the smell of smoke. She always tells my sisters and me that if she ever catches us smokng, she will throw us out of the house. She says if we want to semll like an ashtray, we can go find one to live in. Personally, I think this is a very funny thing to say. I can picture my older sister sitting on the street in a giant ashtray, I know that is not what my mom means when she says that, but it is still a funny thought. I will never smoke because it is nasty habit.
+
+## Lesson116 Giving a Speech in Public
+> Are you afraid of giving a speech in front of other? Most people are. If you remember a few simple suggestions, however, you can enjoy speaking in public.  
+> As the saying goes, "Practice makes perfect." This is especially true for speaking on a stage. You should know your speech conetent thoroughly. This will help you feel sure of yourself. You should also look at the audience while speaking. Remember, the purpose of your speech is to send a message to them. Finally, don't stand like a statue while talking. Use your body language to help you communicate. If you remember these few simple tips, you will be a good speaker. 
+
+## Lesson117 What a Bad Day
+> David had a very bad day yesterday. He woke up late, so he did not have time for breakfast before going to school. He rode his bicycle to school, but one of his tires was cut by some glass, so he had to walk his bicycle a long way. In class, David was so hungary that he couldn't concentrate. As a result, he did poorly on a test. Even worse, when lunchtime came around, he realized he had forgotten to put his lunchbox into his backpack. He had to borrow some money from a friend to buy some junk food for lunch. David promised himself that he would wake up early the next day and fix his bike so he wouldn't have so many problems!
+
+## Lesson118 A Good Role Model
+> Mary graduated from business school and entered a company as a secretary. She worked hard and was later promoted to supervisor of her section, in charge of 12 other women. She was a little strict about work, always demanding her workers' best effort. However, she was also always fair and thoughtful to them, so they liked her very much. Knowing that she needed more knowledge, she took some management courses at a community college at night. Years later, she earned a  degree in management upon graduation and finally became office manager. Even though she had a high position, she treated her co-workers the same as before. It was no secret that Mary was the most popular person in her office.
+
+## Lesson119 Fluffy the Pet Cat
+> Fluffy is the "baby" of the Henderson family. Although she is just a pet, the Hendersons treat her like a family member. Fluffy brings joy to the family every day. She accompanies Mrs. Henderson during the day. She plays with the children when they come home from high school. Maria, the daughter, would "talk" to Fluffy about her problems. Simon, the son, loves to throw small objects and have Fluffy get them back for him to throw again, just like a dog. Even Mr. Henderson enjoys having Fluffy sit by him on the sofa whenever he watches TV. Something as small as a cat can bring a large amount of love into a family.
+
+## Lesson120 A Teacher As Well As a Friend
+> Mary was a quiet girl. She had no friends in class. She was a good student but not the best one. Her teacher, Mrs. Wang, noticed how the other students ignored her. One day after class. Mrs. Wang asked Mary why she was so quiet and without any friends.  
+> Mary told her teacher that the other students ignored her because she came from a very poor family. She could not join them in their fun and games because she could not afford to buy anything. She explained that she had only enough time to study hard so one day she could get a good job. Then she could earn enough money to help her family.  
+> Mrs. Wang was quite moved by Mary's story, She said, "Mary, you are a good girl and a good student. But you have one friend in this class, you know." Mary asked, "Who is it?" Mrs. Wang answered her, "It's me. I will be not only your teacher but also your friend."
+
+## Lesson121 Time to Buy a Watch
+> Michael was little shy, but he was strongly attracted to Jennifer. One day he plucked up the courage to make an excuse to talk to her. Jennifer was busy chtting with a few of her close friends.  
+> Michael walked up to Jennifer and asked, "Excuse me. What time is it?" All the girls stopped talking instantly. Jennifer looked right at Michael and said, "Time to buy a watch!"
+> All the girls broke up into laughter. Michael had started talking to him. Sometimes if we dare to try something, something good will happpen to us.
+
+## Lesson122 Twin Brothers with Different Personalities
+> Tom and Tim were twins. Tom was older than Tim, but only by five minutes. Still, it made a big difference in their lives.  
+> Because he was "older," Tom was always given more reponsibility. Tom had to watch over Tim wherever they went. Tim became more carefree and even silly at times. His older brother became more serious and mature.  
+> Though they both did well in school. Tom and Time spent time with different friends. Tom liked to discuss the news including politics and economics. Tim enjoyed friends who liked  to party. He even became a very good singer and dancer. The boys' ways of life show us the importance of how parents bring up their childre.
+
+## Lesson123 An Email from Jack
+> Dear Wally,
+> How's everything going? Ed and I were talking yesterday about getting a group of guys together to go swimming and camping at Lake Marble. We considered going to Hawk Beach by the ocean, but it's too far away. Anyway, if you're interested, reply to this email before Friday. We'd leave early Saturday morning and spend the night in tents at the lake. We can go hiking and fishing, too. You could return anytime you like on Sunday if you ride your motorcycle. Otherwise we can take you back after 4 p.m. in Sam's car.  
+> School will be starting again in a couple of weeks, so maybe this is the last time we can have some real fun before classes begin. Let me know as soon as you can!
+> Jack.
+
+## Lesson124 We Should Cherish Out Planet
+> We call our planet Earth, but that is only because we humans live on land. In fact, water covers more than 70% of the surface of the world. The area where sea meest the land is called the seashore. This is the most valuable part of the sea for mankind and is probably ths most interesting part, too.  
+> Many plants and animals live on or near the seashore. They are aimportant as a food resource for many animals as well as humans. Scientists believe life on Earth may have started there. We should protect the seas and the seashores, the source of all life on out planet.
+
+## Lesson125 The Common Housecat Is truly Unique
+> The common housecat you see every day is very special. It has qualities that most other pets do not have.  
+> Though dogs have a more developed sense of smell than cats do, the housecat can easily find everything it needs to take care of itself by its sense of smell. Cats can also hear very well. They are also better than dogs in their vision. Especially at night, cat can see very well. They can also follow a flying insect without losing it, something neither dogs nor humans can do. The "common" housecat is truly unique.
+
+## Lesson126 Corn
+> Of all the world's grains, corn is the most important in that more people eat it than any othet. Surprisingly, corn comes from common grass, first grown in Mexico more than 6,000 years ago. Corn was originally limited to North and south America until Christopher Columbus took it to Europe in 1942. Today it is grown and eaten in many forms around the world. The top corn producers are the United States, China, Brazil, and Mexico. Corn is very good for our helth. Better still, all parts of the corn plant can be used, from the yellow corn kernels for food, alcohol, and biofuel with its tall, thick stalk for animal feed. No wonder corn is considered the most important grain in the world today.
+
+## Lesson127 Tom Had a Big Problem
+> Tom had a big problem. He needed a ride home after work because his car broke down. He called his friend Allen and left a message that he needed a ride, but Allen didn't call back, which make Tome quite upset. Then he asked his friend Evan, who agreed to help him. As Tom and Evan were leaving work, Allen saw Tom and walked up to him. "I thought you wanted a ride," said Allen. "I do, but Evan agreed to take me home. You didn't call me back, so I asked him for help." Allen said, "I was busy doing all the paperwork, but you konw I would have helped you." He angrily walked away without saying anythging more. Now Tom had a ride but also had an unhappy friend.
 
 ## Lesson128 Wrong Love for Birds
 > It was an unusually cold winter. Sarah felt sorry for the birds in her neighborhood because it was difficult for them to find food. Every day Sarah put out some birdseed and bread for the birds to eat. More and more birds would come to Sarah's home lookng for food.
@@ -67,7 +132,7 @@ Walking or running is very good exercise, and it's more fun if you don't go alon
 ## Lesson139 A Late Night Call
 > Last night, my brother phoned me at a quarter to midnight. I was really tired, and all I really wanted to do was hang up and tell him to call me in the morning. He just continued to talk and told me he had a good piece of news for me. "I just met the most wonderful girl in the world," he said. "I'm going to ask her to marry me." When he said this, I sat up in the bed. I couldn't believe it. How could this happen? He couldn'tget married first. It wasn't fair. "How long have you known this girl?" He was quiet for moment and then he said, "I just net her two hours ago. She's perfect." Upon hearing that, I closed my eyes, knowing that he must have drunk too much beer.
 
-## lesson 140 Career or Marriage?
+## lesson140 Career or Marriage?
 > These days, more and more people tend to get married later then before. In other words, they are putting off getting married until they are older. In the past, many people married shortly after high school or college. Some would even marry their high school or college boyfriends or girlfriends. They would then start a family soon after getting married. The min reason people are waiting to get married is that they want finish their education before marrying and starting a family. This is especially true for young women. Women now want to have good careers and jobs before they start taking care of a husband and childre.
 
 ## Lesson141 A Happy Dream
@@ -105,3 +170,6 @@ The first airplanes could not fly very high. They were slow, too. Birds could fl
 
 ## Lesson150 Becoming a Doctor
 > After college, I plan to go to medical school. I've always been interested in studying medicine. My love for it began when I was just a child. My father is a physician and I used to go to his office every evening after school. My father was very kind to his patients. He would sit down with them and talk about their lives. He knew the names of their children. He was like a part of their family. My father was always ready to help people out when they had an emergency. One time a woman had a baby right in his office. I was there on that day, and it was then that i make up my mind to become a doctor.
+
+## Lesson151 The Future of Cars
+> Cars used to be inventions that only rich people could buy. It was expensive to keep them and have them repaired. Nowadays, almost everyone can afford to buy one. Cars come in many shapes and sizes, and are sold at different prices. In other words, there is a car that will fit just about anyone's budget. Each year, more and more people in the world own a car. The worst part about them is that they pollute the environment. For many years, scientists have been working on making a car that doesn't pollute the environment. They have come up with cars powered by the sun and even ones that run on electricity. These cars cost a lot of money and only a few people own them. More than likely this will change in the future.
