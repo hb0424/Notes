@@ -10,6 +10,7 @@
     - [4.1 listening](#41-listening)
     - [4.2 vocabulary](#42-vocabulary)
     - [5.1 listening](#51-listening)
+    - [5.2 vocabulary](#52-vocabulary)
 # Global English  
 ## Level 7  
 ### 1.1 listening  
@@ -452,3 +453,40 @@ MIKE: 抱歉，我完全不同意。
 ANITA: 噢，Mike，不要这么固执。  
 我也拥有这家公司，我认为我们应该卖掉它。  
 MIKE: 好，我们来看看 Jeff 的意见。
+### 5.2 vocabulary
+1. I'm optimistic about the company's growth. I think we're going to have a great year!
+2. Sara made a great investment when she bought stock in that company. It's been a gold mine!
+3. According to the contract, we have a(n) obligation to deliver 300 chairs per month to the furniture retailers.
+4. The negotiation isn't going well. We're having trouble reaching an agreement because WynTex is being very stubborn about several important points.
+5. The publishing company wanted to move into software development, but it didn't have the resources to start a new product line.
+6. The best way to boost sales is to come up with a catchy song for the ad campaign.
+7. Jason was insulted when his supervisor told him that the quality of his work was not good enough.
+8. The consultants had some useful things to say about our business plan. I think their comments were right on target.
+9. The fight for market share has never been so fierce and aggressive. It must be the weak economy that is causing such cutthroat competition.	
+1. Carmen thinks that the new ad campaign for Accelerated should include a 
+catchy
+ song.
+2. Mike thinks Carmen's ideas are exactly what Accelerated needs. He thinks she is 
+right on target
+.
+3. Right now, Accelerated doesn't have the 
+resources
+ available to test new markets and develop a catchy ad campaign.
+4. Mike wants to continue running the company so that he can fulfill his 
+obligation
+ toward his employees.
+5. The software industry is very competitive. Mike and Anita need to be careful in such a 
+cutthroat
+ environment.
+6. Mike felt 
+insulted
+ when Anita said that he didn't have the right kind of management experience.
+7. Accelerated really has the potential to make a lot of money in the future. Mike sees the company as a true 
+gold mine
+.
+8. Despite the problems that the company is having, Mike still thinks everything is going to work out fine. He feels 
+optimistic
+ about Accelerated's future.
+9. Anita thinks Mike should not be so 
+stubborn
+ about his decisions. He should be more flexible.
