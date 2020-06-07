@@ -2,7 +2,7 @@
   - [Level 7](#level-7)
     - [1.1 listening](#11-listening)
     - [1.2 vocabulary](#12-vocabulary)
-    - [1.2 vocabulary](#12-vocabulary-1)
+    - [1.3 vocabulary](#13-vocabulary)
   
  - [1.1 listening](#11-listening)
   
@@ -86,7 +86,7 @@ Until now, you may have studied English at a college or language school. Perhaps
 Conversation videos. These 80 videos of everyday dialogues can be played again slowly to improve your understanding.Grammar and vocabulary games. These enjoyable games help you to review new grammar and vocabulary. You can play them at any time.  
 Join the thousands of students who have become great speakers of English!  
 
-### 1.2 vocabulary  
+### 1.3 vocabulary  
 1. Sometimes I feel overwhelmed at work when things get to be too much for me.
 2. We need to increase the number of standing orders we fill each month, because they give us a steady and regular income.
 3. Joe is looking for an insurance policy with a lot of flexibility because he may need to change it when he gets married.
