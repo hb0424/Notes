@@ -5,7 +5,8 @@
     - [1.3 vocabulary](#13-vocabulary)
     - [2.1 listening](#21-listening)
     - [2.2 vocabulary](#22-vocabulary)
-
+    - [3.1 listening](#31-listening)
+    - [3.2 vocabulary](#32-vocabulary)
 # Global English  
 ## Level 7  
 ### 1.1 listening  
@@ -186,4 +187,103 @@ catch up
  in the next quarter.
 7. Accelerated English wants its software to be so familiar to people that 
 name recognition
- alone will sell its products.
+ alone will sell its products.  
+ ### 3.1 listening  
+> NARRATOR: Carmen Gomez is presenting two strategic options to Mike Davis.  
+CARMEN: Now that I understand more about Accelerated English and its market, I have two suggestions to present to you.  
+I think they both have merit, so you'll need to decide which one is best for you and the company.  
+MIKE: That's great. I'm eager to hear your ideas.  
+CARMEN: Well, your first option is to improve your strategy and focus on internal growth.  
+You might consider improving customer service,  
+entering the corporate market, or launching a new advertising campaign.  
+If you go in this direction, you'll need to take out a loan.  
+MIKE: And that means we'll have to find a source of funding.  
+CARMEN: Yes, but once you have the money, you'll be free to implement your new strategy, with almost no strings attached.  
+MIKE: That sounds like a good idea.  
+So, what's my other option?  
+CARMEN: The other alternative is to sell Accelerated to a company that already has global reach.  
+A large partner could allow you to expand into Europe and Asia immediately.  
+That boost to your sales may be just what Accelerated needs.  
+MIKE: Well, developing overseas markets is certainly one of our long-term goals.  
+But if I sell, won't I lose control of the company?  
+CARMEN: No, not necessarily.  
+With the right buyer, you could negotiate to keep your position.  
+MIKE: Huh. I didn't even consider that option.  
+And are there other benefits of selling?  
+CARMEN: Well, if you sell to a financially sound company, your money problems should disappear.  
+That way, you can focus on product development and marketing instead of production costs.  
+MIKE: I see your point, but I don't like the idea of strangers running the business.  
+I really want to keep our company in the family.  
+CARMEN: I understand your concerns.  
+But if you can find a company that's a good fit, you might get everything you want.  
+You might also make a very nice profit.  
+My analysis shows that the company could be worth 750 million dollars to the right buyer.  
+MIKE: Well, let me think about it.  
+I also need to meet with my sister and our cousin to find out what they want to do.  
+CARMEN: That's fine. I know this must be a hard decision.  
+Take some time to consider the two options, and we can meet again later in the week.  
+I should be available on Friday.  
+解说员：Carmen Gomez 正在向 Mike Davis 介绍两个战略选择。  
+CARMEN: 现在我对 Accelerated English 和它的市场情况有了更深的了解，这是我的两个建议。  
+我认为他们都有优点，所以您必须决定哪个更适合您以及您的公司。  
+MIKE: 非常好。我很想听听您的观点。  
+CARMEN: 好，第一个建议是改善经营策略，把精力集中在内部发展上。  
+您可能应该考虑改善客户服务，  
+进入共同市场，或推出新的广告活动。  
+如果这样做，就必须贷款。  
+MIKE: 那就意味着我们必须找到资金来源。  
+CARMEN: 是的，但是一旦您拥有了这笔资金，就可以自由地执行您的新策略，而几乎不受任何约束。  
+MIKE: 听起来是个好建议。  
+我的另一个选择是什么呢？  
+CARMEN: 另一个办法是将 Accelerated 卖给一个全球化的公司。  
+这个大的合作伙伴将使您立即地发展到欧洲和亚洲市场。  
+销售额会大增这大概正是 Accelerated 所需要的。  
+MIKE: 发展海外市场当然是我们的长期目标之一。  
+但是如果卖掉公司，不就失去了对公司的控制权吗？  
+CARMEN: 不，不一定。  
+有了合适的买家，就可以通过谈判来保持您的位置。  
+MIKE: 我还没考虑这个建议。  
+出售公司还有其它好处吗？  
+CARMEN: 是这样，如果您出售给一家财务健全的公司，资金问题就解决了。  
+那样，您就可以集中精力于开发和销售产品，而不用顾及产品的成本。  
+MIKE: 我明白您的建议，但我不想让陌生人来经营此业务。  
+我很想由本家族来管理这个公司。  
+CARMEN: 我明白您的忧虑。  
+但如果能找到一家非常合适的公司，您就可能得到想要的一切。  
+并且有可能获得非常好的收益。  
+据我分析公司如果卖给合适的买主，它可能值五千万美元。  
+MIKE: 那好，让我仔细想想。  
+我还必须与我的姐姐和堂兄谈一谈，看看他们的想法？  
+CARMEN: 那好。我知道这是一个艰难的选择。  
+请花些时间考虑一下这两个建议，本周我们另约时间再谈。  
+星期五我有空。
+### 3.2 vocabulary
+1. Eric thinks the new marketing program will be a big success. He thinks the plan has a lot of merit.
+2. I'm not happy about using that company as a distributor. I wish we had another option, but they're the only ones who can meet our delivery schedules.
+3. Roger had a proposal to restructure the accounting department, but we decided it would be too hard to implement.
+4. It's impossible to get a loan with no strings attached. The bank has conditions for any loan agreement.
+5. It will cost a lot of money to expand into the Eastern European market. Have we found a(n) source of funding for this?
+6. ABC Industries has no trouble attracting investors because their business is financially sound.
+7. Zintron products have done well in the North and South American markets, but the company didn't have global reach until it formed partnerships in Europe and Asia.
+8. The new advertising campaign should help to boost our sales.	
+1. I think we should accept the bid from the German company. The company is 
+financially sound
+ and its stocks are stable.
+2. Although profits were up last year, the company still needs more money to finance the new expansion project. They are looking for a 
+source of funding
+.
+3. We can 
+boost
+ domestic sales by broadening our product line and increasing our name recognition.
+4. The airlines continue to add restrictions to their frequent flyer programs, so I never qualify for a free ticket. I wish one airline would offer me a free ticket with 
+no strings attached
+.
+5. After a lot of planning, the company finally started using the new safety instructions. They were 
+implemented
+ just last month, and already there have been fewer accidents.
+6. My financial advisor suggested that I consider an alternative investment 
+option
+ with higher earning potential.
+7. Your suggestion has 
+merit
+ and it might work, but I want to examine some other options before I make a final decision.
