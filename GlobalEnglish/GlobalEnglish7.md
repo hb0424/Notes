@@ -3,10 +3,7 @@
     - [1.1 listening](#11-listening)
     - [1.2 vocabulary](#12-vocabulary)
     - [1.3 vocabulary](#13-vocabulary)
-  
- - [1.1 listening](#11-listening)
-  
- - [1.2 vocabulary](#12-vocabulary)
+
 
 # Global English  
 ## Level 7  
