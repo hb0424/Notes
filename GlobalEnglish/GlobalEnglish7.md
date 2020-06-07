@@ -4,6 +4,7 @@
     - [1.2 vocabulary](#12-vocabulary)
     - [1.3 vocabulary](#13-vocabulary)
     - [2.1 listening](#21-listening)
+    - [2.2 vocabulary](#22-vocabulary)
 
 # Global English  
 ## Level 7  
@@ -90,7 +91,7 @@ Join the thousands of students who have become great speakers of English!
 6. I loved that movie! It was really engaging.
 7. That company imports unique products that no one else has.  
 ### 2.1 listening  
-NARRATOR: The rate of sales growth at Accelerated English has declined, and the company is in trouble. Mike Davis is talking to Carmen Gomez, a consultant, about the company's problems.  
+> NARRATOR: The rate of sales growth at Accelerated English has declined, and the company is in trouble. Mike Davis is talking to Carmen Gomez, a consultant, about the company's problems.  
 MIKE: Good morning. I'm Mike Davis.  Thank you for meeting with me.  
 CARMEN: Carmen Gomez. Nice to meet you.  
 How can I help?  
@@ -157,3 +158,32 @@ MIKE: 很高兴听到您这么说。
 CARMEN: 好的，首先我要先查看一下您发给我的资料。  
 并且在这个行业做一些综合调查。  
 然后，我再回来找您，提出我的两个建议。
+### 2.2 vocabulary
+1. Currently, our main customer base is exclusively in the United States. In the future, we want consumers in other countries as well.
+2. The parents left all of their money to their sons. Each brother inherited a million dollars.
+3. Even though we entered the market after the other companies, our company hopes to catch up by the end of the year. Our goal is to have the same sales figures as they have.
+4. The name recognition of some soft drinks is very strong. People all around the world know about them.
+5. The manufacturer of this snack food sends all of its merchandise to a single retailer to be sold. That store then sells directly to the public.
+6. The only way to make more money is to broaden our product line, perhaps by expanding into a line of children's software.
+7. It is important to maintain our company's long-term stability. We don't want our stock price to 
+8. Shareholders will have confidence in our company if we can maintain financial 
+stability
+ over a long period of time.
+2. Most of Mike Davis' money comes from the amount he 
+inherited
+ when he took over Accelerated English.
+3. Buying directly from a warehouse is a way to save money. Buying from a 
+retailer
+ is usually more expensive.
+4. Global Solutions will pay for computer classes for all employees who want to 
+broaden
+ their knowledge.
+5. With such a large 
+customer base
+, it is easy for the sales team to conduct business in every part of the world.
+6. Our competition is far ahead of us. We've got a lot of work to do if we expect to 
+catch up
+ in the next quarter.
+7. Accelerated English wants its software to be so familiar to people that 
+name recognition
+ alone will sell its products.
