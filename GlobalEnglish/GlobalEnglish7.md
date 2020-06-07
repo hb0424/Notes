@@ -2,6 +2,7 @@
   - [Level 7](#level-7)
     - [1.1 listening](#11-listening)
     - [1.2 vocabulary](#12-vocabulary)
+    - [1.2 vocabulary](#12-vocabulary-1)
   
  - [1.1 listening](#11-listening)
   
@@ -84,3 +85,12 @@ Accelerated English has won several awards for software language training.
 Until now, you may have studied English at a college or language school. Perhaps you have traveled a long distance or taken classes at an inconvenient time of day. Perhaps you have felt overwhelmed by the pressure to learn English quickly. With RealEnglish, you now have the flexibility to learn real, practical English when you want, at home or at the office. Unlike any other product currently on the market, RealEnglish is a unique, high-powered course that requires only a limited amount of time to complete. Inside this package you'll find: Multimedia lessons. Eighty engaging lessons will hold your attention. These lessons include listening, reading, writing, and speaking activities.  
 Conversation videos. These 80 videos of everyday dialogues can be played again slowly to improve your understanding.Grammar and vocabulary games. These enjoyable games help you to review new grammar and vocabulary. You can play them at any time.  
 Join the thousands of students who have become great speakers of English!  
+
+### 1.2 vocabulary  
+1. Sometimes I feel overwhelmed at work when things get to be too much for me.
+2. We need to increase the number of standing orders we fill each month, because they give us a steady and regular income.
+3. Joe is looking for an insurance policy with a lot of flexibility because he may need to change it when he gets married.
+4. Pat has enough money so she never has to work again. She's set for life.
+5. The number of students per class is limited to ten. If we have larger classes, the students won't learn as much.
+6. I loved that movie! It was really engaging.
+7. That company imports unique products that no one else has.
