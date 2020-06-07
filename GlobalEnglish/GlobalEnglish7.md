@@ -9,6 +9,7 @@
     - [3.2 vocabulary](#32-vocabulary)
     - [4.1 listening](#41-listening)
     - [4.2 vocabulary](#42-vocabulary)
+    - [5.1 listening](#51-listening)
 # Global English  
 ## Level 7  
 ### 1.1 listening  
@@ -289,7 +290,7 @@ option
 7. Your suggestion has 
 merit
  and it might work, but I want to examine some other options before I make a final decision.  
- ### 4.1 listening  
+### 4.1 listening  
  > NARRATOR: Mike Davis tells Carmen Gomez that he doesn't want to sell Accelerated English. How does Carmen respond?  
 MIKE: I must thank you for coming by on such short notice.  
 I didn't want to wait any longer than absolutely necessary.  
@@ -368,3 +369,86 @@ layoffs this quarter.
 6. Mike isn't interested in a quick solution for Accelerated English. Instead, he wants a strategy that will help the company in the long run.
 7. Mike knows that Global Solutions has an excellent reputation and that he can count on Carmen to do a good job.
 8. Accelerated English is thinking about expanding its core business into some secondary markets.
+### 5.1 listening  
+> NARRATOR: Mike is talking to Anita about his meeting with Carmen.  
+ANITA: Hi, Mike. So, tell me about your meeting with Carmen.  
+MIKE: Oh, it was very productive.  
+She said we have a great company.  
+All we need is the right strategy to make it grow. And a loan.  
+ANITA: I see. So how exactly are we going to accomplish this growth?  
+MIKE: Well, first, she said we should focus on improving customer service.  
+That's the most important thing.  
+Plus, we ought to test some new corporate markets and develop a catchy ad campaign.  
+I think she's right on target.  
+ANITA: Well, I'm afraid I don't agree with you, Mike.  
+We just don't have the resources to make these kinds of changes.  
+Didn't she make any other suggestions?  
+MIKE: She did. She said we could sell the company.  
+But, of course, I told her we weren't interested in that.  
+ANITA: What? Why did you tell her that?  
+We'll make a lot of money if we sell.  
+You'd better reconsider, Mike.  
+It might be better to take a profit while we can.  
+MIKE: Anita, this is our family business!  
+You can't be serious about selling.  
+What about tradition?  
+And what about the employees?  
+We have an obligation to them... and to ourselves.  
+ANITA: I see your point, but I'm sure we can find a buyer who'd agree to keep the employees.  
+That's not the issue.  
+Our problem is that we're in a cutthroat industry, and we don't have the right kind of management experience.  
+MIKE: Oh, I completely disagree.  
+And I'm insulted. We have a great team.  
+This company is already worth 750 million, and could be worth a lot more in the future.  
+Why should we sell such a gold mine?  
+ANITA: 750 million? Are you kidding?! That's ridiculous.  
+We're probably worth only half that.  
+I think you're being too optimistic about our potential earnings growth.  
+MIKE: I'm sorry, but I just don't agree.  
+We can continue to expand significantly on our own.  
+All we need is some more advice from Carmen and a small bank loan.  
+I'm the CEO, and I say we can do it!  
+ANITA: Oh, Mike, don't be so stubborn.  
+I own this company, too, and I say we ought to sell.  
+MIKE: Well, we'll see what Jeff has to say about that!    
+解说员：Mike 正在与 Anita 讨论他与 Carmen 的会议。  
+ANITA: 嗨，Mike。那么，讲讲你和 Carmen 会谈的情况。  
+MIKE: 收获颇多。  
+她说我们有个很不错的公司。  
+我们所需要的只是发展公司的正确策略和贷款。  
+ANITA: 那么我们到底该如何实现增长呢？  
+MIKE: 好，首先，她说我们应该致力于改善顾客服务。  
+这是最重要的。  
+此外，我们应该尝试新的企业用户市场，并且展开引人注目的广告活动。  
+我认为她一语中的。  
+ANITA: 我恐怕不能同意你的看法，Mike。  
+我们没有资源进行这类改革。  
+她没有其它的建议吗？  
+MIKE: 有。她说我们可以把公司卖掉。  
+但是，我告诉她我们对此不感兴趣。  
+ANITA: 什么？你为什么这样说？  
+如果将公司卖掉，我们会有很赚多钱。  
+你最好重新考虑一下，Mike。  
+最好是在我们能获利的时候就获利。  
+MIKE: Anita，这是我们家族的产业！  
+你不能真把公司卖掉。  
+家族传统怎么办。  
+雇员怎么办？  
+我们应该对他们负责...也对我们自己负责。  
+ANITA: 我明白你的意思，但是我能保证找到一位愿意保留雇员的买主。  
+问题不在这儿。  
+我们的问题在于我们面临着激烈的行业竞争，而我们却没有合适的管理经验。  
+MIKE: 噢，我完全不同意。  
+这对我是个侮辱。我们有一个优秀的班子。  
+这家公司现在价值 7.5 亿，而且将来可能会值钱得多。  
+我们为什么要把这样一个金矿卖掉？  
+ANITA: 7.5 亿？ 开玩笑吗你？！ 这太离谱了。  
+我们大概只值那个钱数的一半。  
+我认为你对我们的潜在收入的增长过于乐观。  
+MIKE: 抱歉，我完全不同意。  
+我们可以靠自己继续卓有成效地扩展公司业务。  
+我们只需要 Carmen 提供更多的建议和一小笔贷款。  
+我是总裁(CEO)，我说了我们能做到！  
+ANITA: 噢，Mike，不要这么固执。  
+我也拥有这家公司，我认为我们应该卖掉它。  
+MIKE: 好，我们来看看 Jeff 的意见。
