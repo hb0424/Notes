@@ -36,6 +36,10 @@
   - [Lesson149 A Second Chance](#lesson149-a-second-chance)
   - [Lesson150 Becoming a Doctor](#lesson150-becoming-a-doctor)
   - [Lesson151 The Future of Cars](#lesson151-the-future-of-cars)
+  - [Lesson152 Big Trouble](#lesson152-big-trouble)
+  - [Lesson153 Walt Disney](#lesson153-walt-disney)
+  - [Lesson154 Large Feet](#lesson154-large-feet)
+  - [Lesson155 The Grimm Brothers](#lesson155-the-grimm-brothers)
 
 # 零起点英语 2
 
@@ -173,3 +177,18 @@ The first airplanes could not fly very high. They were slow, too. Birds could fl
 
 ## Lesson151 The Future of Cars
 > Cars used to be inventions that only rich people could buy. It was expensive to keep them and have them repaired. Nowadays, almost everyone can afford to buy one. Cars come in many shapes and sizes, and are sold at different prices. In other words, there is a car that will fit just about anyone's budget. Each year, more and more people in the world own a car. The worst part about them is that they pollute the environment. For many years, scientists have been working on making a car that doesn't pollute the environment. They have come up with cars powered by the sun and even ones that run on electricity. These cars cost a lot of money and only a few people own them. More than likely this will change in the future.
+
+## Lesson152 Big Trouble
+> Bob got in a fight at school yesterday. It wasn't his fault, but he was still punished by his teacher. While Bob was sitting in class, a boy behind him threw a piece of paper at him. Bot tried to ignore the boy, but then he did it again. Finally, he couldn't take it anymore, so he got up and went to boy's desk. Bob asked him why he threw the paper and the boy just laughed.
+> Bob was so angry that he ended up hitting the boy in the face. The teacher saw him do it and send him to see the principal. It was the first time Bob had ever been in trouble at school. Because of the fight, Bob has to stay after school for a week. The other boy didn't even get in trouble.
+
+## Lesson153 Walt Disney
+> Walt Disney died in 1966. However, his work and his dreams did not die. A new generation of children love his movies such as "Snow White" and even his old Mickey Mouse cartoons. Not only these children but their parents enjoywatching the movies.
+> Walt Disney had a dream. He wanted to build a new kind of amusement part. It would be clean and beautiful There would be rides for children and nice restaurants for adults. It would be fun for people of all ages. Disney drew a plan for this park. It was called Disneyland. A lot of people told him it was a impossible dream, but Disney did not give up his idea. In 1955, Disneyland opened its gates to the public and became the most successful amusement part in the United States. Walt Disney was indeed a living example of saying, "Where there is a will, there is a way."
+
+## Lesson154 Large Feet
+> Laura needs to get a new pair of shoes, but she doesn't know what style she wants to buy. She needs something that she can wear to work. She usually walks to work, so the shoes have to be comfortable. She wants to find something that is pretty and fashionable. Her favorite color is pink, but she's afraid they won't match all of her clothes. Laura also has another problem. She has relly large feet. Out of all of her friends, she has the biggest feet. Whenever she goes looking for a pair of shose, it always takes her a lot of time. It is also very embarrassing because the people selling the shoes talk about how big her feet are. She wishes her feet were small and cute.
+
+## Lesson155 The Grimm Brothers
+> Many people like to collect things. Some collect cups, some collect books, and some collect baseball cards. A long time ago, the Grimm Brothers decided to collect stories. They walked from farm to farm  with their backpacks. They asked around to find old people who would remember and tell the old stories. Every time a story was told, they tried to write it down with the same words that the old men and women used.
+> After five years of hard work, the Grimms collected 86 stories. Their first book of old stories came out that year. Then they wrote two more books. Throughout their lives, the Grimms collected 210 stories. Today children all over the world are enjoying these stories as much as children 150 years ago.
