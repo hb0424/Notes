@@ -1,5 +1,6 @@
 - [零起点英语 2](#零起点英语-2)
-  - [Lesson116 A Nasty Habit](#lesson116-a-nasty-habit)
+  - [Lesson114 A Smooth Flight](#lesson114-a-smooth-flight)
+  - [Lesson115 A Nasty Habit](#lesson115-a-nasty-habit)
   - [Lesson116 Giving a Speech in Public](#lesson116-giving-a-speech-in-public)
   - [Lesson117 What a Bad Day](#lesson117-what-a-bad-day)
   - [Lesson118 A Good Role Model](#lesson118-a-good-role-model)
@@ -43,7 +44,10 @@
 
 # 零起点英语 2
 
-## Lesson116 A Nasty Habit
+## Lesson114 A Smooth Flight
+> Last year, I went on my first trip on an airplane. I was really nervous about the flight, but in the end, it wasn't that bad. When I got on the plane, I had to find my seat. Once I found my seat, I found that I was seated next to an old woman. I then put my carry-on bag in the overhead compartment. The flight attendant had to help me put it up there because I'm not that tall. After I sat down, it was time to take off. The woman next to me had flown many times before and she could tell I was nervous. She told me to relax and not to worry. Once we got off the ground, it was a smooth flight.
+
+## Lesson115 A Nasty Habit
 > My mom says in the last few years, she has seen more and more teenagers smoking. They often smoke a cigarette before going to cram school. She si a cram school teacher, and she can smell the cigarette smoke on their clothes when they walk in the room. Mom hates the smell of smoke. She always tells my sisters and me that if she ever catches us smokng, she will throw us out of the house. She says if we want to semll like an ashtray, we can go find one to live in. Personally, I think this is a very funny thing to say. I can picture my older sister sitting on the street in a giant ashtray, I know that is not what my mom means when she says that, but it is still a funny thought. I will never smoke because it is nasty habit.
 
 ## Lesson116 Giving a Speech in Public
