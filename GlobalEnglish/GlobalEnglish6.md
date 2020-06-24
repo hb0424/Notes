@@ -340,7 +340,7 @@ WAITER: 好。 我马上给您上汤和色拉。
 JEAN-LUC: 好，我很高兴听到您的顾客依旧喜欢 Belle Vie 的产品。  
 我有一些关于今年的产品品线的新想法，想和您谈一谈。  
 我们正在考虑引进一些与众不同香型，例如巧克力味和焦糖味...  
-###  3.2 listening   
+###  3.2 vocabulary   
 > 1. I like this restaurant. We can get an appetizer, an entree, and dessert for a fixed price.  
 > 2. salmon is one of the most popular fish on the west coast of the United States. It tastes good and has an appealing color.  
 > 3. He usually drinks a cup of coffee in the morning.  
@@ -353,7 +353,7 @@ allergic
 specials  
 entree  
 saute  
-###  3.3 listening   
+###  3.3 vocabulary   
 > 1. I think I'll have the blueberry pie for dessert.  
 > 2. We don't like to cook with garlic. The taste is too strong.  
 > 3. I should have some vegetables for lunch. I think I'll have a spinach salad.  
