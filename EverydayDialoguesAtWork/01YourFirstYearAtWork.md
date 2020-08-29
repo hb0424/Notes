@@ -1,6 +1,7 @@
 - [Your First Year At Work](#your-first-year-at-work)
   - [Dialogue 1](#dialogue-1)
   - [Dialogue 2](#dialogue-2)
+  - [Dialogue 3](#dialogue-3)
 
 # Your First Year At Work
 
@@ -32,4 +33,20 @@ Chatting about Meeting New People (At home in boys' apartment)
 > H: Yeah, yeah. Boring stuff I bet! Seriously, do you think you will be happier here than in Shanghai?  
 > G: To be honest it's a little too early to say. I mean, today was just my first day.
 > H: I think you're gonna love it! Beijing is a cool place, better than Shanghai if you ask me.  
-> G: From a socialising point of view I agree. There's alwasys something going on in Beijing, 24/7.
+> G: From a socialising point of view I agree. There's alwasys something going on in Beijing, 24/7.  
+
+## Dialogue 3
+Meeting Some for the Second Time(Gao Shan meets Alice again in the company cafeteria)  
+> Gao Shan: Hello Alice. Nice to see you again, and so soon.  
+> Alice: Hi there Gao Shan, yes it hasn't been long. Is this seat taken?  
+> G: Yes, sure, please sit down. It would be nice to have some company, I don't know many people yet.  
+> A: Don't worry, you'll make friends. I'll introduce you to some more people. You haven't got anything to eat, are you not felling well?  
+> G: Well, to be honest, I don't like the cafeteria food in the company.  
+> A: You may noticed I've only got an apple...  
+> G: You are slim already, you don't need to diet!  
+> A: No, no! Actually I'm not eating for the same reason as you; I can't stand the food here either.  
+> G: Ha ha! I'm glad I'm not alone. Now, the Shanghai office, the food there was excellent. And because it was subsidised, it was so cheap. I don't know what kind of chefs they've got here.  
+> A: Tell me about it! The Shenzhen office was much better than this, too. I'll have to get something from the shop.  
+> G: Let me tell you a little secret, Usually, after my lunch break, I call the sandwich shop across the street and have something sent to my office. If the boss is around, I eat in the broom cupboard!  
+> A: Oh dear! You don't have to hide it; you know there's no rule against eating at you desk. You know, if you feel like some company, maybe today I'll join you. I know which sandwich place you mean and I really fancy one of their meatball subs!  
+
