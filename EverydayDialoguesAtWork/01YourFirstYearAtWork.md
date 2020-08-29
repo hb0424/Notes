@@ -1,8 +1,10 @@
-- [Dialogue 1](#dialogue-1)
-- [Dialogue 2](#dialogue-2)
+- [Your First Year At Work](#your-first-year-at-work)
+  - [Dialogue 1](#dialogue-1)
+  - [Dialogue 2](#dialogue-2)
 
+# Your First Year At Work
 
-# Dialogue 1
+## Dialogue 1
 Gao Shan meets a new colleague on his first day at a new company  
 > Alice: Hi, I don't think I've seen you before, are you new here?  
 > Gao Shan: Yes ,today's my first day, I was transfered from the Shanghai ofice.  
@@ -17,7 +19,7 @@ Gao Shan meets a new colleague on his first day at a new company
 > A: Actually, I started off in the Shenzhen office about 6 years ago, but I've been here for 2. How about you?  
 > G: I've been with them for about 2 years. I feel it's a good company to work for, and the money's not bad.  
 
-# Dialogue 2
+## Dialogue 2
 Chatting about Meeting New People (At home in boys' apartment)  
 > Hans: So, Gao. How was you first day?  
 > Gao Shan: Pretty good. I met a really nice lady called Alice.  
