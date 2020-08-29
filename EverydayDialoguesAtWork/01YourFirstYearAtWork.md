@@ -1,9 +1,11 @@
-- [Your First Year At Work](#your-first-year-at-work)
+- [Meeting and Greeting](#meeting-and-greeting)
   - [Dialogue 1](#dialogue-1)
   - [Dialogue 2](#dialogue-2)
   - [Dialogue 3](#dialogue-3)
+- [Making New Friends](#making-new-friends)
+  - [Dialogue 1](#dialogue-1-1)
 
-# Your First Year At Work
+# Meeting and Greeting
 
 ## Dialogue 1
 Gao Shan meets a new colleague on his first day at a new company  
@@ -50,3 +52,19 @@ Meeting Some for the Second Time(Gao Shan meets Alice again in the company cafet
 > G: Let me tell you a little secret, Usually, after my lunch break, I call the sandwich shop across the street and have something sent to my office. If the boss is around, I eat in the broom cupboard!  
 > A: Oh dear! You don't have to hide it; you know there's no rule against eating at you desk. You know, if you feel like some company, maybe today I'll join you. I know which sandwich place you mean and I really fancy one of their meatball subs!  
 
+# Making New Friends
+
+## Dialogue 1
+Work Assignments(At a meeting during the coffee break Sylvia has a conversation with colleague.)  
+> Annabel: Your presentation was excellent. I really envy you.  
+> Sylvia: Oh, oh, thank you? Why?
+> A: Well, I noticed the great results you've got. The staff are outselling all of the other sales department in the Beijing area.  
+> S: Yes I'm lucky we have a great team. But of course my main area is accounts. Your team were doing pretty well last year, what happened this year.  
+> A: We've had some trouble with delivery dates. Often the orders are not on time, so some of our customers have changed supppliers.  
+> S: It's always a blow when a good customer goes to one of your competitors.  
+> A: So, we always seem to be behind schedule because we are always chasing something which should have already been completed.  
+> S: What do think the problem is? Logistics?
+> A: To be honest, I think it's a employee problem. Maybe we aren't selective enough when we hire new staff.
+> S: Have you thought of implementing a training scheme? Make it compulsory, so no one can get out of it. Maybe then things will run better. Obviously, I don't really know too much about this.  
+> A: Obviously you do. That's a really good idea. I mean, the people in your area are well trained, that's easy to see from your figures.
+> S: We believe in training, in-house and ongoing. You can never learn too much, that's what I always say, whatever field you are in, we all contribute to the success of the company.
