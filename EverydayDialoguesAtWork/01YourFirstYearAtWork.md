@@ -1,3 +1,6 @@
+- [Dialogue 1](#dialogue-1)
+
+
 # Dialogue 1
 Gao Shan meets a new colleague on his first day at a new company  
 > Alice: Hi, I don't think I've seen you before, are you new here?  
