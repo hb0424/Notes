@@ -6,6 +6,10 @@
   - [Dialogue 1](#dialogue-1-1)
   - [Dialogue 2](#dialogue-2-1)
   - [Dialogue 3](#dialogue-3-1)
+- [Employee Contracts](#employee-contracts)
+  - [Dialogue 1](#dialogue-1-2)
+  - [Dialogue 2](#dialogue-2-2)
+  - [Dialogue 3](#dialogue-3-2)
 
 # Meeting and Greeting
 
@@ -87,16 +91,63 @@ Discussing a day's Work. (At home In the girl's apartment.)
 > M: Don't forget you are linked to sales in some respects. Give her a break. Why not ask her to lunch? Come on. We can never have enough friends, no matter how weird and wonderful they are.  
 
 ##  Dialogue 3
- Following up when you're being praised( Sylvia takes Maggie's advice and tries to get along with Annabel.)
- > S: Annabel. Hi, how are you today? Still green with envy? Ha ha!  
- > A: No, I have got over that. But maybe when I have to do a speech, you can give me a hand with it. Okay?  
- > S: I'd love to. There is no problem. So have you found your feet, yet?  
- > A: Yes, I'm doing fine. Thanks. Beijing Is certainly different to Langfang, which is after all a tiny place.  
- > S: How long were you At long branch?  
- > A: Just three months. So I haven't been in China very long. Everything is so fresh and new. So exciting.  
- > S: Are you experiencing culture shock in any way?  
- > A: A little. I had a hard time getting used to the food. Chinese food here is totally different from that in England.  
- > S: How about your Chinese? I mean, I know you speak Chinese. but are you finding it difficult?  
- > A: Well, to be honest, it turned out weirdly, not what I expected at all. Here in the office. I feel it's not too bad. No serious communication problems. But after work, communicating with the locals is pretty tough. I'm not used to such a strong accent.  
- > S: Yes, that's true. Beijinger's do have a strong accent. But you get used to it after a while. It's probably the same thing with our English, what we learned at university and what we use in everyday conversations is totally different.  
- > A: Tell you what? Let's work together on this. I'll give you a hand with your spoken English and you can help me with my everyday Chinese. I especially need to work on my beijing accent.  
+Following up when you're being praised( Sylvia takes Maggie's advice and tries to get along with Annabel.)
+> S: Annabel. Hi, how are you today? Still green with envy? Ha ha!  
+> A: No, I have got over that. But maybe when I have to do a speech, you can give me a hand with it. Okay?  
+> S: I'd love to. There is no problem. So have you found your feet, yet?  
+> A: Yes, I'm doing fine. Thanks. Beijing Is certainly different to Langfang, which is after all a tiny place.  
+> S: How long were you At long branch?  
+> A: Just three months. So I haven't been in China very long. Everything is so fresh and new. So exciting.  
+> S: Are you experiencing culture shock in any way?  
+> A: A little. I had a hard time getting used to the food. Chinese food here is totally different from that in England.  
+> S: How about your Chinese? I mean, I know you speak Chinese. but are you finding it difficult?  
+> A: Well, to be honest, it turned out weirdly, not what I expected at all. Here in the office. I feel it's not too bad. No serious communication problems. But after work, communicating with the locals is pretty tough. I'm not used to such a strong accent.  
+> S: Yes, that's true. Beijinger's do have a strong accent. But you get used to it after a while. It's probably the same thing with our English, what we learned at university and what we use in everyday conversations is totally different.  
+> A: Tell you what? Let's work together on this. I'll give you a hand with your spoken English and you can help me with my everyday Chinese. I especially need to work on my beijing accent.  
+
+# Employee Contracts
+
+## Dialogue 1
+Employee contracts. (Spring, who is a new member of staff, discusses her contract.)
+> Mr Wilson: Please come in and take a seat. Miss Feng.  
+> Spring: Thank you, sir. You wanted to discuss my contract?  
+> W: Yes, I know that our employee officer over in HR has already given you some details about your contract. But i'd like to have a chat about the main point.  
+> You mean before I sign? Go ahead.  
+> Right? Firstly, you will be paid monthly, paid directly into your bank account. You will be given one month of holiday after one year of service.  
+> Okay, great. The accounts department already had my bank details. I passed them on last time I was here.  
+> Great. Also you will be covered by our medical plan. A few sick days will be covered by the company. But any long term illness would be covered by insurance.  
+> Well, and you can see from my reference from my former boss. I didn't have many sick days.  
+> Yes, your employment record is extremely good. And because you are going to be in charge of translating Important documents, you need to be available outside office hours.  
+> Oh, I see. When exactly? Am I going to be on call 24 hours a day?  
+> No, no. We don't work you that hard. You just need to be available for two hours after normal working hours, in case there is a emergency.  
+> I see. That sounds fine. You did scare me for a minute though.
+
+## Dialogue 2
+Discussing new boss (at home in girl's apartment.)
+> Spring: Hey, lulu, how was your day?  
+> Lulu: Enough about my day. How was your day? Is the new boss a dishy American, ...tall, dark and...  
+> S: Shut up. She is old enough to be my dad. Well, uncle anyway, actually, he seems to be a really nice guy.  
+> L: That's good news. Did he go into any details about your working hours?  
+> S: Yes, he did. It's not at all bad. Not like the last company.  
+> L: See, I told you that working for a foreign company is the best.  Not that I'd Actually know. but a girl can dream. So go on. enlighten me.  
+> S: Well, He said i'd have to be available for two hours after normal working time, just in case something important came in.  
+> L: Is it all? And I guess you'll get paid for that, right? So unfair.  
+> S: I know! Get out the violins, in your company, your work and work and work and never get paid a penny of overtime.  
+> L: That's it. I'm definitely quitting now. Do they have any openings for secretaries.  
+> S: Calm down. It's only my first week, but I will check it out for you. I know how unhappy you are in your current job.  
+> L: Thanks. If you can find me something. I'll really owe you one.
+
+## Dialogue 3
+Having a chat with a Superior (Spring And Mr Wilson have a chat about company culture in the coffee shop.)
+> Mr. Wilson: So, Spring, what we like to push here is teamwork. You know there is no I in team.  
+> Spring: I agree. I think there should be a high emphasis on teamwork.  
+> W: Also, I don't want you to worry too much about formalities. We like to have a relaxed working environment.  
+> S: That's wonderful. Such a breath of fresh air. After my old job, everything was formal there. Absolutely everything. Everyone  seemed old and stuffy. Even if they were only my age.  
+> W: Well, this is definitely not the kind of environment we want to cultivate. How have your first few days been? Any problems?  
+> S: No nothing, nothing at all. I think I'm going to be happy here. And thank you so much for taking the trouble to talk to me.  
+> W: Nonsense. I'm always welcoming to new staff members. We are like a family here and get together quite often.  
+> S: So you're big on company bonding. then?  
+> W: Too true. But we don't go in for forced company bonding. If you want to join us. Do So, if you don't, then don't. No one is frowned upon. We understand some people are too busy.  
+> S: Well, that's just great. Tell me what do you usually I can't wait to join in.  
+> W: Sometimes it's pretty impromptu, Like coming down here to the coffee shop. Also, usually in the summer, we organize a getaway to a ranch just outside of Beijing. Of course the company pays. We eat and drink lots, go swimming, horse riding, that sort of thing.  
+> S: Fabulous. I'm certainly looking forward to that. I really think I'm going to enjoy working here.
