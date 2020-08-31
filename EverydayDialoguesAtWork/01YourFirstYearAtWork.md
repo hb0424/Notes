@@ -4,6 +4,8 @@
   - [Dialogue 3](#dialogue-3)
 - [Making New Friends](#making-new-friends)
   - [Dialogue 1](#dialogue-1-1)
+  - [Dialogue 2](#dialogue-2-1)
+  - [Dialogue 3](#dialogue-3-1)
 
 # Meeting and Greeting
 
@@ -68,3 +70,33 @@ Work Assignments(At a meeting during the coffee break Sylvia has a conversation 
 > S: Have you thought of implementing a training scheme? Make it compulsory, so no one can get out of it. Maybe then things will run better. Obviously, I don't really know too much about this.  
 > A: Obviously you do. That's a really good idea. I mean, the people in your area are well trained, that's easy to see from your figures.
 > S: We believe in training, in-house and ongoing. You can never learn too much, that's what I always say, whatever field you are in, we all contribute to the success of the company.
+
+## Dialogue 2
+Discussing a day's Work. (At home In the girl's apartment.)
+> Sylvia: I hope you don't mind me bothering you, but I know you studied in England and to be honest,  I feel much more comfortable talking to you than the others.  
+> Maggie: Sylvia, spit it out, You know I'm the apartment agony aunt, what seems to be the trouble?  
+> S: Well, not trouble as such. You see there's a woman I work with, Annabel. She comes from England and she's always praising me.  
+> M: Do you mean the weird one.  Who just transferred from the Langfang office.  
+> S: Yes, anyway, she's not weird really. Just she hasn't been in China very long. And this is her first job here.  
+> M: And.  
+> S: She makes me uncomfortable. That's all. She's always praising me. And I don't really know why.  
+> M: Did it ever occur to you that she likes you. Maybe she just wants someone to chat to.  
+> S: Likes me. But why? I am nothing special. Why doesn't she pick on the others?  
+> M: As you said, she is new here and you are kind of shy, but still Very approachable. Maybe she doesn't have many friends. I think it's just her way of being nice and friendly.  
+> S: Do you really think so? I never thought of that. I mean, we aren't even really in the same department. Her job is more concerned with sales.  
+> M: Don't forget you are linked to sales in some respects. Give her a break. Why not ask her to lunch? Come on. We can never have enough friends, no matter how weird and wonderful they are.  
+
+##  Dialogue 3
+ Following up when you're being praised( Sylvia takes Maggie's advice and tries to get along with Annabel.)
+ > S: Annabel. Hi, how are you today? Still green with envy? Ha ha!  
+ > A: No, I have got over that. But maybe when I have to do a speech, you can give me a hand with it. Okay?  
+ > S: I'd love to. There is no problem. So have you found your feet, yet?  
+ > A: Yes, I'm doing fine. Thanks. Beijing Is certainly different to Langfang, which is after all a tiny place.  
+ > S: How long were you At long branch?  
+ > A: Just three months. So I haven't been in China very long. Everything is so fresh and new. So exciting.  
+ > S: Are you experiencing culture shock in any way?  
+ > A: A little. I had a hard time getting used to the food. Chinese food here is totally different from that in England.  
+ > S: How about your Chinese? I mean, I know you speak Chinese. but are you finding it difficult?  
+ > A: Well, to be honest, it turned out weirdly, not what I expected at all. Here in the office. I feel it's not too bad. No serious communication problems. But after work, communicating with the locals is pretty tough. I'm not used to such a strong accent.  
+ > S: Yes, that's true. Beijinger's do have a strong accent. But you get used to it after a while. It's probably the same thing with our English, what we learned at university and what we use in everyday conversations is totally different.  
+ > A: Tell you what? Let's work together on this. I'll give you a hand with your spoken English and you can help me with my everyday Chinese. I especially need to work on my beijing accent.  
