@@ -90,4 +90,29 @@ Could you  put me through to Mr Atkins, please?
 I was hoping to speak to Mr Atkins, please.  
 Does he know what this is regarding?  
 he is expecting my call.  
-  
+Bet you have a big date or something ... or maybe a facial...    
+We need to go over the final details.   
+As if I haven't told you them a million times already....  
+He is out of office  
+You could try on your way to the airport tomorrow.  
+Have you considered Amy?  
+She is older and more experenced.  
+Your flight is due in at 6 pm.   
+I've made a note of everything.  
+We are going to be very busy after you seal the deal.  
+Don't even ask  
+he is just so infuriating.  
+try to calm down  
+The one you have been planning for him for ages?   
+But you sorted this entire thing out for him long ago, didn't you?  
+But he just doesn't seem to think I'm capable of doing anything.He couldn't function without you.  
+Now I know how Mr wu is hard to deal with, I used to be below him so I know how he treats women. 
+I have no complaints.  
+Pull the other one! I don't like dishonesty.  
+Go on dear, let it all out.  
+I don't particularly enjoy working with him.I guarantee things will be better around here.  
+There is a big pile of photocopying.
+I think one of the general assistants can handle that, don't you?  
+Let's go down to the coffee shop and get to know one another a little better.  
+I could kill for a coffee and a cake.  
+Dealing with Criticism. Expect it, Examine it, Endure it.
