@@ -68,5 +68,26 @@ No one is frowned upon.
 Sometimes it's pretty impromptu,  
 we organize a getaway to a ranch just outside of Beijing.  
 Fabulous. I'm certainly looking forward to that.  
-
+Most people we deal with here are foreigners.
+Do you have any special rules here for making phone calls in English?
+You mean like etiqutte? Yes, there are some guidelines. But they aren't set in stone.
+We should always begin with a salutation, like "What's up?".
+I think "What's up?" is a little too informal.
+How silly of me.
+It is acceptable to say either Mr Shi or Hans Shi.
+if you are not professional on the phone, or sound unenthusiastic or indifferent, they won't want to deal with you.
+They may just hang-up on you.
+I had better start practicing. I never realised the style of a phone call could be so important.
+I siscovered i suck on the phone.
+You are always chatting on the phone to your mates.
+No i mean at work. Apparently, I have been making some big mistakes.
+It turns out that I'm not polite enough.
+Over at the bank we have to be incredibly polite.
+You are trying to break into the foreign market, aren't you?
+That's basically how my colleague put it. I think i need to brush up on my phone etiqutte.
+They are tricky to deal with. You just have to remember to bow and be super polite.
+Could you  put me through to Mr Atkins, please?
+I was hoping to speak to Mr Atkins, please.
+Does he know what this is regarding?
+he is expecting my call.
 
