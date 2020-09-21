@@ -1,5 +1,5 @@
-Yes ,today's my first day, I was transfered from the Shanghai ofice.    
-we are in top-notch condition at the moment. I like to think that's partly my influence!    
+Yes ,today's my first day, I was transfered from the Shanghai ofice.    <br/>
+we are in top-notch condition at the moment. I like to think that's partly my influence!    <br/>
 I did hear there had been some lay-offs.     
 I started off in the Shenzhen office about 6 years ago    
 I always know what you mean. I don't mean in that way, besides, she's older than me.    
@@ -115,4 +115,5 @@ There is a big pile of photocopying.
 I think one of the general assistants can handle that, don't you?  
 Let's go down to the coffee shop and get to know one another a little better.  
 I could kill for a coffee and a cake.  
-Dealing with Criticism. Expect it, Examine it, Endure it.
+Dealing with Criticism. Expect it, Examine it, Endure it.  
+Most of them here have lots of wacky names.  
