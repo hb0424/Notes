@@ -68,6 +68,7 @@ No one is frowned upon.
 Sometimes it's pretty impromptu,    
 we organize a getaway to a ranch just outside of Beijing.    
 Fabulous. I'm certainly looking forward to that.    
+  
 Most people we deal with here are foreigners.  
 Do you have any special rules here for making phone calls in English?  
 You mean like etiqutte? Yes, there are some guidelines. But they aren't set in stone.  
@@ -106,14 +107,62 @@ try to calm down
 The one you have been planning for him for ages?   
 But you sorted this entire thing out for him long ago, didn't you?  
 But he just doesn't seem to think I'm capable of doing anything.He couldn't function without you.  
-Now I know how Mr wu is hard to deal with, I used to be below him so I know how he treats women. 
+Now I know how Mr wu is hard to deal with, I used to be below him so I know how he treats women.   
 I have no complaints.  
 Pull the other one! I don't like dishonesty.  
 Go on dear, let it all out.  
 I don't particularly enjoy working with him.I guarantee things will be better around here.  
-There is a big pile of photocopying.
+There is a big pile of photocopying.  
 I think one of the general assistants can handle that, don't you?  
 Let's go down to the coffee shop and get to know one another a little better.  
 I could kill for a coffee and a cake.  
+    
 Dealing with Criticism. Expect it, Examine it, Endure it.  
-Most of them here have lots of wacky names.  
+Most of them here have lots of wacky names.   
+I can assure you sir; I put my all into that project.  
+My ideas will be beneficial to this company.  
+Do i not work hard enough to help keep this company right up there with its foreign counterparts?  
+Your idea for the S60 was totally outdated.  
+We want off-the-wall and out of the box ideas. That's the only way we can compete with the competers.   
+I appreciate you letting me know and i will try my best to please you in all of my future projects.  
+
+Didn't he give you any indication what was up with him?  
+You spent ages getting that done.  
+apparently, you could loosen up a little.  
+Don't be so paranoid about everything.  
+Maybe your boos is looking for a little creativity, that's all.  
+  
+He criticsised me, big time. I mean, he really attacked me. It made me really take a look at myself.  
+He said i act like an old man.  
+I have gone through it with my house mate.  
+I really need to do something about it.  
+What exactly did you do.  
+Just take his ideas on board and do your best to adjust.  
+  
+Do a spot of shopping?  
+Anyway, today's schedule?  
+It's a wonderful way of keeping in shape.  
+A dancing school just opened downstairs.  
+I would like it if you could attend too.
+He has a thing about of young, beautiful girls.  
+Maybe you could help us to make the meeting go more smoothly.  
+Cancel all of my afternoon appointments.  
+I shall be in no fit state to do bussiness with anyone after lunch.  
+   
+It does tend to happen a lot.  
+It's not really appropriate, is it?  
+I really don't know how far he plans to take it. I don't know what he'll do next.  
+He soes tend to stare.
+As far as I know ...  
+Maybe it's more intense with you.  
+  
+What's your opinion on sexual harassment in the workplace?  
+That would be the last stage.  
+A man doesn't have to actually touch you for it to mean sexual harassment.  
+What if it wasn't totally sexual.  
+The drinking thing is commonplace.  
+He made it seem like I was the eye candy that could help him seal the deal.  
+have you talked to your office counsellor? Maybe she can give you some advice on how to handle this situation.  
+I am scared to mention it any of the big bosses.
+I've heard about girls getting fired for causing a fuss.  
+You could probably sue the guy and never have to work again.
