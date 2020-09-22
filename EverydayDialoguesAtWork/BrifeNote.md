@@ -163,6 +163,6 @@ What if it wasn't totally sexual.
 The drinking thing is commonplace.  
 He made it seem like I was the eye candy that could help him seal the deal.  
 have you talked to your office counsellor? Maybe she can give you some advice on how to handle this situation.  
-I am scared to mention it any of the big bosses.
+I am scared to mention it any of the big bosses.  
 I've heard about girls getting fired for causing a fuss.  
-You could probably sue the guy and never have to work again.
+You could probably sue the guy and never have to work again.  
