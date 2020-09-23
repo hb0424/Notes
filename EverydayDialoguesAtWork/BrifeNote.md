@@ -163,6 +163,25 @@ What if it wasn't totally sexual.
 The drinking thing is commonplace.  
 He made it seem like I was the eye candy that could help him seal the deal.  
 have you talked to your office counsellor? Maybe she can give you some advice on how to handle this situation.  
-I am scared to mention it any of the big bosses.  
+I am scared to mention it to any of the big bosses.  
 I've heard about girls getting fired for causing a fuss.  
 You could probably sue the guy and never have to work again.  
+  
+Why are you so accident-prone?  
+I can barely read this now.  
+We could dry it off.  
+I'll square it with him.   
+I did not do this on purpose.  
+I'm just stressed out.  
+This could really affect me and my standing in this office.  
+I don't need anything else going against me at the moment.  
+   
+I'm kind of busy right now, can't it wait?  
+They are faxed copies.  
+I spilt it on them.  
+Do you think i would trust Ding with the originals?  
+It's all sorted out.  
+  
+It would be better to hang on to them himself to save damage control.  
+I need something in return.  
+The amount you eat, it should pay you back more than enough.  
