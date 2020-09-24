@@ -185,3 +185,29 @@ It's all sorted out.
 It would be better to hang on to them himself to save damage control.  
 I need something in return.  
 The amount you eat, it should pay you back more than enough.  
+  
+What's there to complain about?  
+Do we really need to make such a fuss?  
+It is a chance for all of us to let our hair down.  
+That girl from admin.  
+People taunted her so much afterwards she quit her job.  
+That's a isolated incident.  
+What's the need to get so drunk?  
+I'll go over and got you one.  
+There's free vodka over there, why not top it up with some of that? You really need to chill out.  
+  
+I don't think relationships in the office are a good idea, it just complicates thins.  
+I've got a confession for you.  
+I'm lost for words.  
+  
+It sure is nice to see everyone having a good time, We all deserve it, after all.  
+We had a great year so far, let's hope it can continue into Q3.  
+Here's so annihilating the opposition.  
+It would do him good to get a little tipsy.  
+He'll end up having a quick kiss in the storage cupboard.  
+I wouldn't count on it.  
+Since we have introduced the various other perks to the staff they all seems happier and to be working more effectively.  
+See if we can stretch to it.  
+It improves morale.  
+I'm all for it.  
+I haven't been able to get a word in edgeways.  
