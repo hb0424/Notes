@@ -211,3 +211,19 @@ See if we can stretch to it.
 It improves morale.  
 I'm all for it.  
 I haven't been able to get a word in edgeways.  
+  
+he's always up for trying something new.  
+get it all arranged.  
+I'm starving.  
+here's your burger and fries.  
+Excellent idea.  
+I ownd four days of paid holiday and if i don't take it before next month, I'll lose it.  
+what a coincidence.  
+He wants to book a long weekend off around the middle of the month, does that suit you?  
+the weather's glorious.  
+I picked up some instant noodles and kimchi.  
+I can't be bothered to cook, it's been mental at the office.  
+A few days off would be bliss. Just lazing around the house, not thinking about figures....  
+The course is really well organised and taught by qualified instructors.  
+he can't possibly say no.  
+I can tie that in with a visit to a factory pretty nearby, i am meant to be doing an inspection of it.
