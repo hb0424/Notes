@@ -226,4 +226,20 @@ I can't be bothered to cook, it's been mental at the office.
 A few days off would be bliss. Just lazing around the house, not thinking about figures....  
 The course is really well organised and taught by qualified instructors.  
 he can't possibly say no.  
-I can tie that in with a visit to a factory pretty nearby, i am meant to be doing an inspection of it.
+I can tie that in with a visit to a factory pretty nearby, i am meant to be doing an inspection of it.  
+  
+instead of sneaking around at work.  
+I am sure he won't let anything slip.  
+I didn't know you could get Western food to this standard in Beijing.  
+  
+decent  
+Keep it down! do you want the whole canteen to know?  
+it's totally against my principles to date someone from your workplace.   
+have you  checked the company handbook?  
+some companies don't allow workmates to date each other.  
+even if there is a rule forbidding it, I think i may just have to ignore it.  
+  
+I am over the moon.  
+I think i have fallen for him.  
+it's like we were meant to together.     you mean destiny?  
+I didn't even ask to be transferred to this branch.   
