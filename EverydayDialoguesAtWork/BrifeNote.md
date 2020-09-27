@@ -243,3 +243,19 @@ I am over the moon.
 I think i have fallen for him.  
 it's like we were meant to together.     you mean destiny?  
 I didn't even ask to be transferred to this branch.   
+  
+I heard rumours that ...  
+Let me get a word in edgeways  
+Keep your voice down.  
+He's been dating Tiina from PR.  
+Get out of here.  
+  
+I hear he may get a promotion soon.  
+He went to the supplies cupboard.  
+Why would he be with Tiina?  
+a little bird told me something very interesting ...  
+  
+you look like you've seen a ghost.  
+the office gossip?  Is she spreading abnormal rumours again.  
+I'm afraid it's a little more serious than out-of-date food.  
+
