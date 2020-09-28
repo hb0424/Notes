@@ -258,4 +258,36 @@ a little bird told me something very interesting ...
 you look like you've seen a ghost.  
 the office gossip?  Is she spreading abnormal rumours again.  
 I'm afraid it's a little more serious than out-of-date food.  
-
+  
+It's good of you to come to see me at such short notice.  
+We've been hearing about a rather large increase in customre complaints.  
+I am aware of the situation and I'm doing my best to remedy it.  
+It would be unthinkable to lose them.  
+I have noticed some negative activity in our accounts.    
+We have always been so pro-active with out customer.  
+The problem seems to stem from out new manufacturer.  
+We had to cut costs and they offered us an excellent deal.  
+Is the quality too low or not consistent....  
+In my opinion, we should stop using the new manufacturer and go back to our former one.  
+customer loyalty.  
+   
+I told you we had been struggling with a massive influx of customer complaints.  
+Teh fact that you were trying to cover them up.  
+Did you ever sort out what was the causing the problem?  
+We didn't want to go down the road of voluntary redundancies.  
+I thought you have sweet deal, saving loads on your last contract.  
+The product ends up being cheap and nasty.  
+you did a fine job covering it up as long as did.  
+We are going to find a way to dissolve the contract.  
+  
+Let me begin by apologising to you.  
+We hate to lose your trade.  
+Your products have become inferior, you cannot be competitive anymore.  
+we haven't raised our prices for 3 years.  
+But, at what cost? Your prices may not have gone up, but the quality of your merchandise has certainly dropped.  
+We are doing everything in our power to correct these deficiencies.  
+have you now found a more suitale supplier?  
+our problems have been passed on.  
+for old time's sake, i would like to continue, but i have some requirements.  
+Go ahead. We will do our utmost to accommodate you.  
+I have been considering lowering our usual monthly quota.  
