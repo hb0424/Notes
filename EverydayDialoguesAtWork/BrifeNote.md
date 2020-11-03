@@ -291,3 +291,42 @@ our problems have been passed on.
 for old time's sake, i would like to continue, but i have some requirements.  
 Go ahead. We will do our utmost to accommodate you.  
 I have been considering lowering our usual monthly quota.  
+
+
+I have never handled such a big and important client before.  
+That gives you plenty of time to plan, calm down.   
+I've schmoozed before, but not on such a high level.  
+There is a seafood restaurant in one of the 5 start hotels in the CBD.  
+I have taken big clients there before, and it's a good venue.  
+I am told it has excellent foot, service and a great atmosphere.  
+Big clients are really professional in the way they do business.  
+You need to make a good impression.  
+The anticipation is awful.  
+no confidential info to be discussed during dinner.  
+Be sure to put it all on the company expense account.  
+
+
+
+It might be nice for you to try some Northern style for a change.  
+I am sure it will be delightful.  
+First things first.  
+You have certainly made this deal go smoothly.  
+I will certainly be recommending you to some of my acquaintances, try to drum up a bit more business for you.  
+Tonight we celebrate our new relationship! I think a bottle of this red wine would be very nice indeed.  
+Yes, a good choice I'm sure.  
+I can fully recommend the fresh seafood platter. It's their specialty.  
+
+
+I am glad you are still up.  
+Are you a little drunk? Your eyes are all shiny and your skin is blotchy.  
+The dinner was a major success.  
+How did you pull it off?  
+I have discovered I can schmooze.  
+Drinking is involved.  
+When I relaxed I really got into it.  
+That's refreshing, you are usually to uptight.  
+He would recommend me to some people he knows.  
+From this one dinner, I could have gained loads more contracts and potential customers.  
+It was a fabulous suggestion.  
+Nonsense, I'm happy to help in any way I can.  
+Wining and dining is an art form.  
