@@ -6,13 +6,13 @@ Windows Path: %ORACLE_HOME%\DATABASE
 Linux Path: $ORACLE_HOME/dbs  
 spefic pfile when start up oracle instance: pfile=filepath  
 convert PFILE to SPFILE: `Create spfile`
-conver SPFILE to PFILE: `CREATE PFILE ... FROM SPFILE`
+conver SPFILE to PFILE: `CREATE PFILE ... FROM SPFILE`  
 ALTER SYSTEM command can modify SPFILE only. and only ALTER SYSTEM command can modify SPFILE.
 #### 查看参数
-`SELECT value FROM "GV$PARAMETER" WHERE name = 'db_block_size';`  
-`SELECT name, value FROM "GV$PARAMETER";`  
-`show PARAMETER db_block_size;`  
-`show parameter spfile;`
+`SELECT value FROM "GV$PARAMETER" WHERE name = 'db_block_size';  
+SELECT name, value FROM "GV$PARAMETER";  
+show PARAMETER db_block_size;  
+show parameter spfile;`  
 #### 设置SPFILE中的参数值
 `Alter system set parameter=value <commnet='text'> <deferred> <scope=memory|spfile|both> <sid='sid|*'> <container=current|all>`  
 deffered: become effective for the session later, not effective for current session  
