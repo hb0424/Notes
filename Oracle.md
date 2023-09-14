@@ -14,3 +14,6 @@ show PARAMETER db_block_size;
 show parameter spfile;
 #### 设置SPFILE中的参数值
 Alter system set parameter=value <commnet='text'> <deferred> <scope=memory|spfile|both> <sid='sid|*'> <container=current|all>  
+deffered: become effective for the session later, not effective for current session  
+    The parameter must to be deferred:  
+    SELECT name, value, ISSYS_MODIFIABLE FROM "GV$PARAMETER" WHERE ISSYS_MODIFIABLE = 'DEFERRED';  
