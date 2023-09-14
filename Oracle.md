@@ -6,6 +6,7 @@ Windows Path: %ORACLE_HOME%\DATABASE
 Linux Path: $ORACLE_HOME/dbs  
 spefic pfile when start up oracle instance: pfile=filepath  
 convert PFILE to SPFILE: Create spfile
+conver SPFILE to PFILE: CREATE PFILE ... FROM SPFILE
 ALTER SYSTEM command can modify SPFILE only. and only ALTER SYSTEM command can modify SPFILE.
 #### 查看参数
 SELECT value FROM "GV$PARAMETER" WHERE name = 'db_block_size';  
